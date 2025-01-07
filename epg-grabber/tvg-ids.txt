@@ -231,6 +231,8 @@ ROCKENTERTAINMENT.ph
 Rock.Extreme.ph
 Tapactionflix.Hd.ph
 TAPACTIONFLIX.ph
+Tap.Edge.ph
+TAPEDGE.ph
 Tapmovies.Hd.ph
 TAPMOVIES.ph
 Tap.Sports.ph
