@@ -207,6 +207,9 @@ Premier.Sports.Rugby.my
 SPOTV2.my
 SPOTV.my
 ANIMAX.ph
+BLASTACTION.ph
+BLASTCINEMA.ph
+BLASTFC.ph
 CARTOON.NETWORK.HD.ph
 CARTOON.NETWORK.ph
 Cinemax.ph
@@ -218,6 +221,7 @@ Cg.Hbosign.ph
 Cg.Hitsnow.ph
 Axn.ph
 AXN.ph
+DA.VINCI.KIDS.ph
 Warnertv.Hd.ph
 Hits.Hd.ph
 Hits.Movies.ph
