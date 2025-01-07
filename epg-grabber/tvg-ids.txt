@@ -337,6 +337,7 @@ Channel.5.HD.uk
 Channel.5.uk
 Film4.HD.uk
 More4.HD.uk
+MUTV.HD.uk
 NickelodeonHD.uk
 Nick.Jr..HD.uk
 Nick.Jr..Too.uk
@@ -384,3 +385,8 @@ Fox.Sports.2.us
 SkyNews.au
 France.24.Anglais.fr
 DW.(Europe).de
+Motorvision+.de
+Motorvision.TV.de
+Canal.ESPN.2.(Bolivia).ar
+Canal.ESPN.3.(Argentina).ar
+Canal.ESPN.(Argentina).ar
