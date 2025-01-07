@@ -68,6 +68,10 @@ urls = [
     'https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz',
     'https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz',
     'https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz', 
+    'https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz', 
+    'https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz', 
+    'https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz', 
+    'https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz', 
 ]
 
 if __name__ == "__main__":
