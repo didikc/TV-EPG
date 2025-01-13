@@ -396,3 +396,4 @@ Motorvision.TV.de
 Canal.ESPN.2.(Bolivia).ar
 Canal.ESPN.3.(Argentina).ar
 Canal.ESPN.(Argentina).ar
+Rally.TV.de
