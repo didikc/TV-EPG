@@ -63,7 +63,6 @@ Fight.Sports.id
 FMN.id
 FOX.News.id
 France.24.English.id
-GAJAHMADA.id
 Galaxy.id
 Galaxy.Premium.id
 Global.Trekker.id
