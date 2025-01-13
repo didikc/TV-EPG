@@ -11,7 +11,6 @@ Arirang.id
 Asian.Food.Network.HD.id
 AXN.HD.id
 AXN.id
-Bahana.FM.id
 BBC.Earth.HD.id
 BBC.Earth.id
 BBC.World.News.id
@@ -44,11 +43,6 @@ Cinemax.HD.id
 CNBC.id
 CNN.International.HD.id
 Crime.Investigation.id
-CTV.1.id
-CTV.2.id
-CTV.3.id
-CTV.5.id
-CTV.6.id
 DAAI.TV.id
 Discovery.Channel.HD.id
 Dreamworks.id
@@ -57,7 +51,6 @@ Entertainment.id
 Euro.News.id
 EURONEWS.id
 Fashion.TV.-.Global.id
-FashionTV.Lâ€™Original.id
 Fashion.TV.Midnight.Secrets.id
 Fight.Sports.id
 FMN.id
