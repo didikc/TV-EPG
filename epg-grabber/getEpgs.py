@@ -60,18 +60,7 @@ def filter_and_build_epg(urls):
         print(f"New EPG saved to {output_file_gz}")
 
 urls = [
-    'https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz',
-    'https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz',
-    'https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz',
-    'https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz',  
-    'https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz', 
-    'https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz',
-    'https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz',
-    'https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz', 
-    'https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz', 
     'https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz', 
-    'https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz', 
-    'https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz', 
     'https://epgshare01.online/epgshare01/epg_ripper_RALLY_TV1.xml.gz',
 ]
 
