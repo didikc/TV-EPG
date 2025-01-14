@@ -61,6 +61,7 @@ def filter_and_build_epg(urls):
 
 urls = [
     'https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz', 
+    'https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz',
     'https://epgshare01.online/epgshare01/epg_ripper_RALLY_TV1.xml.gz',
 ]
 
