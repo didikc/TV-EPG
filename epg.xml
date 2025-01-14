@@ -3572,6 +3572,2555 @@
     <icon src="https://images.tvtoday.de/itv/2025-01-16/6177d8d78189652ccb4a40e9_780.jpg" />
     <country lang="de">GB</country>
   </programme>
+  <channel id="plex.tv.Top.Gear.plex">
+    <display-name lang="en">Top Gear</display-name>
+    <icon src="https://image.tmdb.org/t/p/original/aqM6QnuhSXzjHlKbXyKUqxaGiWu.jpg" />
+    <icon src="https://image.tmdb.org/t/p/original/aqM6QnuhSXzjHlKbXyKUqxaGiWu.jpg" />
+    <url>http://www.plex.tv</url>
+  </channel>
+  <channel id="plex.tv.Fifth.Gear.(UK).plex">
+    <display-name lang="en">Fifth Gear (UK)</display-name>
+    <icon src="https://image.tmdb.org/t/p/original/yAxMzWGCuQI1adyPOGNefZHLOIy.jpg" />
+    <icon src="https://image.tmdb.org/t/p/original/yAxMzWGCuQI1adyPOGNefZHLOIy.jpg" />
+    <url>http://www.plex.tv</url>
+  </channel>
+  <programme start="20250114010900 +0000" stop="20250114021900 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK</title>
+    <desc lang="en">Jeremy Clarkson gets chased by the British Army in some of their most deadly toys. Contains Strong Language.</desc>
+    <date>2009</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/42edee8d6f8dd101a8bb28a8a5ce7b45.jpg" />
+    <episode-num system="onscreen">S13 E4</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250114021900 +0000" stop="20250114032900 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK</title>
+    <desc lang="en">The lads somehow find themselves entered in a terrifying French ice race. Contains Strong Language.</desc>
+    <date>2009</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/42edee8d6f8dd101a8bb28a8a5ce7b45.jpg" />
+    <episode-num system="onscreen">S13 E5</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250114032900 +0000" stop="20250114043900 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK</title>
+    <desc lang="en">Are classic cars really more fun than our modern ones? Contains Strong Language.</desc>
+    <date>2009</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/42edee8d6f8dd101a8bb28a8a5ce7b45.jpg" />
+    <episode-num system="onscreen">S13 E6</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250114043900 +0000" stop="20250114054800 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK</title>
+    <desc lang="en">Jeremy Clarkson and James May are tasked with creating a memorable car commercial.</desc>
+    <date>2009</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/42edee8d6f8dd101a8bb28a8a5ce7b45.jpg" />
+    <episode-num system="onscreen">S13 E7</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20250114054800 +0000" stop="20250114065900 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK</title>
+    <desc lang="en">Contains discriminatory language. The boys take an Aston Martin DBS Volante to Romania.</desc>
+    <date>2009</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/42edee8d6f8dd101a8bb28a8a5ce7b45.jpg" />
+    <episode-num system="onscreen">S14 E1</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250114065900 +0000" stop="20250114081000 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK</title>
+    <desc lang="en">Jeremy, Richard and James attempt to save the planet by building their own electric car.</desc>
+    <date>2009</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/42edee8d6f8dd101a8bb28a8a5ce7b45.jpg" />
+    <episode-num system="onscreen">S14 E2</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250114081000 +0000" stop="20250114092200 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK</title>
+    <desc lang="en">Jeremy and Richard settle the thorny issue of which company has made the greatest number of cars.</desc>
+    <date>2009</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/42edee8d6f8dd101a8bb28a8a5ce7b45.jpg" />
+    <episode-num system="onscreen">S14 E3</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250114092200 +0000" stop="20250114103100 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK</title>
+    <desc lang="en">Richard investigates ways to speed up your next summer holiday and James tests the new Vauxhall Insignia VXR.</desc>
+    <date>2009</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/42edee8d6f8dd101a8bb28a8a5ce7b45.jpg" />
+    <episode-num system="onscreen">S14 E4</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250114103100 +0000" stop="20250114114000 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK</title>
+    <desc lang="en">The boys attempt to prove that cars can be art by taking over an entire art gallery in Middlesbrough.</desc>
+    <date>2009</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/42edee8d6f8dd101a8bb28a8a5ce7b45.jpg" />
+    <episode-num system="onscreen">S14 E5</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250114114000 +0000" stop="20250114130900 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK</title>
+    <sub-title lang="en">Bolivia Special</sub-title>
+    <desc lang="en">Clarkson, Hammond and May are dropped deep in the Bolivian rainforest armed only with three shabby 4x4s.</desc>
+    <date>2009</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/42edee8d6f8dd101a8bb28a8a5ce7b45.jpg" />
+    <episode-num system="onscreen">S14 E6</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20250114130900 +0000" stop="20250114142000 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK</title>
+    <desc lang="en">Jeremy makes a film about the BMW X6 and James drives the new Vauxhall Insignia VXR.</desc>
+    <date>2010</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/42edee8d6f8dd101a8bb28a8a5ce7b45.jpg" />
+    <episode-num system="onscreen">S14 E7</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250114142000 +0000" stop="20250114153200 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK</title>
+    <desc lang="en">James May attempts to drive the Toyota Hilux up an active volcano in Iceland. Contains Strong Language.</desc>
+    <date>2010</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/42edee8d6f8dd101a8bb28a8a5ce7b45.jpg" />
+    <episode-num system="onscreen">S15 E1</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250114153200 +0000" stop="20250114164300 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK</title>
+    <desc lang="en">The Top Gear team travel to Germany to put a trio of cars through their paces. Contains Strong Language.</desc>
+    <date>2010</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/42edee8d6f8dd101a8bb28a8a5ce7b45.jpg" />
+    <episode-num system="onscreen">S15 E2</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250114164300 +0000" stop="20250114175500 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK</title>
+    <desc lang="en">The presenters attempt to find the world's greatest four seater supercar. Contains Strong Language.</desc>
+    <date>2010</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/42edee8d6f8dd101a8bb28a8a5ce7b45.jpg" />
+    <episode-num system="onscreen">S15 E3</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20250114175500 +0000" stop="20250114190500 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK</title>
+    <desc lang="en">As the bank holiday approaches, the boys attempt to redesign the standard motorhome. Contains Strong Language.</desc>
+    <date>2010</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/42edee8d6f8dd101a8bb28a8a5ce7b45.jpg" />
+    <episode-num system="onscreen">S15 E4</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250114190500 +0000" stop="20250114200000 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK</title>
+    <desc lang="en">Tom Cruise and Cameron Diaz take their turn in the Reasonably Priced Car. Contains Strong Language.</desc>
+    <date>2010</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/42edee8d6f8dd101a8bb28a8a5ce7b45.jpg" />
+    <episode-num system="onscreen">S15 E5</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250114200000 +0000" stop="20250114210900 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK</title>
+    <desc lang="en">Clarkson, Hammond and May take a journey through Britain's sports car industry. Contains Strong Language.</desc>
+    <date>2010</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/42edee8d6f8dd101a8bb28a8a5ce7b45.jpg" />
+    <episode-num system="onscreen">S15 E6</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250114210900 +0000" stop="20250114222600 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK</title>
+    <sub-title lang="en">East Coast Road Trip</sub-title>
+    <desc lang="en">The Top Gear boys embark on an epic road trip up the east coast of the USA. Contains Strong Language.</desc>
+    <date>2010</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/42edee8d6f8dd101a8bb28a8a5ce7b45.jpg" />
+    <episode-num system="onscreen">S15 E7</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250114222600 +0000" stop="20250114233700 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK</title>
+    <desc lang="en">James May makes a rare visit to the test track in the insane Aerial Atom V8. Contains Strong Language.</desc>
+    <date>2011</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/42edee8d6f8dd101a8bb28a8a5ce7b45.jpg" />
+    <episode-num system="onscreen">S16 E2</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250114233700 +0000" stop="20250115004500 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK</title>
+    <desc lang="en">The team go against their Australian counterparts. Contains Strong Language.</desc>
+    <date>2011</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/42edee8d6f8dd101a8bb28a8a5ce7b45.jpg" />
+    <episode-num system="onscreen">S16 E3</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250115004500 +0000" stop="20250115015400 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK</title>
+    <desc lang="en">Jeremy, Richard and James head to Albania to test a trio of super luxurious cars. Contains Strong Language.</desc>
+    <date>2011</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/42edee8d6f8dd101a8bb28a8a5ce7b45.jpg" />
+    <episode-num system="onscreen">S16 E4</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250115015400 +0000" stop="20250115030500 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK</title>
+    <desc lang="en">Jeremy Clarkson takes the insanely powerful Pagani Zonda R out on the test track. Contains Strong Language.</desc>
+    <date>2011</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/42edee8d6f8dd101a8bb28a8a5ce7b45.jpg" />
+    <episode-num system="onscreen">S16 E5</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250115030500 +0000" stop="20250115041300 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK</title>
+    <desc lang="en">The presenters battle the chaos and misery that snowfall brings to Britain. Contains Strong Language.</desc>
+    <date>2011</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/42edee8d6f8dd101a8bb28a8a5ce7b45.jpg" />
+    <episode-num system="onscreen">S16 E6</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250115041300 +0000" stop="20250115052300 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK</title>
+    <desc lang="en">Jeremy Clarkson races the Jaguar XJ against the rotation of the Earth itself. Contains Strong Language.</desc>
+    <date>2011</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/42edee8d6f8dd101a8bb28a8a5ce7b45.jpg" />
+    <episode-num system="onscreen">S16 E7</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250115052300 +0000" stop="20250115063400 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK</title>
+    <desc lang="en">Richard tests an alternative to the Hummer. Contains Strong Language.</desc>
+    <date>2011</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/42edee8d6f8dd101a8bb28a8a5ce7b45.jpg" />
+    <episode-num system="onscreen">S17 E1</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250115063400 +0000" stop="20250115074700 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK</title>
+    <desc lang="en">The boys argue their way around Italy as they attempt to find the best hatchback. Contains Strong Language.</desc>
+    <date>2011</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/42edee8d6f8dd101a8bb28a8a5ce7b45.jpg" />
+    <episode-num system="onscreen">S17 E2</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250115074700 +0000" stop="20250115085800 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK</title>
+    <desc lang="en">Can you drive from Switzerland to the coast of England on just one tank of gas? Contains Strong Language.</desc>
+    <date>2008</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/42edee8d6f8dd101a8bb28a8a5ce7b45.jpg" />
+    <episode-num system="onscreen">S12 E4</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250115085800 +0000" stop="20250115100500 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK</title>
+    <desc lang="en">Jeremy tests the new BMW M3 against a young pretender from Japan, the Lexus IS-F. Contains Strong Language.</desc>
+    <date>2008</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/42edee8d6f8dd101a8bb28a8a5ce7b45.jpg" />
+    <episode-num system="onscreen">S12 E5</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250115100500 +0000" stop="20250115110000 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear: Winter Blunderland</title>
+    <desc lang="en">Jeremy Clarkson, Richard Hammond and James May present their best winter themed challenges - Part 1.</desc>
+    <date>2019</date>
+    <category lang="en">Reality</category>
+    <icon src="https://d2i0hcnfudruct.cloudfront.net/BBCTopGear/BBCS_TopGear_S001_Ep001_EPID-162403_SnapshotEpisode_LANG-None_co3gc5qwxw.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250115110000 +0000" stop="20250115115600 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear: Winter Blunderland</title>
+    <desc lang="en">Jeremy Clarkson, Richard Hammond and James May present their best winter themed challenges - Part 1.</desc>
+    <date>2019</date>
+    <category lang="en">Reality</category>
+    <icon src="https://d2i0hcnfudruct.cloudfront.net/BBCTopGear/BBCS_TopGear_S001_Ep001_EPID-162403_SnapshotEpisode_LANG-None_co3gc5qwxw.jpg" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250115115600 +0000" stop="20250115125500 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear: Winter Blunderland</title>
+    <desc lang="en">Jeremy Clarkson, Richard Hammond and James May present their best winter themed challenges - Part 1.</desc>
+    <date>2019</date>
+    <category lang="en">Reality</category>
+    <icon src="https://d2i0hcnfudruct.cloudfront.net/BBCTopGear/BBCS_TopGear_S001_Ep001_EPID-162403_SnapshotEpisode_LANG-None_co3gc5qwxw.jpg" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250115125500 +0000" stop="20250115140400 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK: Winter Olympics Special</title>
+    <sub-title lang="en">Winter Olympics Special</sub-title>
+    <desc lang="en">The team hit Norway and attempt winter Olympic events, but with cars.</desc>
+    <date>2006</date>
+    <category lang="en">Reality</category>
+    <icon src="https://d2i0hcnfudruct.cloudfront.net/BBCTopGear/BBCS_TopGear_S001_Ep001_EPID-88914_SnapshotEpisode_LANG-None_y6isxy5li3.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250115140400 +0000" stop="20250115151600 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK: Patagonia Special</title>
+    <desc lang="en">The lads take V8-engined sports cars on a gruelling journey through the spectacular landscapes of Patagonia.</desc>
+    <date>2014</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/e/gracenote/edc1a1023cba9bfa6c8f3fbd8ce93082.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250115151600 +0000" stop="20250115162900 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK: Patagonia Special</title>
+    <desc lang="en">The team continue their quest to take three V8-engined sports cars on an epic journey.</desc>
+    <date>2014</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/e/gracenote/edc1a1023cba9bfa6c8f3fbd8ce93082.jpg" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250115162900 +0000" stop="20250115173200 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK: Polar Special</title>
+    <sub-title lang="en">Polar Special</sub-title>
+    <desc lang="en">The Top Gear team attempt to race from Northern Canada to the North Pole, 450 miles away.</desc>
+    <date>2007</date>
+    <category lang="en">Reality</category>
+    <icon src="https://d2i0hcnfudruct.cloudfront.net/BBCTopGear/BBCS_TopGear_S001_Ep001_EPID-54636_SnapshotEpisode_LANG-None_8obv7txbg9.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250115173200 +0000" stop="20250115182700 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear: Winter Blunderland</title>
+    <desc lang="en">Jeremy Clarkson, Richard Hammond and James May present their best winter themed challenges - Part 1.</desc>
+    <date>2019</date>
+    <category lang="en">Reality</category>
+    <icon src="https://d2i0hcnfudruct.cloudfront.net/BBCTopGear/BBCS_TopGear_S001_Ep001_EPID-162403_SnapshotEpisode_LANG-None_co3gc5qwxw.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250115182700 +0000" stop="20250115192200 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear: Winter Blunderland</title>
+    <desc lang="en">Jeremy Clarkson, Richard Hammond and James May present their best winter themed challenges - Part 1.</desc>
+    <date>2019</date>
+    <category lang="en">Reality</category>
+    <icon src="https://d2i0hcnfudruct.cloudfront.net/BBCTopGear/BBCS_TopGear_S001_Ep001_EPID-162403_SnapshotEpisode_LANG-None_co3gc5qwxw.jpg" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250115192200 +0000" stop="20250115202100 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear: Winter Blunderland</title>
+    <desc lang="en">Jeremy Clarkson, Richard Hammond and James May present their best winter themed challenges - Part 1.</desc>
+    <date>2019</date>
+    <category lang="en">Reality</category>
+    <icon src="https://d2i0hcnfudruct.cloudfront.net/BBCTopGear/BBCS_TopGear_S001_Ep001_EPID-162403_SnapshotEpisode_LANG-None_co3gc5qwxw.jpg" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250115202100 +0000" stop="20250115213000 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK: Winter Olympics Special</title>
+    <sub-title lang="en">Winter Olympics Special</sub-title>
+    <desc lang="en">The team hit Norway and attempt winter Olympic events, but with cars.</desc>
+    <date>2006</date>
+    <category lang="en">Reality</category>
+    <icon src="https://d2i0hcnfudruct.cloudfront.net/BBCTopGear/BBCS_TopGear_S001_Ep001_EPID-88914_SnapshotEpisode_LANG-None_y6isxy5li3.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250115213000 +0000" stop="20250115224300 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK: Patagonia Special</title>
+    <desc lang="en">The lads take V8-engined sports cars on a gruelling journey through the spectacular landscapes of Patagonia.</desc>
+    <date>2014</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/e/gracenote/edc1a1023cba9bfa6c8f3fbd8ce93082.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250115224300 +0000" stop="20250115235600 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK: Patagonia Special</title>
+    <desc lang="en">The team continue their quest to take three V8-engined sports cars on an epic journey.</desc>
+    <date>2014</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/e/gracenote/edc1a1023cba9bfa6c8f3fbd8ce93082.jpg" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250115235600 +0000" stop="20250116005800 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK: Polar Special</title>
+    <sub-title lang="en">Polar Special</sub-title>
+    <desc lang="en">The Top Gear team attempt to race from Northern Canada to the North Pole, 450 miles away.</desc>
+    <date>2007</date>
+    <category lang="en">Reality</category>
+    <icon src="https://d2i0hcnfudruct.cloudfront.net/BBCTopGear/BBCS_TopGear_S001_Ep001_EPID-54636_SnapshotEpisode_LANG-None_8obv7txbg9.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250116005800 +0000" stop="20250116015300 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear: Winter Blunderland</title>
+    <desc lang="en">Jeremy Clarkson, Richard Hammond and James May present their best winter themed challenges - Part 1.</desc>
+    <date>2019</date>
+    <category lang="en">Reality</category>
+    <icon src="https://d2i0hcnfudruct.cloudfront.net/BBCTopGear/BBCS_TopGear_S001_Ep001_EPID-162403_SnapshotEpisode_LANG-None_co3gc5qwxw.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250116015300 +0000" stop="20250116024800 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear: Winter Blunderland</title>
+    <desc lang="en">Jeremy Clarkson, Richard Hammond and James May present their best winter themed challenges - Part 1.</desc>
+    <date>2019</date>
+    <category lang="en">Reality</category>
+    <icon src="https://d2i0hcnfudruct.cloudfront.net/BBCTopGear/BBCS_TopGear_S001_Ep001_EPID-162403_SnapshotEpisode_LANG-None_co3gc5qwxw.jpg" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250116024800 +0000" stop="20250116034700 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear: Winter Blunderland</title>
+    <desc lang="en">Jeremy Clarkson, Richard Hammond and James May present their best winter themed challenges - Part 1.</desc>
+    <date>2019</date>
+    <category lang="en">Reality</category>
+    <icon src="https://d2i0hcnfudruct.cloudfront.net/BBCTopGear/BBCS_TopGear_S001_Ep001_EPID-162403_SnapshotEpisode_LANG-None_co3gc5qwxw.jpg" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250116034700 +0000" stop="20250116050600 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK: Winter Olympics Special</title>
+    <sub-title lang="en">Winter Olympics Special</sub-title>
+    <desc lang="en">The team hit Norway and attempt winter Olympic events, but with cars.</desc>
+    <date>2006</date>
+    <category lang="en">Reality</category>
+    <icon src="https://d2i0hcnfudruct.cloudfront.net/BBCTopGear/BBCS_TopGear_S001_Ep001_EPID-88914_SnapshotEpisode_LANG-None_y6isxy5li3.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250116050600 +0000" stop="20250116060900 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK: Patagonia Special</title>
+    <desc lang="en">The lads take V8-engined sports cars on a gruelling journey through the spectacular landscapes of Patagonia.</desc>
+    <date>2014</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/e/gracenote/edc1a1023cba9bfa6c8f3fbd8ce93082.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250116060900 +0000" stop="20250116072200 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK: Patagonia Special</title>
+    <desc lang="en">The team continue their quest to take three V8-engined sports cars on an epic journey.</desc>
+    <date>2014</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/e/gracenote/edc1a1023cba9bfa6c8f3fbd8ce93082.jpg" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250116072200 +0000" stop="20250116082400 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK: Polar Special</title>
+    <sub-title lang="en">Polar Special</sub-title>
+    <desc lang="en">The Top Gear team attempt to race from Northern Canada to the North Pole, 450 miles away.</desc>
+    <date>2007</date>
+    <category lang="en">Reality</category>
+    <icon src="https://d2i0hcnfudruct.cloudfront.net/BBCTopGear/BBCS_TopGear_S001_Ep001_EPID-54636_SnapshotEpisode_LANG-None_8obv7txbg9.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250116082400 +0000" stop="20250116093600 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK</title>
+    <desc lang="en">Rival supercars from Ferrari and McLaren go head-to-head on the test track. Contains Strong Language.</desc>
+    <date>2011</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/42edee8d6f8dd101a8bb28a8a5ce7b45.jpg" />
+    <episode-num system="onscreen">S17 E3</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250116093600 +0000" stop="20250116104500 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK</title>
+    <desc lang="en">Could the traditional train ever be replaced by a load of caravans pulled by a car? Contains Strong Language.</desc>
+    <date>2011</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/42edee8d6f8dd101a8bb28a8a5ce7b45.jpg" />
+    <episode-num system="onscreen">S17 E4</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250116104500 +0000" stop="20250116115500 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK</title>
+    <desc lang="en">Jeremy, Richard and James race against time to knock down a row of derelict houses. Contains Strong Language.</desc>
+    <date>2011</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/42edee8d6f8dd101a8bb28a8a5ce7b45.jpg" />
+    <episode-num system="onscreen">S17 E5</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250116115500 +0000" stop="20250116130500 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK</title>
+    <desc lang="en">Jeremy and James take a very British trip to the seaside in two electric cars. Contains Strong Language.</desc>
+    <date>2011</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/42edee8d6f8dd101a8bb28a8a5ce7b45.jpg" />
+    <episode-num system="onscreen">S17 E6</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250116130500 +0000" stop="20250116141600 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK</title>
+    <desc lang="en">The Lamborghini Aventador, the McLaren MP4-12C and the Noble M600 shoot it out in Italy.</desc>
+    <date>2012</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/42edee8d6f8dd101a8bb28a8a5ce7b45.jpg" />
+    <episode-num system="onscreen">S18 E1</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20250116141600 +0000" stop="20250116152500 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK</title>
+    <desc lang="en">Richard Hammond is in Texas to immerse himself in the world of NASCAR racing.</desc>
+    <date>2012</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/42edee8d6f8dd101a8bb28a8a5ce7b45.jpg" />
+    <episode-num system="onscreen">S18 E2</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250116152500 +0000" stop="20250116163500 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK</title>
+    <desc lang="en">Jeremy and Richard take charge of a car chase on the set of The Sweeney movie.</desc>
+    <date>2012</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/42edee8d6f8dd101a8bb28a8a5ce7b45.jpg" />
+    <episode-num system="onscreen">S18 E3</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250116163500 +0000" stop="20250116174400 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK</title>
+    <desc lang="en">Mobility scooters are taken off-road and Michael Fassbender tries his luck on the track.</desc>
+    <date>2012</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/42edee8d6f8dd101a8bb28a8a5ce7b45.jpg" />
+    <episode-num system="onscreen">S18 E4</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20250116174400 +0000" stop="20250116185400 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK</title>
+    <desc lang="en">A rocket-powered flying man races against a rally car.</desc>
+    <date>2012</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/42edee8d6f8dd101a8bb28a8a5ce7b45.jpg" />
+    <episode-num system="onscreen">S18 E5</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20250116185400 +0000" stop="20250116200400 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK</title>
+    <desc lang="en">Jeremy is out on the track to recreate the Battle of Britain using a Bentley and a BMW.</desc>
+    <date>2012</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/42edee8d6f8dd101a8bb28a8a5ce7b45.jpg" />
+    <episode-num system="onscreen">S18 E6</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250116200400 +0000" stop="20250116211600 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK</title>
+    <desc lang="en">The new BMW M5 is reviewed and the boys try their hand at motor racing on a budget.</desc>
+    <date>2012</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/42edee8d6f8dd101a8bb28a8a5ce7b45.jpg" />
+    <episode-num system="onscreen">S18 E7</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250116211600 +0000" stop="20250116222800 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK</title>
+    <desc lang="en">Jeremy builds a miniature car, James and Richard test drive a new Bentley and Pagani.</desc>
+    <date>2013</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/42edee8d6f8dd101a8bb28a8a5ce7b45.jpg" />
+    <episode-num system="onscreen">S19 E1</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250116222800 +0000" stop="20250116234000 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK</title>
+    <desc lang="en">The boys do an epic road trip across the western United States.</desc>
+    <date>2013</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/42edee8d6f8dd101a8bb28a8a5ce7b45.jpg" />
+    <episode-num system="onscreen">S19 E2</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20250116234000 +0000" stop="20250117005000 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK</title>
+    <desc lang="en">Clarkson, Hammond and May do an epic race from Wembley to the San Siro stadium in Milan.</desc>
+    <date>2013</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/42edee8d6f8dd101a8bb28a8a5ce7b45.jpg" />
+    <episode-num system="onscreen">S19 E3</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20250117005000 +0000" stop="20250117020200 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK</title>
+    <desc lang="en">Clarkson and May see the Kia Cee'd, Hammond drives the latest Mastretta sports car.</desc>
+    <date>2013</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/42edee8d6f8dd101a8bb28a8a5ce7b45.jpg" />
+    <episode-num system="onscreen">S19 E4</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250117020200 +0000" stop="20250117031400 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK</title>
+    <desc lang="en">A look at the increasing complexity of modern cars, and a drive in the new Range Rover.</desc>
+    <date>2013</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/42edee8d6f8dd101a8bb28a8a5ce7b45.jpg" />
+    <episode-num system="onscreen">S19 E5</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20250117031400 +0000" stop="20250117042300 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK</title>
+    <sub-title lang="en">Africa Special, Part 1</sub-title>
+    <desc lang="en">Clarkson, Hammond and May go on a mission in Africa to find the source of the Nile.</desc>
+    <date>2013</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/42edee8d6f8dd101a8bb28a8a5ce7b45.jpg" />
+    <episode-num system="onscreen">S19 E6</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20250117053100 +0000" stop="20250117064400 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK</title>
+    <desc lang="en">Jeremy Clarkson and James May race a car against a boat in New Zealand.</desc>
+    <date>2013</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/42edee8d6f8dd101a8bb28a8a5ce7b45.jpg" />
+    <episode-num system="onscreen">S20 E1</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20250117064400 +0000" stop="20250117075400 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK</title>
+    <desc lang="en">The boys test the sensational Ferrari F12 and a quest to find the world's best taxi. Contains Strong Language.</desc>
+    <date>2013</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/42edee8d6f8dd101a8bb28a8a5ce7b45.jpg" />
+    <episode-num system="onscreen">S20 E2</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250117075400 +0000" stop="20250117090600 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK</title>
+    <desc lang="en">Jeremy, Richard and James drive across Spain in mid-range supercars. Contains Strong Language.</desc>
+    <date>2013</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/42edee8d6f8dd101a8bb28a8a5ce7b45.jpg" />
+    <episode-num system="onscreen">S20 E3</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250117090600 +0000" stop="20250117101600 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK</title>
+    <desc lang="en">The boys bring relief to flood-stricken areas of Britain by building a hovercraft-car.</desc>
+    <date>2013</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/42edee8d6f8dd101a8bb28a8a5ce7b45.jpg" />
+    <episode-num system="onscreen">S20 E4</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250117101600 +0000" stop="20250117112600 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK</title>
+    <desc lang="en">Jeremy Clarkson and James May investigate the increasingly popular 'crossover'. Contains Strong Language.</desc>
+    <date>2013</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/42edee8d6f8dd101a8bb28a8a5ce7b45.jpg" />
+    <episode-num system="onscreen">S20 E5</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250117112600 +0000" stop="20250117123600 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK</title>
+    <desc lang="en">The team celebrates all that is great about Britain's motor industry. Contains Strong Language.</desc>
+    <date>2013</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/42edee8d6f8dd101a8bb28a8a5ce7b45.jpg" />
+    <episode-num system="onscreen">S20 E6</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250117123600 +0000" stop="20250117134800 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK</title>
+    <desc lang="en">The team try to prove the hatchbacks of their youth were better than modern equivalents.</desc>
+    <date>2014</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/42edee8d6f8dd101a8bb28a8a5ce7b45.jpg" />
+    <episode-num system="onscreen">S21 E1</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20250117134800 +0000" stop="20250117150100 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK</title>
+    <desc lang="en">The boys review military maneuvers and take a trip to Belgium. Contains Strong Language.</desc>
+    <date>2014</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/42edee8d6f8dd101a8bb28a8a5ce7b45.jpg" />
+    <episode-num system="onscreen">S21 E2</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20250117150100 +0000" stop="20250117161400 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK</title>
+    <desc lang="en">A road trip to the Ukraine ends with a journey through the nuclear wasteland of Chernobyl.</desc>
+    <date>2014</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/42edee8d6f8dd101a8bb28a8a5ce7b45.jpg" />
+    <episode-num system="onscreen">S21 E3</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250117161400 +0000" stop="20250117172600 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK</title>
+    <desc lang="en">Jeremy Clarkson drives the incredibly rare Alfa Romeo-based Touring Disco Volante.</desc>
+    <date>2014</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/42edee8d6f8dd101a8bb28a8a5ce7b45.jpg" />
+    <episode-num system="onscreen">S21 E4</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20250117172600 +0000" stop="20250117184100 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK</title>
+    <desc lang="en">Breaking Bad star Aaron Paul hits the track and Richard Hammond takes on the Porsche 918.</desc>
+    <date>2014</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/42edee8d6f8dd101a8bb28a8a5ce7b45.jpg" />
+    <episode-num system="onscreen">S21 E5</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250117184100 +0000" stop="20250117195100 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK</title>
+    <sub-title lang="en">Burma Special: Part 1</sub-title>
+    <desc lang="en">The boys drive across Burma in budget trucks. Contains Strong Language.</desc>
+    <date>2014</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/42edee8d6f8dd101a8bb28a8a5ce7b45.jpg" />
+    <episode-num system="onscreen">S21 E6</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20250117195100 +0000" stop="20250117210300 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK</title>
+    <sub-title lang="en">Burma Special: Part 2</sub-title>
+    <desc lang="en">Jeremy, Richard and James venture into Burma's Shan state, an area rife with civil war.</desc>
+    <date>2014</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/42edee8d6f8dd101a8bb28a8a5ce7b45.jpg" />
+    <episode-num system="onscreen">S21 E7</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20250117210300 +0000" stop="20250117221500 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK</title>
+    <desc lang="en">The trio go on two adventures, one with affordable cars and one with lifestyle cars. Contains Strong Language.</desc>
+    <date>2015</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/42edee8d6f8dd101a8bb28a8a5ce7b45.jpg" />
+    <episode-num system="onscreen">S22 E8</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250117221500 +0000" stop="20250117232800 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK</title>
+    <desc lang="en">Chris Evans and Matt LeBlanc take a trip to Blackpool in a pair of Reliant three-wheelers.</desc>
+    <date>2016</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/42edee8d6f8dd101a8bb28a8a5ce7b45.jpg" />
+    <episode-num system="onscreen">S23 E1</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20250117232800 +0000" stop="20250118003700 +0000" channel="plex.tv.Top.Gear.plex">
+    <title lang="en">Top Gear UK</title>
+    <desc lang="en">Damian Lewis is this week's Star in a Rallycross Car.</desc>
+    <date>2016</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/42edee8d6f8dd101a8bb28a8a5ce7b45.jpg" />
+    <episode-num system="onscreen">S23 E2</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250114002400 +0000" stop="20250114005100 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Legendary Hollywood stunt co-ordinator Vic Armstrong teaches Vicki Butler-Henderson, the same stunt he taught Tom Cruise. She has to hit a ramp perfectly to roll the car as a climax to the chase.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S19 E1908</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250114005100 +0000" stop="20250114011700 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Tiff Needell and Jason Plato race two of the fastest off-roaders currently on sale, the Audi Q7 V12 and the Porsche Cayenne Turbo. Jonny Smith tests the brand new Lotus Evora S. Vicki Butler-Henderson drives Jaguar's most luxurious car - the XJ.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S18 E1807</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250114011700 +0000" stop="20250114021000 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Jonny and Vicki review two mighty 4x4's in one of the shows muddiest Dog Fights. Elsewhere, the team hit the road in the all-new Alpine A110 to find out what's changed since the first incarnation hit our streets back in 1961.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S27 E2705</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250114021000 +0000" stop="20250114023600 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Tiff races the Peugeot RCZ Coupe against its Volkswagen Scirocco rival, Jonny heads to Germany to find out if the new Nissan Juke crossover is as bonkers as it looks, Vicki tests the Honda CR-Z which claims to be the world's first sporty hybrid.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S17 E1708</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250114023600 +0000" stop="20250114032800 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Jonny Smith goes behind the scenes at the gruelling Isle of Man TT motorbike race, and spends the day with TT hero and 19 times winner John McGuinness. Tiff Needell races around the infamous TT circuit in the brand new Subaru BRZ sports car.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S21 E2107</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250114032800 +0000" stop="20250114035400 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Vicki Butler-Henderson races in an event that's the first step to becoming a rally champion, Jonny Smith drives a brand new version of one of Britain's most important cars.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S20 E2008</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250114035400 +0000" stop="20250114044700 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Tiff Needell is joined by rally star Kris Meeke for a hot hatch showdown. With four brand new models lined up at the track, they hold a high octane knockout tournament to find which is fastest of all.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S21 E2113</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250114044700 +0000" stop="20250114051300 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Jonny and new boy Ben Collins - the driver who used to be The Stig perform a two wheel driving stunt, Vicki Butler-Henderson puts the radical new four door Mini Countryman through its paces, Tiff Needell races two fast but green coupes head to head.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S18 E1809</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250114051300 +0000" stop="20250114054500 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Vicki Butler-Henderson makes an unprecedented attempt to hit 200mph in an A1 Grand Prix car. Tom Ford and Jonny Smith take the seven newest hot hatches on sale and decide which is best.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S11 E1104</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250114054500 +0000" stop="20250114061700 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Jason &amp; Tiff battle against each other in the purest form of motor-sport: karting. Dirk Benedict joins Jonny Smith in a luxury road test. Tom Ford tests the Renault Laguna - it's rear wheels steer like magic but is it as good as the Mondeo?</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S14 E1408</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250114061700 +0000" stop="20250114064900 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Vicki Butler-Henderson attempts to drive flat out in Aston Martin's new Vanquish S. The 520bhp, £175,000-plus super-coupe accelerates from 0-60 in 4.8 seconds and is capable of over 200mph.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S6 E606</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250114064900 +0000" stop="20250114072100 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Jonny and Tom decide which is best, a diesel Mini or petrol one; Tiff compares the new Subaru Impeza to a previous version and Vicki discovers which is quickest, the British or Japanese version of the Honda Civic Type R.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S12 E1203</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250114072100 +0000" stop="20250114075500 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Tiff puts the latest Caterham through its paces in an unusual test. Tom drives Seat's brand new family saloon - the Exeo. Jonny invents three practical tests for the brand-new Nissan Pixo. Jason gets to enjoy the Lamborghini LP670-4 Super Veloce.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S16 E1610</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250114075500 +0000" stop="20250114082600 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Tiff Needell is joined by Le Mans winner Guy Smith and former rally co-driver Tony Mason to do something that's not as ridiculous as it might sound - caravan racing.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S6 E607</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250114082600 +0000" stop="20250114085700 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Jason and Tiff take on a dogfight with a difference - racing buses! Jonny invents three practical tests for the new Mercedes E-Class. Tim investigates the Government's new scrappage system. Tom is on a mission in the stunning new Aston Martin.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S16 E1607</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250114085700 +0000" stop="20250114092800 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Tiff drives the Lamborghini Gallardo Superleggera Jonny goes to meet another pioneer of alternative fuels - a cider farmer who uses rotten apples to produce methane that powers his Jaguar and Tom drives the £260,000 Rolls-Royce Drophead Coupe.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S12 E1209</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250114092800 +0000" stop="20250114100000 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Vicki Butler-Henderson and Tiff Needell look at the car accident that's ten times as likely to cause you an injury as any other; a rear impact.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S4 E401</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250114100000 +0000" stop="20250114103100 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Tom Ford puts the Bentley Continental Flying Spur to the test. We take the fastest four door saloon in the world on a tour of Britain and see just how many swanky events Tom can visit in 24 hours?</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S8 E811</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250114103100 +0000" stop="20250114110100 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Fifth Gear will be testing three of the most economical cars on the market. There's the petrol-powered Daihatsu Charade and the diesel-powered Citroen C2 and the "hybrid" Toyota Prius.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S6 E603</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250114110100 +0000" stop="20250114113400 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Tim Shaw tests whether the claimed 0-62mph acceleration times are actually true or not. Vicki Butler-Henderson heads out to the track in two Porsches. Tiff Needell has the first TV test of the world's first underwater car, the Rinspeed Squba.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S14 E1406</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250114113400 +0000" stop="20250114120600 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Like it or not - we're a nation of speeders, and we need all the help we can get. So in this episode of Fifth Gear Tiff Needell and Vicki Butler-Henderson are going to help you save your licence.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S4 E402</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250114120600 +0000" stop="20250114123700 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Adrian Simpson will be in Surrey for the The Mini World Show, a 45th Birthday Party for the Mini - attracting masterpieces from all over the world.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S5 E505</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250114123700 +0000" stop="20250114131000 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Tiff Needell teams up with supermodel Jodie Kidd to race a Maserati at the Monza grand prix circuit in Italy. Jason Plato visits the Top Marques Monaco Motorshow.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S7 E707</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250114131000 +0000" stop="20250114134100 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Tom Ford drives Volvo's stylish new coupe, the C30; and Tiff Needell tests whether a green supercar really can be fun in Lotus' bio-fuel powered Exige 265E.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S10 E1008</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250114134100 +0000" stop="20250114141300 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Fifth Gear Jason Plato drives the awesome 500bhp Ford Shelby GT500; Vicki Butler-Henderson races the ultra-exclusive MINI GP against a 90mph radio controlled car; Tom Ford tests the Skoda Roomster.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S10 E1001</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250114141300 +0000" stop="20250114144500 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Vicki finds out what's quickest in the Shoot-Out feature - the brand new Audi S5 or the BMW 335i; England rugby star Kyran Bracken is given some circuit driving tuition from Jason Plato; Jonny Smith tests a potential revolution in city transport.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S12 E1201</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250114144500 +0000" stop="20250114151600 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Do cars explode like they do in the movies? Tiff Needell and Adrian Simpson stage their own car chase and then watch the experts who've worked on James Bond movies take over for the special effects.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S3 E304</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250114151600 +0000" stop="20250114154800 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Vicki finds out which is quickest, the VW Golf GTi or Subaru Impreza WRX. Jonny proves there are still some amazing cars that you can buy for under £1500. Jason tests the Lotus Elise to find out if this is the finest car Lotus has ever produced.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S13 E1309</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250114154800 +0000" stop="20250114162000 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Tim Shaw tackles the horrible subject of car tax. Jason Plato meets Moto GP star James Toseland in another feature where Fifth Gear makes a sports stars dream come true. Tom Ford demonstrates the potential safety issues of convertibles.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S14 E1409</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250114162000 +0000" stop="20250114165100 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Fifth Gear guest presenter and Touring Car champion Jason Plato tests Chrysler's new 300C. Is this would-be competitor for the likes of the Mercedes E-class really a car to be taken seriously?</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S5 E506</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250114165100 +0000" stop="20250114172300 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Jason Plato is given his toughest mission yet - to do one month's motoring in 24 hours. It's in a bid to give the new BMW 3 Series the ultimate road test.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S7 E702</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250114172300 +0000" stop="20250114175500 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Vicki finds out how quick the police are on a racing track; Jonny tests small economy cars to find out if they can climb one of Britain's biggest hills; Sarah tries to out manoeuvre Jason in an articulated lorry and Tiff drives the new BMW M3.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S12 E1204</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250114175500 +0000" stop="20250114182700 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Jason Plato helps a lottery winner choose a new supercar, Tiff Needell road tests the new Jaguar XK on the best road in the world, and Tom Ford meets Jenson Button at the Geneva Motorshow.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S9 E901</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250114182700 +0000" stop="20250114190000 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Tom Ford tests the latest version of the car that is perennially voted one of Britain's favourite cars - the Land Rover Defender. Jonny Smith celebrates Ferrari's 60th Birthday.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S11 E1107</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250114190000 +0000" stop="20250114193200 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Tiff Needell reports on fifth Gear's project to build a 200mph car. Last time we saw our Lotus it blew up in a cloud of smoke, but it's back, repaired, and even more modified.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S8 E813</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250114193200 +0000" stop="20250114200400 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Tom Ford takes a look at the new Lexus IS 250, and Vicki heads to the track for a special estate shoot out. But who will rise victorious, the Volvo or Subaru?</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S8 E807</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250114200400 +0000" stop="20250114203500 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Fifth Gear Vicki Butler-Henderson drives the one-off supercharged Nissan Murano GTC; Jonny Smith challenges the world's biggest lawnmower to a head to head in a grass cutting contest.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S10 E1006</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250114203500 +0000" stop="20250114210600 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Tiff races the top of the range £60,000 supercharged Sport cross country against...a horse. Vicki Butler-Henderson finds out exactly how easy it is to control the £160,000 Lamborghini Murcielago.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S7 E705</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250114210600 +0000" stop="20250114213200 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Jason rips through Italy in the brand-new Gallardo Superleggera. Vicki gets under the skin of the new Nissan Cube. Jonny examines Volvo's S80 DRIVe with the help of a yacht. Tiff and Jason do battle in the R8 Spyder and Porsche 911 Turbo Cabriolet.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S17 E1702</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250114213200 +0000" stop="20250114215800 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Vicki Butler-Henderson learns evasive driving techniques from the police that chauffeur the Royal Family and Tiff Needell races two hot hatches that also claim to be enormously economical.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S20 E2010</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250114215800 +0000" stop="20250114225100 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Jason Plato is joined by ex-Formula One driver Karun Chandhok to battle it out on the track in two of the most sort-after super sports cars; Porsche 911 GT3 RS vs Nissan GT-R Nismo.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S27 E2706</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250114225100 +0000" stop="20250114234300 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Jason is joined by ex-Ferrari F1 driver Mika Salon to pit the brand new £100,000 Mercedes C63 AMG Black Series against its key rival from BMW. Tiff celebrates the iconic Ferrari F40's 25th birthday with a track drive of one of the best in the world.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S21 E2106</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250114234300 +0000" stop="20250115003600 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Jason's in Italy to drive the most talked about hypercar of the year - the 730bhp Pagani Huayra. He's given an exclusive tour of how this incredible machine is made at the company's HQ, and lets the car off the leash on road and track.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S21 E2111</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250115003600 +0000" stop="20250115010200 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Tiff Needell wrestles with the last ever Porsche 911 of its generation, Vicki Butler-Henderson is testing a one-off £150,000 prototype version of Honda's CRZ Hybrid.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S20 E2005</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250115010200 +0000" stop="20250115015400 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">In this episode Tiff Needell and Jason Plato take the new Ford Mustang and Chevrolet Camaro on track to find out if the Americans are now producing performance cars us Brits should be taking notice of.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S27 E2708</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250115015400 +0000" stop="20250115024700 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Jason Plato and Karun Chandhok test four bare essential sports cars to find out which is the ultimate way to get some track day thrills for around £50,000. The Fifth Gear team test Ford's latest hot hatch, the Fiesta ST.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S27 E2707</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250115024700 +0000" stop="20250115033900 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Tiff and Jason hold a knock-out tournament to see if the 570hp Mercedes SLS AMG can beat its rivals from Aston Martin, Bentley and Jaguar. Jonny meets Swedish rally legend Stig Blomquist for some ice driving lessons in the new Audi A1 Quattro.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S21 E2102</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250115033900 +0000" stop="20250115043100 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Tiff Needell and Vicki Butler-Henderson visit Poland to sample some of the sights, sounds and car culture there. Tiff competes in the final stage of the Barborka Rally, that takes place on the icy streets of Warsaw as night falls.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S25 E2504</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250115043100 +0000" stop="20250115052400 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Jason Plato and Tiff Needell host a battle of the best cheap hot hatches on sale. The Ford Fiesta ST, RenaultSport Clio and Peugeot 208 GTI are all thrashed to the limit before Tiff and Jason reveal the champion.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S22 E2205</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250115052400 +0000" stop="20250115055600 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Jason Plato races two estates head to head. Vicki Butler-Henderson pits the new Pro-Ceed against the VW Golf. Jonny Smith picks up an amazing luxury car for £1000 or less. Tiff Needell runs Fifth Gear's most exciting car v bike race to date.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S14 E1403</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250115055600 +0000" stop="20250115062800 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Jason Plato helps a lottery winner choose a new supercar, Tiff Needell road tests the new Jaguar XK on the best road in the world, and Tom Ford meets Jenson Button at the Geneva Motorshow.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S9 E901</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250115062800 +0000" stop="20250115065900 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Vicki is at the controls in a classic Ford v Vauxhall battle, two boy racer specials, the Fiesta ST and Corsa SRi, wage war to find out which is fastest. Tom journeys to the Arctic Circle to test the Volvo XC70, an estate car with four wheel drive.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S13 E1307</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250115065900 +0000" stop="20250115073100 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Adrian Simpson test drives Volvo's new off-roader. He concludes because of their attention to safety, the environment and the family-size accommodation Volvo have created a different kind of 4x4.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S2 E203</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250115073100 +0000" stop="20250115080300 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Vicki Butler-Henderson finds out exactly how well built a Mercedes is when she crashes it, drowns it in a flood and then drives over it in a monster truck.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S9 E908</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250115080300 +0000" stop="20250115083500 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Vicki Butler-Henderson learns how to become a spy photographer as she goes undercover trying to snap car manufacturer's secret prototypes. Tom Ford is in Japan driving the car of the future.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S9 E907</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250115083500 +0000" stop="20250115090700 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Fifth Gear Jason Plato drives the awesome 500bhp Ford Shelby GT500; Vicki Butler-Henderson races the ultra-exclusive MINI GP against a 90mph radio controlled car; Tom Ford tests the Skoda Roomster.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S10 E1001</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250115090700 +0000" stop="20250115094000 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Tiff and Jason head to the track in the new BMW Z4 and Porsche Boxster. Jonny gets behind the wheel of what could be the most perfect car in the world - the brand new Golf GTi. Tiff Needell is in the first all-new Lotus for 13 years - the Evora.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S16 E1603</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250115094000 +0000" stop="20250115101400 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Tiff puts the latest Caterham through its paces in an unusual test. Tom drives Seat's brand new family saloon - the Exeo. Jonny invents three practical tests for the brand-new Nissan Pixo. Jason gets to enjoy the Lamborghini LP670-4 Super Veloce.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S16 E1610</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250115101400 +0000" stop="20250115104400 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Vicki Butler-Henderson has a mini-moto race against some of the biggest names in bike racing; Tom Ford tests the new Land Rover Freelander on Britain's most remote school run.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S10 E1009</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250115104400 +0000" stop="20250115111500 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Vicki Butler-Henderson and Tiff Needell drive some of the best cars made in Britain today. They also celebrate Britain's amazingly diverse and fertile sports car industry.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S6 E605</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250115111500 +0000" stop="20250115114700 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Vicki Butler-Henderson finds out which is the fastest - the Renault Twingo GT or the Fiat Panda 100HP. Tiff Needell and Jason Plato go head to head. This time it's small coupes as the Porsche Cayman comes up against the new BMW 135i Coupe.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S13 E1305</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250115114700 +0000" stop="20250115121800 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Tiff Needell and Vicki Butler-Henderson report on Fifth Gear's fastest ever crash test when we crash a Smart into a concrete block...flat out. Jason Plato drives through five countries in 24 hours.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S6 E604</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250115121800 +0000" stop="20250115125000 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Where are your children safest - in a 4x4 or an MPV? Fifth Gear finds out with a spectacular 'worlds first' crash test between a Landrover Discovery and Renault Espace.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S9 E902</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250115125000 +0000" stop="20250115132300 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Fifth Gear Quentin Willson and Tiff Needell stage a massive head-on collision by piloting two remote controlled cars into each other at 60 mph.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S3 E301</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250115132300 +0000" stop="20250115135300 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Jason Plato gets a world's first test drive in the £380,000 Pagani Zonda F. Vicki Butler-Henderson heads to our Anglesey test track to race a Porsche 911 against the latest Lotus Exige.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S8 E802</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250115135300 +0000" stop="20250115142500 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Adrian Simpson road tests the new Hyundai Coupé. It was massively praised by motoring journalists on its launch it Italy. They even likened the £14,000 South Korean car to a mini Ferrari 456.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S1 E103</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250115142500 +0000" stop="20250115145700 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Tiff tests this grand tourer's handling through the dramatic scenery of Snowdonia in Wales. Jason Plato tests the brand new £115,000 Aston Martin DB9 Volante, one of the fastest cabriolets on sale today.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S8 E805</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250115145700 +0000" stop="20250115152900 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Vicki Butler-Henderson finds out if an old Daihatsu Charade is the toughest car you can buy; Tom Ford drives the Honda CRV, the SUV that claims to be greener than a MINI Cooper.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S10 E1012</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250115152900 +0000" stop="20250115160100 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Tiff Needell tests the new MGTF. He finds it a better road car than the old MGL but it's still not a track day car. Quentin Willson reveals some ways people try to get off their speeding tickets.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S1 E106</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250115160100 +0000" stop="20250115163200 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Tom Ford tests the brand new Ford Fiesta. Vicki Butler-Henderson and Tiff Needell challenge each other on two wheels. Jonny shows us three great, affordable cars. Jason Plato takes the Porsche 911 GT2 out on the track.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S14 E1407</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250115163200 +0000" stop="20250115170400 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">BBC 2's Sally Traffic, Sally Boazman, takes a chauffeur driving course; Tiff and Jason test the BMW Z4 and Nissan 350Z roadsters on the track; Jonny drives the Mini Clubman and Tom tests the sexy new Maserati Gran Turismo coupe in Italy.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S12 E1206</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250115170400 +0000" stop="20250115173700 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Tom Ford's been testing the Mazda's new MX5 Roadster Coupe; and Vicki Butler-Henderson has been thrashing Porsche's 911 GT3.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S10 E1010</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250115173700 +0000" stop="20250115180700 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Fifth Gear will be testing three of the most economical cars on the market. There's the petrol-powered Daihatsu Charade and the diesel-powered Citroen C2 and the "hybrid" Toyota Prius.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S6 E603</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250115180700 +0000" stop="20250115183900 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Tom Ford drives Volvo's stylish new coupe, the C30; and Tiff Needell tests whether a green supercar really can be fun in Lotus' bio-fuel powered Exige 265E.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S10 E1008</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250115183900 +0000" stop="20250115191000 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Tom Ford spends the day with the scourge of modern day motorists - wheel clampers. Vicki Butler-Henderson tests the latest version of one of the greatest coupes of our time, the Nissan 350Z.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S11 E1110</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250115191000 +0000" stop="20250115194100 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">In this edition of Fifth Gear Adrian Simpson will be asking what makes a celebrity car valuable and what doesn't, and he'll be meeting the people who buy them and collect them.</desc>
+    <date>2004</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S5 E508</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250115194100 +0000" stop="20250115201200 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Vicki tests the Mercedes Vito X or the VW Transporter Sportline on the track to find out which is quickest. Jonny embarks on the 600 mile transcontinental trip in the BMW 635d. Tom drives the ultimate 4x4, the 12 tonne, 10 foot tall Unimog.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S13 E1304</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250115201200 +0000" stop="20250115204300 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Vicki Butler-Henderson is in Anglesey for another Fifth Gear shoot-out. This week it's the Porsche Cayenne GTS against the BMW X5. Tom Ford drives the new C5 and Tiff Needell tests the new Subaru Impreza STi.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S13 E1308</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250115204300 +0000" stop="20250115211500 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Jason Plato pitches a lunatic Honda Civic Mugen RR imported from Japan against a Honda S2000 sports car from the UK. Jonny Smith tests the VW Passat CC v Mercedes CLS. Tiff Needell takes to the track to test the brand new KTM X-Bow.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S14 E1404</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250115211500 +0000" stop="20250115220900 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Jason and Jonny face off in the series' first van versus pick-up challenge. The team test the Cupra Ateca, the first car from Seat's sports division, and Jimmy fits a custom exhaust.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S28 E104</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250115220900 +0000" stop="20250115230100 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Jonny Smith goes behind the scenes at the gruelling Isle of Man TT motorbike race, and spends the day with TT hero and 19 times winner John McGuinness. Tiff Needell races around the infamous TT circuit in the brand new Subaru BRZ sports car.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S21 E2107</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250115230100 +0000" stop="20250115235400 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Jonny Smith is in Sweden testing the brand new Volvo S60 Polestar super saloon against its racing car cousin - the competition car of double Swedish Touring Car Champion Fredrick Ekblom.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S22 E2208</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250115235400 +0000" stop="20250116004600 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Jason Plato and Tiff Needell pit three petrolhead icons against brand new, mainstream cars to find out if the classics we lust after are now outclassed by modern machines.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S22 E2217</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250116004600 +0000" stop="20250116013800 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">In this episode of Fifth Gear Tiff Needell and Karun Chandhok take two high performance saloons to the track to discover which is the fastest, and most entertaining, to drive.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S26 E2604</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250116013800 +0000" stop="20250116023000 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Jason Plato is joined by former F1 driver Karun Chandhok as they pit a Honda Civic Type-R, a Seat Leon Cupra-R, a Renault Megane RS and a Audi S3 against one another to see who will be crowned king of the hot-hatches in an all-new Deathmatch.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S27 E2703</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250116023000 +0000" stop="20250116032300 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Tiff and Jason celebrate the 100th anniversary of Aston Martin. Jason drives James Bond's DB5 from Skyfall and learns from the the master craftsmen at the company's heritage centre, while Tiff tests the brand new Rapide S four door supercar.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S22 E2207</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250116032300 +0000" stop="20250116041500 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Jonny and Vicki review two mighty 4x4's in one of the shows muddiest Dog Fights. Elsewhere, the team hit the road in the all-new Alpine A110 to find out what's changed since the first incarnation hit our streets back in 1961.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S27 E2705</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250116041500 +0000" stop="20250116051000 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">A Land Rover Defender 90 versus a Suzuki Jimny, and in the shoot-out: Volkswagen Up GTI versus a Suzuki Swift Sport.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S28 E102</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250116051000 +0000" stop="20250116054200 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Vicki Butler-Henderson finds out if the Lotus Elise S is the best track car for novices - by giving the keys to her sister; Le Mans winner Guy Smith races the fastest van on sale today.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S10 E1003</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250116054200 +0000" stop="20250116061400 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Tiff Needell drives the Pagani Zonda, an astonishing Italian supercar that boasts a 7-litre, 550 horsepower engine and 200 mph plus performance.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S1 E105</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250116061400 +0000" stop="20250116064600 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Vicki takes two Audi TTs to the track for a shoot-out - one has a manual gearbox, the other a semi-automatic - to see which is faster; Jason drives the Bowler Nemesis, a 500 bhp extreme off-roader designed to tackle the world's toughest rallies.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S12 E1205</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250116064600 +0000" stop="20250116071800 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Tiff Needell tests the new MGTF. He finds it a better road car than the old MGL but it's still not a track day car. Quentin Willson reveals some ways people try to get off their speeding tickets.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S1 E106</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250116071800 +0000" stop="20250116075000 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Tom Ford spends the day with the scourge of modern day motorists - wheel clampers. Vicki Butler-Henderson tests the latest version of one of the greatest coupes of our time, the Nissan 350Z.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S11 E1110</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250116075000 +0000" stop="20250116082200 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Adrian Simpson road tests Vauxhall's new Vectra. He finds it very dull to look at inside and out. The 2.2 litre petrol engine feels slow. On the plus side it's better than the model it replaces.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S1 E107</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250116082200 +0000" stop="20250116085300 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Vicki Butler-Henderson jets off to Portugal to drive the new Mazda MX5. It's the best selling sportscar in the world, but have Mazda fixed something that wasn't broken.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S8 E810</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250116085300 +0000" stop="20250116092500 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Jason Plato races two estates head to head. Vicki Butler-Henderson pits the new Pro-Ceed against the VW Golf. Jonny Smith picks up an amazing luxury car for £1000 or less. Tiff Needell runs Fifth Gear's most exciting car v bike race to date.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S14 E1403</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250116092500 +0000" stop="20250116095800 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Jon Bentley investigates how hitting a motorway crash barrier can make your car fly through the air. Jason Plato gives cricketer Kevin Petersen the chance to drive the Lamborghini Gallardo Spyder.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S10 E1004</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250116095800 +0000" stop="20250116102900 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Jon Bentley is on a mission to discover Britain's Most Prestigious Car. Fifth Gear have commissioned a poll by experts You Gov, and can tonight reveal the results of their 2,000 person survey.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S7 E704</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250116102900 +0000" stop="20250116110000 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Tiff Needell meets some of the people whose lives have been blighted by a terror of driving. He then considers the latest solutions to the problem.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S5 E503</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250116110000 +0000" stop="20250116113200 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Vicki tests two cars that are low, light and very fast - Lotus Exige S v Caterham CSR. Tom visits Spain to drive the Toyota Landcruiser. Jason Plato drives the Mercedes CLK63 Black. Tiff teaches Heston Blumenthal the art of powersliding.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S13 E1301</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250116113200 +0000" stop="20250116120300 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Tiff and Jason head for the racetrack in the KTM X-Bow and Lotus 2-Eleven. Jonny investigates the smarter and apparently plusher qualities to be found in the latest Golf. Tom conducts a shocking crash test which is essential viewing for all families.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S15 E1501</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250116120300 +0000" stop="20250116123400 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Tiff indulges in an end of term treat a classic Fifth Gear shootout, featuring some classic hot hatches from the 1980s. Tim investigates the great diesel versus petrol debate. Jonny visits his idea of automotive hell at the Firecracker Banger meet.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S15 E1510</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250116123400 +0000" stop="20250116130600 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">We pit the Ford Sierra Cosworth and the Mercedes 190E Cosworth against each other. Tim in London investigates the new craze of car share clubs. Tiff drives the brand new Nissan 370Z around what used to be one of the fastest race circuits in Europe.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S16 E1608</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250116130600 +0000" stop="20250116133600 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Tiff Needell tests a comprehensive selection of the latest hot hatches including the new and long-awaited Ford Focus RS. He rules out the MGZR, the Mini Cooper S and the Renault Clio Cup.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S2 E205</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250116133600 +0000" stop="20250116140700 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Vicki Butler-Henderson and Tiff Needell drive some of the best cars made in Britain today. They also celebrate Britain's amazingly diverse and fertile sports car industry.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S6 E605</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250116140700 +0000" stop="20250116143900 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">In an astonishing series of experiments Tiff Needell and Vicki Butler-Henderson find out just how dangerous ordinary items can be, and how you can best keep them under control in our cars.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S4 E408</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250116143900 +0000" stop="20250116151100 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Tiff Needell employs the help of two models to test the theory that the quicker you drive a convertible, the less your hair blows. He blasts the brand new Bentley Continental GTC up to 150mph.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S11 E1103</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250116151100 +0000" stop="20250116154100 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Tiff and Jason drive an off-road playground, in a variety of tanks from submersible Russian machines to a British Chieftain battle tank. Tom Ford is one of the first people in the country to drive the brand new and utterly bonkers Tramontana R.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S16 E1605</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250116154100 +0000" stop="20250116161500 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Tiff puts the latest Caterham through its paces in an unusual test. Tom drives Seat's brand new family saloon - the Exeo. Jonny invents three practical tests for the brand-new Nissan Pixo. Jason gets to enjoy the Lamborghini LP670-4 Super Veloce.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S16 E1610</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250116161500 +0000" stop="20250116164700 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Tiff Needell and Tom Ford test the new Citroen C6 by recreating the President de Gaulle assassination attempt with professional gunmen.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S9 E910</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250116164700 +0000" stop="20250116171600 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Vicki Butler-Henderson road tests the new performance version of Alfa Romeo's 156. She likes it and reckons it ranks alongside performance saloons from BMW, Subaru and Mitsubishi.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S1 E102</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250116171600 +0000" stop="20250116174800 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Tiff Needell teams up with supermodel Jodie Kidd to race a Maserati at the Monza grand prix circuit in Italy. Jason Plato visits the Top Marques Monaco Motorshow.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S7 E707</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250116174800 +0000" stop="20250116182000 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Vicki Butler-Henderson is finding out if progress has been made by Mitsubishi, as she races a classic Evo 6 against the very latest Evo 9.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S8 E803</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250116182000 +0000" stop="20250116185100 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Tiff Needell travels to California to test Nissan's new 350Z sports car. Is it a worthy successor to the company's 1970s 240Z? And is it as good to drive as it looks? Tiff thinks so.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S2 E202</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250116185100 +0000" stop="20250116192300 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Vicki Butler-Henderson was the only British journalist invited to test drive Ferrari's new race car, the F430 Challenge. Tom Ford takes an exclusive one-off look into the secret world of the Maybach.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S9 E903</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250116192300 +0000" stop="20250116195500 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Vicki Butler-Henderson and Tiff Needell look at the car accident that's ten times as likely to cause you an injury as any other; a rear impact.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S4 E401</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250116195500 +0000" stop="20250116202600 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Vicki meets 12 times Motor Trials champion and British motorcycling legend Dougie Lampkin. Jonny investigates another way of making cash from old cars. Jason takes the Ford Focus RS in the first TV drive of Ford's awesome new hot hatch.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S15 E1508</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250116202600 +0000" stop="20250116205700 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Tiff drives the Lamborghini Gallardo Superleggera Jonny goes to meet another pioneer of alternative fuels - a cider farmer who uses rotten apples to produce methane that powers his Jaguar and Tom drives the £260,000 Rolls-Royce Drophead Coupe.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S12 E1209</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250116205700 +0000" stop="20250116212800 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Tiff heads to Anglesey to see what's quickest; a Smart Brabus or Mini Cooper S when they get pitched head to head in the Fifth Gear shoot out.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S7 E701</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250116212800 +0000" stop="20250116222000 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Tiff enters the opening round of the exclusive Lamborghini Super Trofeo race series - with advice from the man with every petrolhead's dream job - Lamborghini chief test driver Giorgio Sanna.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S21 E2104</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250116222000 +0000" stop="20250116231300 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Vicki Butler-Henderson is joined by Norwegian rally prodigy Andreas Mikkelsen for a high octane motoring triathlon - race in a 200bhp off road buggy, perform an autotest in a Skoda Fabia hot hatch, and battle wheel to wheel in single seat race cars.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S21 E2115</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250116231300 +0000" stop="20250117000900 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <sub-title lang="en">The Hot Hatch Collection</sub-title>
+    <desc lang="en">Fifth Gear presents some of the best Hot Hatches - those clever cars that neatly combine practicality, performance and affordability - that have featured on the show over the last twenty years.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/fd5912bd-bfa4-47bf-ba32-29181a83303d/FifthGear_HeroArtwork_1920x1080RDX.jpg" />
+    <episode-num system="onscreen">S29 E3</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250117000900 +0000" stop="20250117010300 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">The guys hit the track to test out the new Volvo XC40. And, Jimmy De Ville goes back to the '80s to find out how Audi devised the revolutionary four-wheel drive system.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S28 E108</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250117010300 +0000" stop="20250117012900 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Vicki Butler-Henderson blast through the Pyrenees in the brand new BMW M5, Jonny Smith heads to Barcelona to drive SEAT's unbelievably cheap new city car.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S20 E2009</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250117012900 +0000" stop="20250117015600 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Jason experiences a cutting edge Formula One driving simulator, Tiff races 2 four wheel drive saloons head to head and Vicki gets behind the wheel of the multi-million pound Aston Martin DB5 as driven by James Bond in Goldfinger.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S18 E1806</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250117015600 +0000" stop="20250117024800 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Jonny Smith is in France, experiencing the action packed world of Rallycross; a cross between rallying and circuit racing, where 650bhp machines battle door to door.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S22 E2216</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250117024800 +0000" stop="20250117034000 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">In this episode of Fifth Gear Tiff Needell and Vicki Butler-Henderson visit sunny South Africa to drive everything from rally cars, to supercars to military vehicles.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S26 E2601</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250117034000 +0000" stop="20250117043300 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Tiff conducts a crash test to show why everyone should make sure their next car has electronic stability control. Vicki is at a motor show in Monte Carlo, where she reveals the latest Pagani hypercar and test drives the controversial Fisker Karma.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S21 E2103</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250117043300 +0000" stop="20250117052500 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">In this episode Fifth Gear re-unites two of the greatest names in Formula 1 history - Prost and Senna. This time it's Ayrton's nephew Bruno and Alain's son Nico who will do battle on the track.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S26 E2603</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250117052500 +0000" stop="20250117055600 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">In this edition of Fifth Gear Adrian Simpson will be asking what makes a celebrity car valuable and what doesn't, and he'll be meeting the people who buy them and collect them.</desc>
+    <date>2004</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S5 E508</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250117055600 +0000" stop="20250117062700 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Tiff and Jason head for the racetrack in the KTM X-Bow and Lotus 2-Eleven. Jonny investigates the smarter and apparently plusher qualities to be found in the latest Golf. Tom conducts a shocking crash test which is essential viewing for all families.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S15 E1501</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250117062700 +0000" stop="20250117065900 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">In the series finale we bring you the ultimate supercar battle when we pitch the awesome McLaren F1 against the almighty Enzo Ferrari. Jason Plato tries his hand at flying a stunt plane.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S9 E913</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250117065900 +0000" stop="20250117073100 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Tom Ford takes a look at the new Lexus IS 250, and Vicki heads to the track for a special estate shoot out. But who will rise victorious, the Volvo or Subaru?</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S8 E807</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250117073100 +0000" stop="20250117080300 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Tiff Needell tests the new MGTF. He finds it a better road car than the old MGL but it's still not a track day car. Quentin Willson reveals some ways people try to get off their speeding tickets.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S1 E106</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250117080300 +0000" stop="20250117083300 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Tiff heads to Anglesey to see what's quickest; a Smart Brabus or Mini Cooper S when they get pitched head to head in the Fifth Gear shoot out.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S7 E701</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250117083300 +0000" stop="20250117090300 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Jason Plato test drives the sexiest car of the moment, the Aston Martin V8 Vantage Roadster, whilst Jonny Smith tests the hire car that James Bond drove in Casino Royale, the new Ford Mondeo.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S11 E1106</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250117090300 +0000" stop="20250117093500 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Vicki finds out if the new 207 GTi is as exhilarating to drive as the 20 year old hot hatch the 205GTi; Fifth Gear conducts a fascinating world's first crash test.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S12 E1202</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250117093500 +0000" stop="20250117100800 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Vicki Butler-Henderson learns how to become a spy photographer as she goes undercover trying to snap car manufacturer's secret prototypes. Tom Ford is in Japan driving the car of the future.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S9 E907</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250117100800 +0000" stop="20250117104000 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Vicki Butler-Henderson and Tiff Needell look at the car accident that's ten times as likely to cause you an injury as any other; a rear impact.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S4 E401</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250117104000 +0000" stop="20250117111200 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Vicki Butler-Henderson was the only British journalist invited to test drive Ferrari's new race car, the F430 Challenge. Tom Ford takes an exclusive one-off look into the secret world of the Maybach.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S9 E903</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250117111200 +0000" stop="20250117114400 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Jon Bentley investigates how hitting a motorway crash barrier can make your car fly through the air. Jason Plato gives cricketer Kevin Petersen the chance to drive the Lamborghini Gallardo Spyder.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S10 E1004</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250117114400 +0000" stop="20250117121500 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Vicki is the first journalist in the world to drive the astonishing £150,000 Gibbs Aquada, an amphibious car that breaks the mould. Vicki tests it out on the open road and the ocean wave.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S5 E507</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250117121500 +0000" stop="20250117124600 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Fifth Gear Tom Ford is testing the opulent £225,000 Bentley Azure with some help from film director Michael Winner; Jonny Smith tries to drive coast to coast using chip fat as fuel.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S10 E1002</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250117131800 +0000" stop="20250117134900 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">In this special episode of the programme we reveal the winners of the Fifth Gear Awards 2006. There will be prizes for Best Small Car, Best Family Car, Best Fast Car and the overall Car of the Year.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S10 E1013</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250117134900 +0000" stop="20250117142200 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Iwan accepts a stunt challenge from world famous precision driver Russ Swift; we observe supercars trying to beat the 0-62 world record; Jonny secretly repairs the potholes that local councils refuse to.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S12 E1210</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250117142200 +0000" stop="20250117145500 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Tiff and Jonny have a massive amount of fun with four tiny hot hatches - the 500 Abarth, Mitsubishi Colt Ralliart, Renault Sport Twingo and Suzuki Swift Sport. Tim tests the latest in satellite navigation technology. Tiff heads to Ferrari's own test track in Maranello.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S16 E1609</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250117145500 +0000" stop="20250117152700 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Jason pits the brand-new Renault Sport Clio 200 against a tough competitor from the past - the Renault Clio 182 Cup. Retired Formula One driver, and current TV pundit David Coulthard, meets up with Tiff Needell for an extreme van driving challenge.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S16 E1606</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250117152700 +0000" stop="20250117160000 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Tom Ford and Jonny Smith enter a demolition derby in two unlikely vehicles, Reliant Robins. Tiff Needell tests the latest Porsche 911, the GT3RS. Vicki Butler-Henderson drives the new Vauxhall VXR8.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S11 E1108</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250117160000 +0000" stop="20250117163200 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Fifth Gear Quentin Willson and Tiff Needell stage a massive head-on collision by piloting two remote controlled cars into each other at 60 mph.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S3 E301</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250117163200 +0000" stop="20250117170300 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Vicki Butler-Henderson tries to crack 150mph as she makes an attempt on the Blindfolded Land Speed World Record. Can Vicki hold her nerve and set a new record for driving in a straight line?</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S8 E806</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250117170300 +0000" stop="20250117173500 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Tiff Needell travels to California to test Nissan's new 350Z sports car. Is it a worthy successor to the company's 1970s 240Z? And is it as good to drive as it looks? Tiff thinks so.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S2 E202</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250117173500 +0000" stop="20250117180600 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Jason &amp; Tiff battle against each other in the purest form of motor-sport: karting. Dirk Benedict joins Jonny Smith in a luxury road test. Tom Ford tests the Renault Laguna - it's rear wheels steer like magic but is it as good as the Mondeo?</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S14 E1408</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250117180600 +0000" stop="20250117183900 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Jason takes two sporty convertibles - the Mini Cooper Cabriolet and Mazda MX-5 onto the track for a hair-do busting shootout. Tim Shaw heads to a garage...with no mechanics! Tiff spends some quality time in the brand new Aston Martin V12 Vantage.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S16 E1604</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250117183900 +0000" stop="20250117191000 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Adrian Simpson road tests the new Hyundai Coupé. It was massively praised by motoring journalists on its launch it Italy. They even likened the £14,000 South Korean car to a mini Ferrari 456.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S1 E103</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250117191000 +0000" stop="20250117194100 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Tiff Needell sets out to see whether it's possible to drive along the A537 from Macclesfield to Buxton, the most dangerous road in Britain, safely in the first Porsche Cayman in the country.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S8 E809</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250117194100 +0000" stop="20250117201300 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Tiff Needell has a tough assignment. Our selfless road tester has to fly to Nice to drive the ultimate Mercedes-Benz, the flagship of the range, the £120,000 plus CL65.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S4 E404</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250117201300 +0000" stop="20250117204400 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">In an astonishing series of experiments Tiff Needell and Vicki Butler-Henderson find out just how dangerous ordinary items can be, and how you can best keep them under control in our cars.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S4 E408</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250117204400 +0000" stop="20250117211600 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Vicki finds out which is quickest, the VW Golf GTi or Subaru Impreza WRX. Jonny proves there are still some amazing cars that you can buy for under £1500. Jason tests the Lotus Elise to find out if this is the finest car Lotus has ever produced.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S13 E1309</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250117211600 +0000" stop="20250117214200 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Tiff Needell blasts through France's champagne region in Aston Martin's latest convertible, Vicki Butler-Henderson acts as umpire in a race between two England cricket stars.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S20 E2007</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250117214200 +0000" stop="20250117223500 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Jason Plato is joined by ex-Formula One driver Karun Chandhok to battle it out on the track in two of the most sort-after super sports cars; Porsche 911 GT3 RS vs Nissan GT-R Nismo.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S27 E2706</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250117223500 +0000" stop="20250117232900 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Jason and Jonny face off in the series' first van versus pick-up challenge. The team test the Cupra Ateca, the first car from Seat's sports division, and Jimmy fits a custom exhaust.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S28 E104</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20250117232900 +0000" stop="20250118002100 +0000" channel="plex.tv.Fifth.Gear.(UK).plex">
+    <title lang="en">Fifth Gear</title>
+    <desc lang="en">Tiff Needell and Formula E driver Karun Chandhok race two supercar GTs worth over £400,000 between them, the Ferrari F12 and Aston Martin Vanquish. Jonny Smith looks at the ultimate British getaway car of the 1960's, the Mk2 Jaguar.</desc>
+    <date>2015</date>
+    <category lang="en">Reality</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af2dd13287febf586911c97fc3f4fe9b.jpg" />
+    <episode-num system="onscreen">S25 E2503</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
   <channel id="Rally.TV.de">
     <display-name lang="en">Rally TV</display-name>
     <icon src="https://wrc.enhance.diagnal.com/resources/static/logo/wrc.png" />
