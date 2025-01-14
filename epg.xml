@@ -3578,870 +3578,358 @@
     <icon src="https://wrc.enhance.diagnal.com/resources/static/logo/wrc.png" />
     <url>http://www.rally.tv</url>
   </channel>
-  <programme start="20250113060000 +0000" stop="20250113065000 +0000" channel="Rally.TV.de">
-    <title lang="en">Best Of: World Rally Car Era</title>
-    <date>2021</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/700/328/BestOfWRCRallyCarEra_320x1080_1788377669153.jpg" />
-  </programme>
-  <programme start="20250113065000 +0000" stop="20250113071500 +0000" channel="Rally.TV.de">
-    <title lang="en">WRC - The greatest stages of the WRC</title>
-    <date>2019</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/679/832/WRC_GreatestStagesOfAllTime_480x1080_1788367429127.jpg" />
-  </programme>
-  <programme start="20250113071500 +0000" stop="20250113074000 +0000" channel="Rally.TV.de">
-    <title lang="en">WRC Favourites</title>
-    <date>2020</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/709/112/WRCDriversFavouriteCars_480x1080_1788415557338.jpg" />
-  </programme>
-  <programme start="20250113074500 +0000" stop="20250113083500 +0000" channel="Rally.TV.de">
-    <title lang="en">WRC Season Review 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/607/304/seasonreview_thumbnail_480x1080_1982874693343.jpg" />
-  </programme>
-  <programme start="20250113083500 +0000" stop="20250113090000 +0000" channel="Rally.TV.de">
-    <title lang="en">Full Highlights - Beyond Rally Women's Driver Development Programme 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/291/712/WRC2024_FEMALE_PROGRAM_Highlights_640x1080_1955693125342.jpg" />
-  </programme>
-  <programme start="20250113090000 +0000" stop="20250113093000 +0000" channel="Rally.TV.de">
-    <title lang="en">Full Event Highlights - Rally Islas Canarias 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/845/292/RallyIslasCanarias_EventHighlights_420x1080_1767213637010.jpg" />
-    <country lang="en">Spain</country>
-  </programme>
-  <programme start="20250113093000 +0000" stop="20250113113500 +0000" channel="Rally.TV.de">
-    <title lang="en">SS1 Full Stage Replay - Rally Islas Canarias 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/924/472/240502_erc_can_relive01_1789203525044_mp4_video_1920x1080_8000000_primary_audio_eng_8_480x720_1789352005304.jpg" />
-    <country lang="en">Spain</country>
-    <episode-num system="onscreen">S1</episode-num>
-  </programme>
-  <programme start="20250113113500 +0000" stop="20250113122000 +0000" channel="Rally.TV.de">
-    <title lang="en">SS2 Full Stage Replay - Rally Islas Canarias 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/168/40/240503_erc_can_relive02_1778762821070_mp4_video_1920x1080_8000000_primary_audio_eng_8_160x720_1778801733207.jpg" />
-    <country lang="en">Spain</country>
-    <episode-num system="onscreen">S2</episode-num>
-  </programme>
-  <programme start="20250113122000 +0000" stop="20250113130000 +0000" channel="Rally.TV.de">
-    <title lang="en">SS3 Full Stage Replay - Rally Islas Canarias 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/168/40/240503_erc_can_relive03_1778813509150_mp4_video_1920x1080_8000000_primary_audio_eng_8_100x720_1778848837105.jpg" />
-    <country lang="en">Spain</country>
-    <episode-num system="onscreen">S2</episode-num>
-  </programme>
-  <programme start="20250113130000 +0000" stop="20250113140500 +0000" channel="Rally.TV.de">
-    <title lang="en">SS4 Full Stage Replay - Rally Islas Canarias 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/168/40/240503_erc_can_relive04_1789197381224_mp4_video_1920x1080_8000000_primary_audio_eng_8_720x720_1789331525134.jpg" />
-    <country lang="en">Spain</country>
-    <episode-num system="onscreen">S2</episode-num>
-  </programme>
-  <programme start="20250113140500 +0000" stop="20250113141500 +0000" channel="Rally.TV.de">
-    <title lang="en">ERC 2024 TOP 10 Moments</title>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-static.enhance.diagnal.com/logo/placeholder/erc_1920x1080.png" />
-  </programme>
-  <programme start="20250113141500 +0000" stop="20250113145500 +0000" channel="Rally.TV.de">
-    <title lang="en">SS5 Full Stage Replay - Rally Islas Canarias 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/168/40/240503_erc_can_relive05_1766516805278_mp4_video_1920x1080_8000000_primary_audio_eng_8_320x720_1766531653004.jpg" />
-    <country lang="en">Spain</country>
-    <episode-num system="onscreen">S2</episode-num>
-  </programme>
-  <programme start="20250113145500 +0000" stop="20250113155000 +0000" channel="Rally.TV.de">
-    <title lang="en">SS6 Full Stage Replay - Rally Islas Canarias 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/168/40/240503_erc_can_relive06_1766519877055_mp4_video_1920x1080_8000000_primary_audio_eng_8_640x720_1766538309012.jpg" />
-    <country lang="en">Spain</country>
-    <episode-num system="onscreen">S2</episode-num>
-  </programme>
-  <programme start="20250113155000 +0000" stop="20250113161500 +0000" channel="Rally.TV.de">
-    <title lang="en">Full Event Highlights - Rally Islas Canarias 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/845/292/RallyIslasCanarias_EventHighlights_420x1080_1767213637010.jpg" />
-    <country lang="en">Spain</country>
-  </programme>
-  <programme start="20250113161500 +0000" stop="20250113172500 +0000" channel="Rally.TV.de">
-    <title lang="en">SS7 Full Stage Replay - Rally Islas Canarias 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/165/612/240503_erc_can_relive07_1789202501080_mp4_video_1920x1080_8000000_primary_audio_eng_8_720x720_1789337157147.jpg" />
-    <country lang="en">Spain</country>
-    <episode-num system="onscreen">S2</episode-num>
-  </programme>
-  <programme start="20250113172500 +0000" stop="20250113180500 +0000" channel="Rally.TV.de">
-    <title lang="en">SS8 Full Stage Replay - Rally Islas Canarias 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/845/292/240504_erc_can_relive08_1767205957482_mp4_video_1920x1080_8000000_primary_audio_eng_8_480x720_1767214149205.jpg" />
-    <country lang="en">Spain</country>
-    <episode-num system="onscreen">S2</episode-num>
-  </programme>
-  <programme start="20250113180500 +0000" stop="20250113185500 +0000" channel="Rally.TV.de">
-    <title lang="en">SS9 Full Stage Replay - Rally Islas Canarias 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/845/292/240504_erc_can_relive09_1778861637081_mp4_video_1920x1080_8000000_primary_audio_eng_8_720x720_1778904645501.jpg" />
-    <country lang="en">Spain</country>
-    <episode-num system="onscreen">S2</episode-num>
-  </programme>
-  <programme start="20250113190000 +0000" stop="20250113195500 +0000" channel="Rally.TV.de">
-    <title lang="en">SS10 Full Stage Replay - Rally Islas Canarias 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/845/292/240504_erc_can_relive10_1767213125029_mp4_video_1920x1080_8000000_primary_audio_eng_8_100x720_1767227973482.jpg" />
-    <country lang="en">Spain</country>
-    <episode-num system="onscreen">S3</episode-num>
-  </programme>
-  <programme start="20250113195500 +0000" stop="20250113200500 +0000" channel="Rally.TV.de">
-    <title lang="en">ERC 2024 TOP 10 Moments</title>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-static.enhance.diagnal.com/logo/placeholder/erc_1920x1080.png" />
-  </programme>
-  <programme start="20250113200500 +0000" stop="20250113204500 +0000" channel="Rally.TV.de">
-    <title lang="en">SS11 Full Stage Replay - Rally Islas Canarias 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/845/292/240504_erc_can_relive11_1767213637244_mp4_video_1920x1080_8000000_primary_audio_eng_8_270x720_1767223877241.jpg" />
-    <country lang="en">Spain</country>
-    <episode-num system="onscreen">S3</episode-num>
-  </programme>
-  <programme start="20250113205000 +0000" stop="20250113214000 +0000" channel="Rally.TV.de">
-    <title lang="en">SS12 Full Stage Replay - Rally Islas Canarias 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/845/292/240504_erc_can_relive12_1767214149214_mp4_video_1920x1080_8000000_primary_audio_eng_8_960x720_1767229509467.jpg" />
-    <country lang="en">Spain</country>
-    <episode-num system="onscreen">S3</episode-num>
-  </programme>
-  <programme start="20250113214000 +0000" stop="20250113224000 +0000" channel="Rally.TV.de">
-    <title lang="en">SS13 Full Stage Replay - Rally Islas Canarias 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/845/292/240504_erc_can_relive13_1767216197283_mp4_video_1920x1080_8000000_primary_audio_eng_8_270x720_1767234629134.jpg" />
-    <country lang="en">Spain</country>
-    <episode-num system="onscreen">S3</episode-num>
-  </programme>
-  <programme start="20250113224000 +0000" stop="20250113230500 +0000" channel="Rally.TV.de">
-    <title lang="en">Full Event Highlights - Rally Islas Canarias 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/845/292/RallyIslasCanarias_EventHighlights_420x1080_1767213637010.jpg" />
-    <country lang="en">Spain</country>
-  </programme>
-  <programme start="20250113230500 +0000" stop="20250113233500 +0000" channel="Rally.TV.de">
-    <title lang="en">Full Highlights - Beyond Rally Women's Driver Development Programme 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/291/712/WRC2024_FEMALE_PROGRAM_Highlights_640x1080_1955693125342.jpg" />
-  </programme>
-  <programme start="20250113233500 +0000" stop="20250114002500 +0000" channel="Rally.TV.de">
-    <title lang="en">WRC Season Review 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/607/304/seasonreview_thumbnail_480x1080_1982874693343.jpg" />
-  </programme>
-  <programme start="20250114002500 +0000" stop="20250114005500 +0000" channel="Rally.TV.de">
-    <title lang="en">WRC - The greatest stages of the WRC</title>
-    <date>2019</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/679/832/WRC_GreatestStagesOfAllTime_480x1080_1788367429127.jpg" />
-  </programme>
-  <programme start="20250114005500 +0000" stop="20250114012000 +0000" channel="Rally.TV.de">
-    <title lang="en">WRC Favourites</title>
-    <date>2020</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/709/112/WRCDriversFavouriteCars_480x1080_1788415557338.jpg" />
-  </programme>
-  <programme start="20250114012000 +0000" stop="20250114021000 +0000" channel="Rally.TV.de">
-    <title lang="en">Best Of: World Rally Car Era</title>
-    <date>2021</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/700/328/BestOfWRCRallyCarEra_320x1080_1788377669153.jpg" />
-  </programme>
-  <programme start="20250114021000 +0000" stop="20250114034500 +0000" channel="Rally.TV.de">
-    <title lang="en">SS21 Full Stage Replay - FORUM8 Rally Japan 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/368/528/241124_wrc_jap_relive21_1967532101096_mp4_video_1920x1080_8000000_primary_audio_eng_8_320x720_1967592005231.jpg" />
-    <country lang="en">Japan</country>
-    <episode-num system="onscreen">S4</episode-num>
-  </programme>
-  <programme start="20250114034500 +0000" stop="20250114043500 +0000" channel="Rally.TV.de">
-    <title lang="en">Full Event Highlights - FORUM8 Rally Japan 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/108/268/WRC_RallyJapan_2024_fulleventhighlights_480x1080_1967625797097.jpg" />
-    <country lang="en">Japan</country>
-  </programme>
-  <programme start="20250114043500 +0000" stop="20250114053000 +0000" channel="Rally.TV.de">
-    <title lang="en">Full Event Highlights - Central European Rally 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/530/724/eventhilights_thumbnail_320x1080_1931225669042.jpg" />
-    <country lang="en">Europe</country>
-  </programme>
-  <programme start="20250114053000 +0000" stop="20250114055500 +0000" channel="Rally.TV.de">
-    <title lang="en">WRC2 Event Highlights - Central European Rally 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/318/8/WRC_CentralEuropeanRally2024_WRC2EventHighlights_320x1080_1936069189169.jpg" />
-    <country lang="en">Europe</country>
-  </programme>
   <programme start="20250114060000 +0000" stop="20250114070500 +0000" channel="Rally.TV.de">
     <title lang="en">SS01 Full Replay - Rally di Roma Capitale 2023</title>
-    <date>2023</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/376/632/ERC_RallyDiRoma_SS12023_420x1082_1570688069389.jpg" />
-    <country lang="en">Italy</country>
   </programme>
   <programme start="20250114070500 +0000" stop="20250114075000 +0000" channel="Rally.TV.de">
     <title lang="en">SS02 Full Replay - Rally di Roma Capitale 2023</title>
-    <date>2023</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/91/896/230729_erc_rom_relive02_1462537285044_mp4_video_1920x1080_8000000_primary_audio_eng_8_640x720_1462554693030.jpg" />
-    <country lang="en">Italy</country>
   </programme>
   <programme start="20250114075000 +0000" stop="20250114084500 +0000" channel="Rally.TV.de">
     <title lang="en">SS03 Full Replay - Rally di Roma Capitale 2023</title>
-    <date>2023</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/90/420/230729_erc_rom_relive03_1462536773167_mp4_video_1920x1080_8000000_primary_audio_eng_8_1280x720_1462554693500.jpg" />
-    <country lang="en">Italy</country>
   </programme>
   <programme start="20250114084500 +0000" stop="20250114093000 +0000" channel="Rally.TV.de">
     <title lang="en">SS04 Full Replay - Rally di Roma Capitale 2023</title>
-    <date>2023</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/95/300/230729_erc_rom_relive04_1462541381023_mp4_video_1920x1080_8000000_primary_audio_eng_8_720x720_1462559301279.jpg" />
-    <country lang="en">Italy</country>
   </programme>
   <programme start="20250114093000 +0000" stop="20250114101500 +0000" channel="Rally.TV.de">
     <title lang="en">SS05 Full Replay - Rally di Roma Capitale 2023</title>
-    <date>2023</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/97/252/230729_erc_rom_relive05_1462546501111_mp4_video_1920x1080_8000000_primary_audio_eng_8_320x720_1462556741498.jpg" />
-    <country lang="en">Italy</country>
   </programme>
   <programme start="20250114101500 +0000" stop="20250114111000 +0000" channel="Rally.TV.de">
     <title lang="en">SS06 Full Replay - Rally di Roma Capitale 2023</title>
-    <date>2023</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/97/252/230729_erc_rom_relive06_1462550597382_mp4_video_1920x1080_8000000_primary_audio_eng_8_100x720_1462598213018.jpg" />
-    <country lang="en">Italy</country>
   </programme>
   <programme start="20250114111000 +0000" stop="20250114114500 +0000" channel="Rally.TV.de">
     <title lang="en">SS07 Full Replay - Rally di Roma Capitale 2023</title>
-    <date>2023</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/104/84/230729_erc_rom_relive07_1462554693019_mp4_video_1920x1080_8000000_primary_audio_eng_8_1280x720_1462566469249.jpg" />
-    <country lang="en">Italy</country>
   </programme>
   <programme start="20250114114500 +0000" stop="20250114124000 +0000" channel="Rally.TV.de">
     <title lang="en">SS08 Full Replay - Rally di Roma Capitale 2023</title>
-    <date>2023</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/723/728/230730_erc_rom_relive08_1463229509181_mp4_video_1920x1080_8000000_primary_audio_eng_8_640x720_1463295045210.jpg" />
-    <country lang="en">Italy</country>
   </programme>
   <programme start="20250114124000 +0000" stop="20250114124500 +0000" channel="Rally.TV.de">
     <title lang="en">ERC 2024 TOP 10 Moments</title>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-static.enhance.diagnal.com/logo/placeholder/erc_1920x1080.png" />
   </programme>
   <programme start="20250114124500 +0000" stop="20250114132000 +0000" channel="Rally.TV.de">
     <title lang="en">SS09 Full Replay - Rally di Roma Capitale 2023</title>
-    <date>2023</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/726/656/230730_erc_rom_relive09_1463221317383_mp4_video_1920x1080_8000000_primary_audio_eng_8_270x720_1463290949057.jpg" />
-    <country lang="en">Italy</country>
   </programme>
   <programme start="20250114132000 +0000" stop="20250114141500 +0000" channel="Rally.TV.de">
     <title lang="en">SS10 Full Replay - Rally di Roma Capitale 2023</title>
-    <date>2023</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/726/656/230730_erc_rom_relive10_1463274565267_mp4_video_1920x1080_8000000_primary_audio_eng_8_270x720_1463299141123.jpg" />
-    <country lang="en">Italy</country>
   </programme>
   <programme start="20250114141500 +0000" stop="20250114145000 +0000" channel="Rally.TV.de">
     <title lang="en">SS11 Full Replay - Rally di Roma Capitale 2023</title>
-    <date>2023</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/730/60/230730_erc_rom_relive11_1463269445141_mp4_video_1920x1080_8000000_primary_audio_eng_8_160x720_1463297605065.jpg" />
-    <country lang="en">Italy</country>
   </programme>
   <programme start="20250114145000 +0000" stop="20250114154500 +0000" channel="Rally.TV.de">
     <title lang="en">SS12 Full Replay - Rally di Roma Capitale 2023</title>
-    <date>2023</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/815/520/230730_erc_rom_relive12_1463292997321_mp4_video_1920x1080_8000000_primary_audio_eng_8_320x720_1463308869459.jpg" />
-    <country lang="en">Italy</country>
   </programme>
   <programme start="20250114154500 +0000" stop="20250114163000 +0000" channel="Rally.TV.de">
     <title lang="en">SS13 Full Replay - Rally di Roma Capitale 2023</title>
-    <date>2023</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/816/996/230730_erc_rom_relive13_1463305797080_mp4_video_1920x1080_8000000_primary_audio_eng_8_640x720_1463313477352.jpg" />
-    <country lang="en">Italy</country>
   </programme>
   <programme start="20250114163000 +0000" stop="20250114165500 +0000" channel="Rally.TV.de">
     <title lang="en">Event Highlights - Rally di Roma Capitale 2023</title>
-    <date>2023</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/835/40/230730_erc_rom_eventhl_1463314501032_mp4_video_1920x1080_8000000_primary_audio_eng_8_480x720_1463318085029.jpg" />
-    <country lang="en">Italy</country>
   </programme>
   <programme start="20250114165500 +0000" stop="20250114175000 +0000" channel="Rally.TV.de">
     <title lang="en">WRC2 Season Review 2023</title>
-    <date>2023</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/942/408/WRC2_SeasonReview2023_960x1080_1613238341470.jpg" />
   </programme>
   <programme start="20250114175000 +0000" stop="20250114175500 +0000" channel="Rally.TV.de">
     <title lang="en">ERC 2024 TOP 10 Moments</title>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-static.enhance.diagnal.com/logo/placeholder/erc_1920x1080.png" />
   </programme>
   <programme start="20250114180000 +0000" stop="20250114191000 +0000" channel="Rally.TV.de">
     <title lang="en">SS01 Full Replay - Rally di Roma Capitale 2023</title>
-    <date>2023</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/376/632/ERC_RallyDiRoma_SS12023_420x1082_1570688069389.jpg" />
-    <country lang="en">Italy</country>
   </programme>
   <programme start="20250114191000 +0000" stop="20250114195000 +0000" channel="Rally.TV.de">
     <title lang="en">SS02 Full Replay - Rally di Roma Capitale 2023</title>
-    <date>2023</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/91/896/230729_erc_rom_relive02_1462537285044_mp4_video_1920x1080_8000000_primary_audio_eng_8_640x720_1462554693030.jpg" />
-    <country lang="en">Italy</country>
   </programme>
   <programme start="20250114195000 +0000" stop="20250114204500 +0000" channel="Rally.TV.de">
     <title lang="en">SS03 Full Replay - Rally di Roma Capitale 2023</title>
-    <date>2023</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/90/420/230729_erc_rom_relive03_1462536773167_mp4_video_1920x1080_8000000_primary_audio_eng_8_1280x720_1462554693500.jpg" />
-    <country lang="en">Italy</country>
   </programme>
   <programme start="20250114204500 +0000" stop="20250114213500 +0000" channel="Rally.TV.de">
     <title lang="en">SS04 Full Replay - Rally di Roma Capitale 2023</title>
-    <date>2023</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/95/300/230729_erc_rom_relive04_1462541381023_mp4_video_1920x1080_8000000_primary_audio_eng_8_720x720_1462559301279.jpg" />
-    <country lang="en">Italy</country>
   </programme>
   <programme start="20250114213500 +0000" stop="20250114221500 +0000" channel="Rally.TV.de">
     <title lang="en">SS05 Full Replay - Rally di Roma Capitale 2023</title>
-    <date>2023</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/97/252/230729_erc_rom_relive05_1462546501111_mp4_video_1920x1080_8000000_primary_audio_eng_8_320x720_1462556741498.jpg" />
-    <country lang="en">Italy</country>
   </programme>
   <programme start="20250114221500 +0000" stop="20250114231000 +0000" channel="Rally.TV.de">
     <title lang="en">SS06 Full Replay - Rally di Roma Capitale 2023</title>
-    <date>2023</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/97/252/230729_erc_rom_relive06_1462550597382_mp4_video_1920x1080_8000000_primary_audio_eng_8_100x720_1462598213018.jpg" />
-    <country lang="en">Italy</country>
   </programme>
   <programme start="20250114231000 +0000" stop="20250114235000 +0000" channel="Rally.TV.de">
     <title lang="en">SS07 Full Replay - Rally di Roma Capitale 2023</title>
-    <date>2023</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/104/84/230729_erc_rom_relive07_1462554693019_mp4_video_1920x1080_8000000_primary_audio_eng_8_1280x720_1462566469249.jpg" />
-    <country lang="en">Italy</country>
   </programme>
   <programme start="20250114235000 +0000" stop="20250115004000 +0000" channel="Rally.TV.de">
     <title lang="en">SS08 Full Replay - Rally di Roma Capitale 2023</title>
-    <date>2023</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/723/728/230730_erc_rom_relive08_1463229509181_mp4_video_1920x1080_8000000_primary_audio_eng_8_640x720_1463295045210.jpg" />
-    <country lang="en">Italy</country>
   </programme>
   <programme start="20250115004000 +0000" stop="20250115005000 +0000" channel="Rally.TV.de">
     <title lang="en">ERC 2024 TOP 10 Moments</title>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-static.enhance.diagnal.com/logo/placeholder/erc_1920x1080.png" />
   </programme>
   <programme start="20250115005000 +0000" stop="20250115012500 +0000" channel="Rally.TV.de">
     <title lang="en">SS09 Full Replay - Rally di Roma Capitale 2023</title>
-    <date>2023</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/726/656/230730_erc_rom_relive09_1463221317383_mp4_video_1920x1080_8000000_primary_audio_eng_8_270x720_1463290949057.jpg" />
-    <country lang="en">Italy</country>
   </programme>
   <programme start="20250115012500 +0000" stop="20250115021500 +0000" channel="Rally.TV.de">
     <title lang="en">SS10 Full Replay - Rally di Roma Capitale 2023</title>
-    <date>2023</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/726/656/230730_erc_rom_relive10_1463274565267_mp4_video_1920x1080_8000000_primary_audio_eng_8_270x720_1463299141123.jpg" />
-    <country lang="en">Italy</country>
   </programme>
   <programme start="20250115021500 +0000" stop="20250115025000 +0000" channel="Rally.TV.de">
     <title lang="en">SS11 Full Replay - Rally di Roma Capitale 2023</title>
-    <date>2023</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/730/60/230730_erc_rom_relive11_1463269445141_mp4_video_1920x1080_8000000_primary_audio_eng_8_160x720_1463297605065.jpg" />
-    <country lang="en">Italy</country>
   </programme>
   <programme start="20250115025000 +0000" stop="20250115034500 +0000" channel="Rally.TV.de">
     <title lang="en">SS12 Full Replay - Rally di Roma Capitale 2023</title>
-    <date>2023</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/815/520/230730_erc_rom_relive12_1463292997321_mp4_video_1920x1080_8000000_primary_audio_eng_8_320x720_1463308869459.jpg" />
-    <country lang="en">Italy</country>
   </programme>
   <programme start="20250115034500 +0000" stop="20250115043000 +0000" channel="Rally.TV.de">
     <title lang="en">SS13 Full Replay - Rally di Roma Capitale 2023</title>
-    <date>2023</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/816/996/230730_erc_rom_relive13_1463305797080_mp4_video_1920x1080_8000000_primary_audio_eng_8_640x720_1463313477352.jpg" />
-    <country lang="en">Italy</country>
   </programme>
   <programme start="20250115043000 +0000" stop="20250115045500 +0000" channel="Rally.TV.de">
     <title lang="en">Event Highlights - Rally di Roma Capitale 2023</title>
-    <date>2023</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/835/40/230730_erc_rom_eventhl_1463314501032_mp4_video_1920x1080_8000000_primary_audio_eng_8_480x720_1463318085029.jpg" />
-    <country lang="en">Italy</country>
   </programme>
   <programme start="20250115045500 +0000" stop="20250115055000 +0000" channel="Rally.TV.de">
     <title lang="en">WRC2 Season Review 2023</title>
-    <date>2023</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/942/408/WRC2_SeasonReview2023_960x1080_1613238341470.jpg" />
   </programme>
   <programme start="20250115055000 +0000" stop="20250115055500 +0000" channel="Rally.TV.de">
     <title lang="en">ERC 2024 TOP 10 Moments</title>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-static.enhance.diagnal.com/logo/placeholder/erc_1920x1080.png" />
   </programme>
   <programme start="20250115060000 +0000" stop="20250115065000 +0000" channel="Rally.TV.de">
     <title lang="en">Full Event Highlights - Rally Sweden 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/794/216/THumb17_270x1080_1686730821213.jpg" />
-    <country lang="en">Sweden</country>
   </programme>
   <programme start="20250115065000 +0000" stop="20250115074000 +0000" channel="Rally.TV.de">
     <title lang="en">WRC Season Review 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/607/304/seasonreview_thumbnail_480x1080_1982874693343.jpg" />
   </programme>
   <programme start="20250115074500 +0000" stop="20250115081000 +0000" channel="Rally.TV.de">
     <title lang="en">WRC2 Event Highlights - Rally Sweden 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/442/860/RallySweden2024_WRC2EventHighlights_Banner.jpg" />
-    <country lang="en">Sweden</country>
   </programme>
   <programme start="20250115081000 +0000" stop="20250115083500 +0000" channel="Rally.TV.de">
     <title lang="en">Preview Magazine - Rally Sweden 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/314/844/THumb1_160x1080_1677643333049.jpg" />
-    <country lang="en">Sweden</country>
   </programme>
-  <programme start="20250115083500 +0000" stop="20250115093500 +0000" channel="Rally.TV.de">
+  <programme start="20250115084000 +0000" stop="20250115093500 +0000" channel="Rally.TV.de">
     <title lang="en">SS1 Full Stage Replay - Rally Sweden 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/20/368/240215_wrc_swe_relive01_1684751429288_mp4_video_1920x1080_8000000_primary_audio_eng_8_420x720_1684934213358.jpg" />
-    <country lang="en">Sweden</country>
-    <episode-num system="onscreen">S1</episode-num>
   </programme>
-  <programme start="20250115093500 +0000" stop="20250115102000 +0000" channel="Rally.TV.de">
+  <programme start="20250115093500 +0000" stop="20250115102500 +0000" channel="Rally.TV.de">
     <title lang="en">SS2 Full Stage Replay - Rally Sweden 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/43/816/240216_wrc_swe_relive02_1684809285492_mp4_video_1920x1080_8000000_primary_audio_eng_8_640x720_1684980805245.jpg" />
-    <country lang="en">Sweden</country>
-    <episode-num system="onscreen">S2</episode-num>
   </programme>
-  <programme start="20250115102000 +0000" stop="20250115111000 +0000" channel="Rally.TV.de">
+  <programme start="20250115102500 +0000" stop="20250115111000 +0000" channel="Rally.TV.de">
     <title lang="en">SS3 Full Stage Replay - Rally Sweden 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/276/224/240216_wrc_swe_relive03_1684999237171_mp4_video_1920x1080_8000000_primary_audio_eng_8_720x720_1685025861220.jpg" />
-    <country lang="en">Sweden</country>
-    <episode-num system="onscreen">S2</episode-num>
   </programme>
   <programme start="20250115111000 +0000" stop="20250115120500 +0000" channel="Rally.TV.de">
     <title lang="en">SS4 Full Stage Replay - Rally Sweden 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/279/652/240216_wrc_swe_relive04_1685007941040_mp4_video_1920x1080_8000000_primary_audio_eng_8_270x720_1685038661422.jpg" />
-    <country lang="en">Sweden</country>
-    <episode-num system="onscreen">S2</episode-num>
   </programme>
   <programme start="20250115120500 +0000" stop="20250115125000 +0000" channel="Rally.TV.de">
     <title lang="en">SS5 Full Stage Replay - Rally Sweden 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/282/80/240216_wrc_swe_relive05_1685005381465_mp4_video_1920x1080_8000000_primary_audio_eng_8_480x720_1685027397437.jpg" />
-    <country lang="en">Sweden</country>
-    <episode-num system="onscreen">S2</episode-num>
   </programme>
   <programme start="20250115125000 +0000" stop="20250115133000 +0000" channel="Rally.TV.de">
     <title lang="en">SS6 Full Stage Replay - Rally Sweden 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/283/556/240216_wrc_swe_relive06_1685017157236_mp4_video_1920x1080_8000000_primary_audio_eng_8_480x720_1685068869251.jpg" />
-    <country lang="en">Sweden</country>
-    <episode-num system="onscreen">S2</episode-num>
   </programme>
   <programme start="20250115133000 +0000" stop="20250115142500 +0000" channel="Rally.TV.de">
     <title lang="en">SS7 Full Stage Replay - Rally Sweden 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/344/92/240216_wrc_swe_relive07_1685071941427_mp4_video_1920x1080_8000000_primary_audio_eng_8_720x720_1685087301161.jpg" />
-    <country lang="en">Sweden</country>
-    <episode-num system="onscreen">S2</episode-num>
   </programme>
   <programme start="20250115142500 +0000" stop="20250115150500 +0000" channel="Rally.TV.de">
     <title lang="en">SS8 Full Stage Replay - Rally Sweden 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/344/92/240216_wrc_swe_relive08_1685077573139_mp4_video_1920x1080_8000000_primary_audio_eng_8_720x720_1685087301216.jpg" />
-    <country lang="en">Sweden</country>
-    <episode-num system="onscreen">S2</episode-num>
   </programme>
   <programme start="20250115150500 +0000" stop="20250115154500 +0000" channel="Rally.TV.de">
     <title lang="en">SS9 Full Stage Replay - Rally Sweden 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/879/252/240217_wrc_swe_relive09_1685667397232_mp4_video_1920x1080_8000000_primary_audio_eng_8_270x720_1685688389298.jpg" />
-    <country lang="en">Sweden</country>
-    <episode-num system="onscreen">S3</episode-num>
   </programme>
-  <programme start="20250115154500 +0000" stop="20250115163500 +0000" channel="Rally.TV.de">
+  <programme start="20250115154500 +0000" stop="20250115164000 +0000" channel="Rally.TV.de">
     <title lang="en">Full Event Highlights - Rally Sweden 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/794/216/THumb17_270x1080_1686730821213.jpg" />
-    <country lang="en">Sweden</country>
   </programme>
-  <programme start="20250115163500 +0000" stop="20250115173000 +0000" channel="Rally.TV.de">
+  <programme start="20250115164000 +0000" stop="20250115173000 +0000" channel="Rally.TV.de">
     <title lang="en">WRC Season Review 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/607/304/seasonreview_thumbnail_480x1080_1982874693343.jpg" />
   </programme>
   <programme start="20250115173000 +0000" stop="20250115175500 +0000" channel="Rally.TV.de">
     <title lang="en">WRC2 Event Highlights - Rally Sweden 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/442/860/RallySweden2024_WRC2EventHighlights_Banner.jpg" />
-    <country lang="en">Sweden</country>
   </programme>
-  <programme start="20250115175500 +0000" stop="20250115182000 +0000" channel="Rally.TV.de">
+  <programme start="20250115175500 +0000" stop="20250115182500 +0000" channel="Rally.TV.de">
     <title lang="en">Full Highlights - Beyond Rally Women's Driver Development Programme 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/291/712/WRC2024_FEMALE_PROGRAM_Highlights_640x1080_1955693125342.jpg" />
   </programme>
-  <programme start="20250115182000 +0000" stop="20250115192000 +0000" channel="Rally.TV.de">
+  <programme start="20250115182500 +0000" stop="20250115192000 +0000" channel="Rally.TV.de">
     <title lang="en">SS10 Full Stage Replay - Rally Sweden 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/899/772/240217_wrc_swe_relive10_1685682245167_mp4_video_1920x1080_8000000_primary_audio_eng_8_270x720_1685716549071.jpg" />
-    <country lang="en">Sweden</country>
-    <episode-num system="onscreen">S3</episode-num>
   </programme>
-  <programme start="20250115192000 +0000" stop="20250115201500 +0000" channel="Rally.TV.de">
+  <programme start="20250115192500 +0000" stop="20250115201500 +0000" channel="Rally.TV.de">
     <title lang="en">SS11 Full Stage Replay - Rally Sweden 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/919/292/240217_wrc_swe_relive11_1685681221012_mp4_video_1920x1080_8000000_primary_audio_eng_8_320x720_1685711941302.jpg" />
-    <country lang="en">Sweden</country>
-    <episode-num system="onscreen">S3</episode-num>
   </programme>
-  <programme start="20250115202000 +0000" stop="20250115203500 +0000" channel="Rally.TV.de">
+  <programme start="20250115201500 +0000" stop="20250115203000 +0000" channel="Rally.TV.de">
     <title lang="en">Onboard of the Rally: Fourmaux SS11 - Rally Sweden 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/240/784/RTV_SWEDEN_POST_WRC_ONBOARD_FOU_SS11_AB_1689248325415_mp4_video_1920x1080_8000000_primary_audio_eng_8_480x720_1689344581292.jpg" />
-    <country lang="en">Sweden</country>
   </programme>
-  <programme start="20250115203500 +0000" stop="20250115210500 +0000" channel="Rally.TV.de">
+  <programme start="20250115203000 +0000" stop="20250115210500 +0000" channel="Rally.TV.de">
     <title lang="en">SS12 Full Stage Replay - Rally Sweden 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/922/720/240217_wrc_swe_relive12_1685679685345_mp4_video_1920x1080_8000000_primary_audio_eng_8_720x720_1685698629043.jpg" />
-    <country lang="en">Sweden</country>
-    <episode-num system="onscreen">S3</episode-num>
   </programme>
   <programme start="20250115210500 +0000" stop="20250115211500 +0000" channel="Rally.TV.de">
     <title lang="en">WRC2 Full Onboard Pajari SS12 - Rally Sweden 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/243/712/RTV_SWEDEN_POST_WRC_ONBOARD_PAJ_SS12_AB_1689255493180_mp4_video_1920x1080_8000000_primary_audio_eng_8_720x720_1689345093192.jpg" />
-    <country lang="en">Sweden</country>
   </programme>
   <programme start="20250115211500 +0000" stop="20250115221500 +0000" channel="Rally.TV.de">
     <title lang="en">SS13 Full Stage Replay - Rally Sweden 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/949/572/240217_wrc_swe_relive13_1685708869427_mp4_video_1920x1080_8000000_primary_audio_eng_8_960x720_1685732421034.jpg" />
-    <country lang="en">Sweden</country>
-    <episode-num system="onscreen">S3</episode-num>
   </programme>
   <programme start="20250115221500 +0000" stop="20250115231000 +0000" channel="Rally.TV.de">
     <title lang="en">SS14 Full Stage Replay - Rally Sweden 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/961/284/240217_wrc_swe_relive14_1685718085366_mp4_video_1920x1080_8000000_primary_audio_eng_8_640x720_1685742661024.jpg" />
-    <country lang="en">Sweden</country>
-    <episode-num system="onscreen">S3</episode-num>
   </programme>
   <programme start="20250115231000 +0000" stop="20250116000000 +0000" channel="Rally.TV.de">
     <title lang="en">SS15 Full Stage Replay - Rally Sweden 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/996/944/240217_wrc_swe_relive15_1685829701369_mp4_video_1920x1080_8000000_primary_audio_eng_8_960x720_1685836357421.jpg" />
-    <country lang="en">Sweden</country>
-    <episode-num system="onscreen">S3</episode-num>
   </programme>
   <programme start="20250116000000 +0000" stop="20250116005500 +0000" channel="Rally.TV.de">
     <title lang="en">SS16 Full Stage Replay - Rally Sweden 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/753/200/240218_wrc_swe_relive16_1686580293099_mp4_video_1920x1080_8000000_primary_audio_eng_8_320x720_1686598213261.jpg" />
-    <country lang="en">Sweden</country>
-    <episode-num system="onscreen">S4</episode-num>
   </programme>
   <programme start="20250116005500 +0000" stop="20250116015000 +0000" channel="Rally.TV.de">
     <title lang="en">SS17 Full Stage Replay - Rally Sweden 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/757/104/240218_wrc_swe_relive17_1686578245362_mp4_video_1920x1080_8000000_primary_audio_eng_8_1280x720_1686599749281.jpg" />
-    <country lang="en">Sweden</country>
-    <episode-num system="onscreen">S4</episode-num>
   </programme>
-  <programme start="20250116015000 +0000" stop="20250116031500 +0000" channel="Rally.TV.de">
+  <programme start="20250116015000 +0000" stop="20250116032000 +0000" channel="Rally.TV.de">
     <title lang="en">SS18 Full Stage Replay - Rally Sweden 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/761/508/240218_wrc_swe_relive18_1686591045151_mp4_video_1920x1080_8000000_primary_audio_eng_8_720x720_1686643269145.jpg" />
-    <country lang="en">Sweden</country>
-    <episode-num system="onscreen">S4</episode-num>
   </programme>
   <programme start="20250116032000 +0000" stop="20250116034500 +0000" channel="Rally.TV.de">
     <title lang="en">Full Highlights - Beyond Rally Women's Driver Development Programme 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/291/712/WRC2024_FEMALE_PROGRAM_Highlights_640x1080_1955693125342.jpg" />
   </programme>
   <programme start="20250116034500 +0000" stop="20250116044000 +0000" channel="Rally.TV.de">
     <title lang="en">Full Event Highlights - Rally Sweden 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/794/216/THumb17_270x1080_1686730821213.jpg" />
-    <country lang="en">Sweden</country>
   </programme>
   <programme start="20250116044000 +0000" stop="20250116050500 +0000" channel="Rally.TV.de">
     <title lang="en">WRC2 Event Highlights - Rally Sweden 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/442/860/RallySweden2024_WRC2EventHighlights_Banner.jpg" />
-    <country lang="en">Sweden</country>
   </programme>
   <programme start="20250116050500 +0000" stop="20250116055500 +0000" channel="Rally.TV.de">
     <title lang="en">WRC Season Review 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/607/304/seasonreview_thumbnail_480x1080_1982874693343.jpg" />
   </programme>
   <programme start="20250116060000 +0000" stop="20250116065000 +0000" channel="Rally.TV.de">
     <title lang="en">Full Event Highlights - Vodafone Rally de Portugal 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/607/972/portugalfullhighlights_thumbnail_420x1080_1774784069161.jpg" />
-    <country lang="en">Portugal</country>
   </programme>
   <programme start="20250116065000 +0000" stop="20250116071500 +0000" channel="Rally.TV.de">
     <title lang="en">WRC2 Event Highlights - Vodafone Rally de Portugal 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/585/620/RallydePortugal2024_WRC2EventHighlights_480x1080_1779956293335.jpg" />
-    <country lang="en">Portugal</country>
   </programme>
   <programme start="20250116071500 +0000" stop="20250116074000 +0000" channel="Rally.TV.de">
     <title lang="en">Preview Magazine - Vodafone Rally de Portugal 2024 V2</title>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-static.enhance.diagnal.com/logo/placeholder/wrc_1920x1080.png" />
   </programme>
   <programme start="20250116074000 +0000" stop="20250116084000 +0000" channel="Rally.TV.de">
     <title lang="en">SS1 Full Stage Replay - Vodafone Rally de Portugal 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/1020/788/240509_wrc_por_relive01_1772765253169_mp4_video_1920x1080_8000000_primary_audio_eng_8_160x720_1772795461386.jpg" />
-    <country lang="en">Portugal</country>
-    <episode-num system="onscreen">S1</episode-num>
   </programme>
   <programme start="20250116084000 +0000" stop="20250116094000 +0000" channel="Rally.TV.de">
     <title lang="en">SS2 Full Stage Replay - Vodafone Rally de Portugal 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/12/828/240510_wrc_por_relive02_1772780613254_mp4_video_1920x1080_8000000_primary_audio_eng_8_1280x720_1772801093439.jpg" />
-    <country lang="en">Portugal</country>
-    <episode-num system="onscreen">S2</episode-num>
   </programme>
   <programme start="20250116094000 +0000" stop="20250116103500 +0000" channel="Rally.TV.de">
     <title lang="en">SS3 Full Stage Replay - Vodafone Rally de Portugal 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/17/708/240510_wrc_por_relive03_1772783685213_mp4_video_1920x1080_8000000_primary_audio_eng_8_270x720_1772817477466.jpg" />
-    <country lang="en">Portugal</country>
-    <episode-num system="onscreen">S2</episode-num>
   </programme>
   <programme start="20250116103500 +0000" stop="20250116113500 +0000" channel="Rally.TV.de">
     <title lang="en">SS4 Full Stage Replay - Vodafone Rally de Portugal 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/23/64/240510_wrc_por_relive04_1772790341186_mp4_video_1920x1080_8000000_primary_audio_eng_8_270x720_1772824645312.jpg" />
-    <country lang="en">Portugal</country>
-    <episode-num system="onscreen">S2</episode-num>
   </programme>
   <programme start="20250116113500 +0000" stop="20250116122000 +0000" channel="Rally.TV.de">
     <title lang="en">SS5 Full Stage Replay - Vodafone Rally de Portugal 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/31/872/240510_wrc_por_relive05_1772793413271_mp4_video_1920x1080_8000000_primary_audio_eng_8_720x720_1772823109426.jpg" />
-    <country lang="en">Portugal</country>
-    <episode-num system="onscreen">S2</episode-num>
   </programme>
   <programme start="20250116122000 +0000" stop="20250116131000 +0000" channel="Rally.TV.de">
     <title lang="en">SS6 Full Stage Replay - Vodafone Rally de Portugal 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/48/464/240510_wrc_por_relive06_1772803141231_mp4_video_1920x1080_8000000_primary_audio_eng_8_160x720_1772832325333.jpg" />
-    <country lang="en">Portugal</country>
-    <episode-num system="onscreen">S2</episode-num>
   </programme>
   <programme start="20250116131000 +0000" stop="20250116135500 +0000" channel="Rally.TV.de">
     <title lang="en">SS7 Full Stage Replay - Vodafone Rally de Portugal 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/48/964/240510_wrc_por_relive07_1772808773179_mp4_video_1920x1080_8000000_primary_audio_eng_8_320x720_1772837445238.jpg" />
-    <country lang="en">Portugal</country>
-    <episode-num system="onscreen">S2</episode-num>
   </programme>
   <programme start="20250116135500 +0000" stop="20250116144500 +0000" channel="Rally.TV.de">
     <title lang="en">SS8 Full Stage Replay - Vodafone Rally de Portugal 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/54/320/240510_wrc_por_relive08_1772829253247_mp4_video_1920x1080_8000000_primary_audio_eng_8_720x720_1772850757046.jpg" />
-    <country lang="en">Portugal</country>
-    <episode-num system="onscreen">S2</episode-num>
   </programme>
   <programme start="20250116144500 +0000" stop="20250116153500 +0000" channel="Rally.TV.de">
     <title lang="en">SS9 Full Stage Replay - Vodafone Rally de Portugal 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/67/1008/240510_wrc_por_relive09_1772831813301_mp4_video_1920x1080_8000000_primary_audio_eng_8_270x720_1772856901108.jpg" />
-    <country lang="en">Portugal</country>
-    <episode-num system="onscreen">S2</episode-num>
   </programme>
   <programme start="20250116153500 +0000" stop="20250116160000 +0000" channel="Rally.TV.de">
     <title lang="en">Friday Highlights - Vodafone Rally de Portugal 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/77/768/portugalfridayhighlights_thumbnail.jpg" />
-    <country lang="en">Portugal</country>
   </programme>
   <programme start="20250116160000 +0000" stop="20250116164500 +0000" channel="Rally.TV.de">
     <title lang="en">SS10 Full Stage Replay - Vodafone Rally de Portugal 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/899/40/240511_wrc_por_relive10_1773709381118_mp4_video_1920x1080_8000000_primary_audio_eng_8_960x720_1773735493175.jpg" />
-    <country lang="en">Portugal</country>
-    <episode-num system="onscreen">S3</episode-num>
   </programme>
   <programme start="20250116164500 +0000" stop="20250116174000 +0000" channel="Rally.TV.de">
     <title lang="en">SS11 Full Stage Replay - Vodafone Rally de Portugal 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/906/872/240511_wrc_por_relive11_1773717573100_mp4_video_1920x1080_8000000_primary_audio_eng_8_270x720_1773751877135.jpg" />
-    <country lang="en">Portugal</country>
-    <episode-num system="onscreen">S3</episode-num>
   </programme>
   <programme start="20250116174000 +0000" stop="20250116184500 +0000" channel="Rally.TV.de">
     <title lang="en">SS12 Full Stage Replay - Vodafone Rally de Portugal 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/918/584/240511_wrc_por_relive12_1773733957022_mp4_video_1920x1080_8000000_primary_audio_eng_8_1280x720_1773754437310.jpg" />
-    <country lang="en">Portugal</country>
-    <episode-num system="onscreen">S3</episode-num>
   </programme>
   <programme start="20250116184500 +0000" stop="20250116193500 +0000" channel="Rally.TV.de">
     <title lang="en">SS13 Full Stage Replay - Vodafone Rally de Portugal 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/926/392/240511_wrc_por_relive13_1773733445373_mp4_video_1920x1080_8000000_primary_audio_eng_8_960x720_1773753925330.jpg" />
-    <country lang="en">Portugal</country>
-    <episode-num system="onscreen">S3</episode-num>
   </programme>
   <programme start="20250116193500 +0000" stop="20250116201500 +0000" channel="Rally.TV.de">
     <title lang="en">SS14 Full Stage Replay - Vodafone Rally de Portugal 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/932/248/240511_wrc_por_relive14_1773734981355_mp4_video_1920x1080_8000000_primary_audio_eng_8_960x720_1773751877479.jpg" />
-    <country lang="en">Portugal</country>
-    <episode-num system="onscreen">S3</episode-num>
   </programme>
   <programme start="20250116201500 +0000" stop="20250116211500 +0000" channel="Rally.TV.de">
     <title lang="en">SS15 Full Stage Replay - Vodafone Rally de Portugal 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/940/56/240511_wrc_por_relive15_1773746757208_mp4_video_1920x1080_8000000_primary_audio_eng_8_320x720_1773770821018.jpg" />
-    <country lang="en">Portugal</country>
-    <episode-num system="onscreen">S3</episode-num>
   </programme>
   <programme start="20250116211500 +0000" stop="20250116221000 +0000" channel="Rally.TV.de">
     <title lang="en">SS16 Full Stage Replay - Vodafone Rally de Portugal 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/954/220/240511_wrc_por_relive16_1773758021054_mp4_video_1920x1080_8000000_primary_audio_eng_8_320x720_1773771333429.jpg" />
-    <country lang="en">Portugal</country>
-    <episode-num system="onscreen">S3</episode-num>
   </programme>
   <programme start="20250116221000 +0000" stop="20250116225000 +0000" channel="Rally.TV.de">
     <title lang="en">SS17 Full Stage Replay - Vodafone Rally de Portugal 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/961/52/240511_wrc_por_relive17_1773767749136_mp4_video_1920x1080_8000000_primary_audio_eng_8_320x720_1773772357245.jpg" />
-    <country lang="en">Portugal</country>
-    <episode-num system="onscreen">S3</episode-num>
   </programme>
   <programme start="20250116225000 +0000" stop="20250116235000 +0000" channel="Rally.TV.de">
     <title lang="en">SS18 Full Stage Replay - Vodafone Rally de Portugal 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/977/668/240511_wrc_por_relive18_1773773381408_mp4_video_1920x1080_8000000_primary_audio_eng_8_270x720_1773795909185.jpg" />
-    <country lang="en">Portugal</country>
-    <episode-num system="onscreen">S3</episode-num>
   </programme>
   <programme start="20250116235000 +0000" stop="20250117001500 +0000" channel="Rally.TV.de">
     <title lang="en">Saturday Highlights - Vodafone Rally de Portugal 2024</title>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://wrc-vod-prod.akamaized.net/prod/image/WRC_Production_-_Main/974/240/portugalsaturdayhighlights_thumbnail_480x1080_1773820485095.jpg" />
-    <country lang="en">Portugal</country>
+  </programme>
+  <programme start="20250117001500 +0000" stop="20250117011000 +0000" channel="Rally.TV.de">
+    <title lang="en">SS19 Full Stage Replay - Vodafone Rally de Portugal 2024</title>
+  </programme>
+  <programme start="20250117011000 +0000" stop="20250117020500 +0000" channel="Rally.TV.de">
+    <title lang="en">SS20 Full Stage Replay - Vodafone Rally de Portugal 2024</title>
+  </programme>
+  <programme start="20250117020500 +0000" stop="20250117025500 +0000" channel="Rally.TV.de">
+    <title lang="en">SS21 Full Stage Replay - Vodafone Rally de Portugal 2024</title>
+  </programme>
+  <programme start="20250117025500 +0000" stop="20250117042500 +0000" channel="Rally.TV.de">
+    <title lang="en">SS22 Full Stage Replay - Vodafone Rally de Portugal 2024</title>
+  </programme>
+  <programme start="20250117042500 +0000" stop="20250117045000 +0000" channel="Rally.TV.de">
+    <title lang="en">Sunday Highlights - Vodafone Rally de Portugal 2024</title>
+  </programme>
+  <programme start="20250117045000 +0000" stop="20250117054500 +0000" channel="Rally.TV.de">
+    <title lang="en">Full Event Highlights - Vodafone Rally de Portugal 2024</title>
+  </programme>
+  <programme start="20250117060000 +0000" stop="20250117065000 +0000" channel="Rally.TV.de">
+    <title lang="en">WRC Greatest Drivers: Carlos Sainz</title>
+  </programme>
+  <programme start="20250117065000 +0000" stop="20250117074000 +0000" channel="Rally.TV.de">
+    <title lang="en">WRC History: Best of Rally Finland</title>
+  </programme>
+  <programme start="20250117074000 +0000" stop="20250117083500 +0000" channel="Rally.TV.de">
+    <title lang="en">The French Revolution: Sébastien Loeb, Sébastien Ogier - WRC Special</title>
+  </programme>
+  <programme start="20250117083500 +0000" stop="20250117093000 +0000" channel="Rally.TV.de">
+    <title lang="en">WRC History: Best of Rally de Portugal</title>
+  </programme>
+  <programme start="20250117093000 +0000" stop="20250117102000 +0000" channel="Rally.TV.de">
+    <title lang="en">WRC Greatest Drivers: Tommi Mäkinen</title>
+  </programme>
+  <programme start="20250117102000 +0000" stop="20250117111500 +0000" channel="Rally.TV.de">
+    <title lang="en">WRC History: Best of Rally Argentina</title>
+  </programme>
+  <programme start="20250117111500 +0000" stop="20250117114500 +0000" channel="Rally.TV.de">
+    <title lang="en">WRC REWIND - Review of a decade</title>
+  </programme>
+  <programme start="20250117114500 +0000" stop="20250117121000 +0000" channel="Rally.TV.de">
+    <title lang="en">WRC REWIND - Review of a decade</title>
+  </programme>
+  <programme start="20250117121000 +0000" stop="20250117130000 +0000" channel="Rally.TV.de">
+    <title lang="en">Best Of: World Rally Car Era</title>
+  </programme>
+  <programme start="20250117130000 +0000" stop="20250117135500 +0000" channel="Rally.TV.de">
+    <title lang="en">WRC Season Review 2024</title>
+  </programme>
+  <programme start="20250117135500 +0000" stop="20250117145000 +0000" channel="Rally.TV.de">
+    <title lang="en">WRC Greatest Drivers: Carlos Sainz</title>
+  </programme>
+  <programme start="20250117145000 +0000" stop="20250117154000 +0000" channel="Rally.TV.de">
+    <title lang="en">WRC History: Best of Rally Finland</title>
+  </programme>
+  <programme start="20250117154000 +0000" stop="20250117163500 +0000" channel="Rally.TV.de">
+    <title lang="en">The French Revolution: Sébastien Loeb, Sébastien Ogier - WRC Special</title>
+  </programme>
+  <programme start="20250117163500 +0000" stop="20250117173000 +0000" channel="Rally.TV.de">
+    <title lang="en">WRC History: Best of Rally de Portugal</title>
+  </programme>
+  <programme start="20250117173000 +0000" stop="20250117182000 +0000" channel="Rally.TV.de">
+    <title lang="en">WRC Greatest Drivers: Tommi Mäkinen</title>
+  </programme>
+  <programme start="20250117182000 +0000" stop="20250117191500 +0000" channel="Rally.TV.de">
+    <title lang="en">WRC History: Best of Rally Argentina</title>
+  </programme>
+  <programme start="20250117191500 +0000" stop="20250117194500 +0000" channel="Rally.TV.de">
+    <title lang="en">WRC REWIND - Review of a decade</title>
+  </programme>
+  <programme start="20250117194500 +0000" stop="20250117201000 +0000" channel="Rally.TV.de">
+    <title lang="en">WRC REWIND - Review of a decade</title>
+  </programme>
+  <programme start="20250117201000 +0000" stop="20250117210000 +0000" channel="Rally.TV.de">
+    <title lang="en">Best Of: World Rally Car Era</title>
+  </programme>
+  <programme start="20250117210000 +0000" stop="20250117215500 +0000" channel="Rally.TV.de">
+    <title lang="en">WRC Season Review 2024</title>
+  </programme>
+  <programme start="20250117215500 +0000" stop="20250117225000 +0000" channel="Rally.TV.de">
+    <title lang="en">WRC Greatest Drivers: Carlos Sainz</title>
+  </programme>
+  <programme start="20250117225000 +0000" stop="20250117234000 +0000" channel="Rally.TV.de">
+    <title lang="en">WRC History: Best of Rally Finland</title>
+  </programme>
+  <programme start="20250117234000 +0000" stop="20250118003500 +0000" channel="Rally.TV.de">
+    <title lang="en">The French Revolution: Sébastien Loeb, Sébastien Ogier - WRC Special</title>
   </programme>
 </tv>
