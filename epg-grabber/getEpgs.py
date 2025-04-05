@@ -77,6 +77,7 @@ urls = [
     'https://epgshare01.online/epgshare01/epg_ripper_PT1.xml.gz',
     'https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz',
     'https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz',
+    'https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz',
 ]
 
 if __name__ == "__main__":
