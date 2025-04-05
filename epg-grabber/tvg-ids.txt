@@ -57,8 +57,8 @@ HBO.Signature.(HBO.3).-.Eastern.us
 HBO.Zone.HD.-.East.us
 FX.Movie.Channel.us
 FX.Networks.East.Coast.us
-FXX.us
-IFC.us
+FXX.USA.-.Eastern.us
+IFC.HDTV.(East).us
 Lifetime.Movies.-.East.us
 Paramount+.with.Showtime.-.Eastern.Feed.us
 Showtime.2.-.Eastern.us
