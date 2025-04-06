@@ -100,10 +100,11 @@ DAZN.4.es
 DAZN.F1.es
 DAZN.LALIGA.es
 DAZN.LALIGA.2.es
-ElevenSports1(src01).pt
-ElevenSports2(src01).pt
-ElevenSports3(src01).pt
-ElevenSports4(src01).pt
-ElevenSports5(src01).pt
+DAZN.1.pt
+DAZN.2.pt
+DAZN.3.pt
+DAZN.4.pt
+DAZN.5.pt
+DAZN.6.pt
 CANAL+.FORMULA1.fr
 plex.tv.Action.Hollywood.Movies.plex
