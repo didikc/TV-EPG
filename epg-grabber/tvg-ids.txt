@@ -108,3 +108,10 @@ DAZN.5.pt
 DAZN.6.pt
 CANAL+.FORMULA1.fr
 plex.tv.Action.Hollywood.Movies.plex
+ESPN.2.co
+ESPN.3.co
+ESPN.4.co
+ESPN.5.co
+ESPN.6.HD.co
+ESPN.7.HD.co
+ESPN.co
