@@ -65,6 +65,11 @@ Showtime.2.-.Eastern.us
 Starz.-.Eastern.us
 Syfy.-.Eastern.Feed.us
 TNT.-.Eastern.Feed.us
+Showtime.Extreme.-.Eastern.us
+Showtime.FamilyZone.(East).(SHOFe).us
+Showtime.Next.HD.-.Eastern.us
+SHOXBET.-.Eastern.us
+Showtime.Showcase.HD.-.East.us
 Sky.Arts.HD.uk
 Sky.Atlantic.HD.uk
 Sky.Action.uk
