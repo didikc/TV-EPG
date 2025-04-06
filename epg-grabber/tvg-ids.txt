@@ -92,7 +92,7 @@ Sky.Sport.F1.it
 SKY.Sport.F1.de
 SkySp.F1.uk
 SkySp.Fball.uk
-SkySportsPremierLeague.uk
+SkySp.PL.HD.uk
 DAZN.1.es
 DAZN.2.es
 DAZN.3.es
@@ -115,3 +115,4 @@ ESPN.5.co
 ESPN.6.HD.co
 ESPN.7.HD.co
 ESPN.co
+The.Tennis.Channel.us
