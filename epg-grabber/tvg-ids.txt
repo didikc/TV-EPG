@@ -70,6 +70,14 @@ Showtime.FamilyZone.(East).(SHOFe).us
 Showtime.Next.HD.-.Eastern.us
 SHOXBET.-.Eastern.us
 Showtime.Showcase.HD.-.East.us
+Comedy.Central.(US).-.Eastern.Feed.us
+Hallmark.-.Eastern.Feed.us
+Hallmark.Drama.HDTV.(HALDRHD).us
+Hallmark.Mystery.Eastern.-.HD.us
+Oxygen.-.Eastern.Feed.us
+Freeform.-.East.Feed.us
+USA.Network.-.East.Feed.us
+Telemundo..-.Eastern.Feed.us
 Sky.Arts.HD.uk
 Sky.Atlantic.HD.uk
 Sky.Action.uk
