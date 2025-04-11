@@ -79,7 +79,6 @@ urls = [
     'https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz',
     'https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz',
     'https://epgshare01.online/epgshare01/epg_ripper_CO1.xml.gz',
-    'http://m3u4u.com/epg/x79znkdzz3h49xrwygk2',
 ]
 
 if __name__ == "__main__":
