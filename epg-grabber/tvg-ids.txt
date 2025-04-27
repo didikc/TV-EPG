@@ -124,3 +124,13 @@ ESPN.6.HD.co
 ESPN.7.HD.co
 ESPN.co
 The.Tennis.Channel.us
+beIN.Sport.USA.us
+beIN.SPORTS.1.fr
+beIN.SPORTS.2.fr
+beIN.SPORTS.3.fr
+Beinsports.2.tr
+Beinsports.3.tr
+Beinsports.tr
+BeIN.Sports.es
+
+
