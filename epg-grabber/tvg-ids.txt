@@ -78,6 +78,12 @@ Oxygen.-.Eastern.Feed.us
 Freeform.-.East.Feed.us
 USA.Network.-.East.Feed.us
 Telemundo..-.Eastern.Feed.us
+National.Geographic.US.-.Eastern.us
+National.Geographic.Wild.us
+History.Channel.US.-.Eastern.Feed.us
+Discovery.Channel.(US).-.Eastern.Feed.us
+Discovery.Family.Channel.us
+Discovery.Life.Channel.us
 ITV1.HD.uk
 Sky.Arts.HD.uk
 Sky.Atlantic.HD.uk
@@ -117,13 +123,6 @@ DAZN.5.pt
 DAZN.6.pt
 CANAL+.FORMULA1.fr
 plex.tv.Action.Hollywood.Movies.plex
-ESPN.2.co
-ESPN.3.co
-ESPN.4.co
-ESPN.5.co
-ESPN.6.HD.co
-ESPN.7.HD.co
-ESPN.co
 The.Tennis.Channel.us
 beIN.Sport.USA.us
 beIN.SPORTS.1.fr
