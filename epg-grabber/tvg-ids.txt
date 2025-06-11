@@ -84,6 +84,8 @@ History.Channel.US.-.Eastern.Feed.us
 Discovery.Channel.(US).-.Eastern.Feed.us
 Discovery.Family.Channel.us
 Discovery.Life.Channel.us
+SundanceTV.USA.-.East.us
+BBC.America.-.East.us
 ITV1.HD.uk
 Sky.Arts.HD.uk
 Sky.Atlantic.HD.uk
