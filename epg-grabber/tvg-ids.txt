@@ -86,6 +86,9 @@ Discovery.Family.Channel.us
 Discovery.Life.Channel.us
 SundanceTV.USA.-.East.us
 BBC.America.-.East.us
+Challenge.uk
+4seven.uk
+E4.HD.uk
 ITV1.HD.uk
 Sky.Arts.HD.uk
 Sky.Atlantic.HD.uk
@@ -105,6 +108,7 @@ Sky.Crime.HD.uk
 Sky.HistoryHD.uk
 Sky.Showcase.uk
 Sky.Witness.HD.uk
+Sky.Mix.HD.uk
 Sky.Sport.F1.it
 SKY.Sport.F1.de
 SkySp.F1.uk
