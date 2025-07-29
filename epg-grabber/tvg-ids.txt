@@ -136,4 +136,19 @@ Beinsports.tr
 BeIN.Sports.es
 ESPN.Deportes.us
 MotorRacing.distro
+Aljazeera.ph
+Bbcworld.News.ph
+Animal.Planet.ph
+Bbcearth.Hd.ph
+Crime.Investigation.ph
+Discovery.ph
+History.ph
+Knowledge.Channel.ph
+Tech.Storm.ph
+
+
+
+
+
+
 
