@@ -151,11 +151,4 @@ Knowledge.Channel.ph
 Tech.Storm.ph
 Rock.Extreme.ph
 Rock.Entertainment.ph
-
-
-
-
-
-
-
-
+SHOWCASE.my
