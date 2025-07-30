@@ -149,6 +149,9 @@ Discovery.ph
 History.ph
 Knowledge.Channel.ph
 Tech.Storm.ph
+Rock.Extreme.ph
+Rock.Entertainment.ph
+
 
 
 
