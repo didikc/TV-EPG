@@ -152,3 +152,7 @@ Tech.Storm.ph
 Rock.Extreme.ph
 Rock.Entertainment.ph
 SHOWCASE.my
+beIN.SPORTS.1.my
+beIN.SPORTS.2.my
+beIN.SPORTS.3.my
+
