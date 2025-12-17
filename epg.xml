@@ -9,72 +9,6 @@
     <icon src="http://ngiss.t-online.de/cm1s/media/c106fe8ef548c796be95ef4d6e17d7718e8f765e.png" />
     <url>http://www.magentatv.de</url>
   </channel>
-  <programme start="20251216000000 +0000" stop="20251216003000 +0000" channel="Motorvision.TV.de">
-    <title lang="de">Infomercial</title>
-    <desc lang="de">Bei uns wird das Fernsehen zur Shopping-Mall: Unsere Teleshopping-Partner bringen interessante und innovative Produkte aus den Bereichen Küche, Haushalt, Beauty, Wellness, Freizeit und Fitness direkt in das Wohnzimmer der TV-Zuschauer. (Senderinfo).</desc>
-    <category lang="de">Werbesendung</category>
-    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
-    <country lang="de">D</country>
-  </programme>
-  <programme start="20251216003000 +0000" stop="20251216010000 +0000" channel="Motorvision.TV.de">
-    <title lang="de">Infomercial</title>
-    <desc lang="de">Bei uns wird das Fernsehen zur Shopping-Mall: Unsere Teleshopping-Partner bringen interessante und innovative Produkte aus den Bereichen Küche, Haushalt, Beauty, Wellness, Freizeit und Fitness direkt in das Wohnzimmer der TV-Zuschauer. (Senderinfo).</desc>
-    <category lang="de">Werbesendung</category>
-    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
-    <country lang="de">D</country>
-  </programme>
-  <programme start="20251216010000 +0000" stop="20251216013000 +0000" channel="Motorvision.TV.de">
-    <title lang="de">Infomercial</title>
-    <desc lang="de">Bei uns wird das Fernsehen zur Shopping-Mall: Unsere Teleshopping-Partner bringen interessante und innovative Produkte aus den Bereichen Küche, Haushalt, Beauty, Wellness, Freizeit und Fitness direkt in das Wohnzimmer der TV-Zuschauer. (Senderinfo).</desc>
-    <category lang="de">Werbesendung</category>
-    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
-    <country lang="de">D</country>
-  </programme>
-  <programme start="20251216013000 +0000" stop="20251216015500 +0000" channel="Motorvision.TV.de">
-    <title lang="de">Infomercial</title>
-    <desc lang="de">Bei uns wird das Fernsehen zur Shopping-Mall: Unsere Teleshopping-Partner bringen interessante und innovative Produkte aus den Bereichen Küche, Haushalt, Beauty, Wellness, Freizeit und Fitness direkt in das Wohnzimmer der TV-Zuschauer. (Senderinfo).</desc>
-    <category lang="de">Werbesendung</category>
-    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
-    <country lang="de">D</country>
-  </programme>
-  <programme start="20251216015500 +0000" stop="20251216022000 +0000" channel="Motorvision.TV.de">
-    <title lang="de">Abenteuer Allrad</title>
-    <desc lang="de">Ein Special Interest-Magazin rund um offroad-taugliche und allradgetriebene Fahrzeuge. Im Mittelpunkt stehen Gelände-Urgesteine und PKW mit Allradantrieb. (Senderinfo).</desc>
-    <date>2010</date>
-    <category lang="de">Magazin</category>
-    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
-    <country lang="de">D</country>
-  </programme>
-  <programme start="20251216022000 +0000" stop="20251216025000 +0000" channel="Motorvision.TV.de">
-    <title lang="de">Perfect Ride</title>
-    <sub-title lang="de">Praktiker</sub-title>
-    <desc lang="de">Sie sind die Schweizer Taschenmesser auf Rädern. Perfekt für Familie, Freizeit oder als Arbeitstier. Wir stellen die praktischen Modelle auf die Probe! Wie den VW Caddy. Bringt Generation Fünf mehr Platz mit? Opel bietet den Combo vollelektrisch an. Wir machen den Reichweitentest! Der VW Bus ist eine Ikone, die Erwartungen an den T7 sind hoch. Und Nissan hat eine Elektrovariante für den Townstar. (Senderinfo).</desc>
-    <date>2022</date>
-    <category lang="de">Magazin</category>
-    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
-    <country lang="de">D</country>
-    <episode-num system="onscreen">E90</episode-num>
-  </programme>
-  <programme start="20251216025000 +0000" stop="20251216031500 +0000" channel="Motorvision.TV.de">
-    <title lang="de">Super Cars</title>
-    <sub-title lang="de">Power-Sport-Kombis</sub-title>
-    <desc lang="de">Platz trifft auf überwältigende Leistung. Power-Sport-Kombis sind Familienau-tos mit Sportwagen-DNA. Der Audi RS6 hat sich über Jahrzehnte vom unauffälligen Familienwagen zum technologischen Meisterwerk entwickelt. Doch auch seine Konkurrenz ist nicht zu unterschätzen. Ein Blick auf die Entwicklungsgeschichte der Sportkombis zeigt, wie sie zu den Performance-Maschinen von heute aufgestiegen sind. (Senderinfo).</desc>
-    <date>2024</date>
-    <category lang="de">Magazin</category>
-    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
-    <country lang="de">D</country>
-    <episode-num system="onscreen">E226</episode-num>
-  </programme>
-  <programme start="20251216031500 +0000" stop="20251216034000 +0000" channel="Motorvision.TV.de">
-    <title lang="de">Top Speed Classic</title>
-    <sub-title lang="de">Rossfeld Rennen 2024</sub-title>
-    <desc lang="de">Das Rossfeldrennen in Berchtesgaden gilt als eines der letzten echten Bergrennen. Moderator Martin Utberg geht mit einem Porsche aus dem Hans-Peter-Porsche-Museum an den Start. (Senderinfo).</desc>
-    <date>2024</date>
-    <category lang="de">Motorsport</category>
-    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
-    <country lang="de">NL</country>
-    <episode-num system="onscreen">E178</episode-num>
-  </programme>
   <programme start="20251216034000 +0000" stop="20251216040500 +0000" channel="Motorvision.TV.de">
     <title lang="de">Gearing Up 2023</title>
     <date>2023</date>
@@ -1257,6 +1191,344 @@
     <category lang="de">Magazin</category>
     <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
     <country lang="de">GR</country>
+  </programme>
+  <programme start="20251219040500 +0000" stop="20251219043500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">FIM World Motocross Championship 2024</title>
+    <sub-title lang="de">MXGP der Türkei, Afyonkarahisar</sub-title>
+    <date>2024</date>
+    <category lang="de">Motorradsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">F</country>
+    <episode-num system="onscreen">E19</episode-num>
+  </programme>
+  <programme start="20251219043500 +0000" stop="20251219050000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">FastZone 2024</title>
+    <date>2024</date>
+    <category lang="de">Motorsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20251219050000 +0000" stop="20251219054500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Road Wars Staffel 6</title>
+    <desc lang="de">Drogenkriminalität, Hausdurchsuchungen, Verfolgungsjagden: Roadwars begleitet eine Spezialeinheit der britischen Polizei. Zusammen mit der Hundestaffel sagen sie den Langfingern im Thamse Vally den Kampf an. (Senderinfo).</desc>
+    <date>2019</date>
+    <category lang="de">Doku-Soap</category>
+    <icon src="http://img.tvspielfilm.de/13/0c/4a/6177c5f08189652ccb4a0c13.jpeg" />
+    <country lang="de">GB</country>
+  </programme>
+  <programme start="20251219054500 +0000" stop="20251219061000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Abenteuer Allrad</title>
+    <desc lang="de">Ein Special Interest-Magazin rund um offroad-taugliche und allradgetriebene Fahrzeuge. Im Mittelpunkt stehen Gelände-Urgesteine und PKW mit Allradantrieb. (Senderinfo).</desc>
+    <date>2010</date>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20251219061000 +0000" stop="20251219064000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Bike World 2024</title>
+    <desc lang="de">Heute jagt Chris die kleine CFMoto 450 MT durch die Rabatten um ihr Limit auszutesten und mit Chad gibt es jede Menge Tech Talk über die neue Ducati Multistrada V4S (Senderinfo).</desc>
+    <date>2024</date>
+    <category lang="de">Motorradsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">F</country>
+  </programme>
+  <programme start="20251219064000 +0000" stop="20251219072500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">King of the Roads 2024</title>
+    <sub-title lang="de">Southern 100</sub-title>
+    <desc lang="de">Kind of the Roads ist eine Straßenrennserie für Motorräder, bei der die Fahrer Geschwindigkeiten von bis zu 200 mp/h erreichen (Senderinfo).</desc>
+    <date>2024</date>
+    <category lang="de">Motorradsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">GB</country>
+    <episode-num system="onscreen">E8</episode-num>
+  </programme>
+  <programme start="20251219072500 +0000" stop="20251219075000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Biker Lifestyle</title>
+    <sub-title lang="de">Südafrika 2022,</sub-title>
+    <desc lang="de">Südafrika steht für Abenteuer, lebhafte Metropolen und wilde Tiere. Diese Doku zeigt unsere3700 km lange Tour von Kapstadt zur Region Northern Cape und wieder zurück. Der Film zeigtdie Highlights rund um Kapstadt, das Aguila Game Resort, die wilden Augrabie Falls, die größteDiamantenmine der Welt bei Kimberley und tolle Safaris mit den Big Five.Es geht durch die Ausläufer der kleinen Karoo- und der Kalahariwüste und über die RegionWestern Cape, den berühmten Chapmans Peak Drive wieder zurück nach Kapstadt. (Senderinfo).</desc>
+    <date>2022</date>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
+    <episode-num system="onscreen">E227</episode-num>
+  </programme>
+  <programme start="20251219075000 +0000" stop="20251219081500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Classic</title>
+    <desc lang="de">In der unverwechselbaren Kulisse des Münchner Olympiaparks eröffnet seit 1993 die Classic Mobil jedes Frühjahr den Reigen der Oldtimermessen und bietet ein Forum für Fachsimpelei. Vor allem Jungtimer aus den Siebzigern sind zahlreich vertreten. MOTORVISION TV hat sich auf der Classic Mobil umgesehen. Und: Das Fiat Dino Coupé mit 2.4 Liter-Ferrari-Sechszylinder-Motor im Check. (Senderinfo).</desc>
+    <date>2010</date>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20251219081500 +0000" stop="20251219084500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Classic Ride</title>
+    <sub-title lang="de">Audi S1 Quattro</sub-title>
+    <desc lang="de">Es ist das stärkste und spektakulärste Rallye-Fahrzeug: Der Audi Sport Quattro S1. In Teil 2 des S1-Spezials begleitet Classic Rides S1-Pilot Michael Gerber beim zweiten Tag der Rally Legend. Dazu wird die Geschichte des S1 erzählt, mit O-Tönen von Ex-Weltmeister Walter Röhrl. (Senderinfo).</desc>
+    <date>2012</date>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20251219084500 +0000" stop="20251219091000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Crash</title>
+    <desc lang="de">Wenn der Ehrgeiz das Fahrkönnen übersteigt und wenn gut gesicherte Rennprofis aus der Kurve getragen werden, dann sind wir mit der Kamera dabei. Atemberaubende Stunts professioneller Fahrer und Slapsticks hochgezüchteter Blechgeschosse. Spektakuläre Szenen, bei denen niemand Schaden nimmt. (Senderinfo).</desc>
+    <date>2015</date>
+    <category lang="de">Dokumentationsreihe</category>
+    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20251219091000 +0000" stop="20251219093500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Made in....</title>
+    <sub-title lang="de">Techart</sub-title>
+    <desc lang="de">Ein Porsche – das ist pure Dynamik und Emotion! Was kann man bei diesem Fahrzeug noch verbessern? Nichts! Doch bei Techart versucht man es trotzdem. Das Unternehmen setzt weltweit Maßstäbe in der Individualisierung von Fahrzeugen der Marke Porsche. (Senderinfo).</desc>
+    <date>2012</date>
+    <category lang="de">Dokumentationsreihe</category>
+    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
+    <country lang="de">D</country>
+    <episode-num system="onscreen">E34</episode-num>
+  </programme>
+  <programme start="20251219093500 +0000" stop="20251219100500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Top Speed Classic</title>
+    <sub-title lang="de">Planai Classic 2025</sub-title>
+    <desc lang="de">Top-Speed-Moderator Martin Utberg nimmt zusammen mit seinem Teamkollegen Jonas Lach an der Planai Classic teil, einer der wenigen noch verbleibenden echten Winterrallyes in Europa. Sie starten mit einem Austin Seven aus dem Jahr 1932. (Senderinfo).</desc>
+    <date>2025</date>
+    <category lang="de">Motorsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">NL</country>
+    <episode-num system="onscreen">E187</episode-num>
+  </programme>
+  <programme start="20251219100500 +0000" stop="20251219102500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Mission Mobility</title>
+    <desc lang="de">Tonga ist eine konstitutionelle Monarchie. Peter Goldstern war bereits im Dienste des Vaters von George Tupou dem 5. Inzwischen zählt er zu den engsten Vertrauten des Königs und wurde schon mehrfach ausgezeichnet. Nur er darf und kann die königliche Maschine fliegen. Deshalb setzt er sich selbst mit 70 Jahren noch an den Steuerknüppel und kutschiert das Oberhaupt mitsamt Hund an Bord über den Insel-Archipel. (Senderinfo).</desc>
+    <date>2011</date>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20251219102500 +0000" stop="20251219105500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Car History</title>
+    <sub-title lang="de">Die Ferruccio Lamborghini Story</sub-title>
+    <desc lang="de">Im Jahr 1964 entschloss sich der Traktorenfabrikant Ferruccio Lamborghini im beschaulichen Ort SantAgata Bolognese die besten Sportautos der Welt zu bauen – Ein kühnes Unterfangen hier, in der norditalienischen Provinz Bologna, nur wenige Kilometer von Ferrari entfernt. In dieser Folge CAR HISTORY dreht sich alles um die Legende des Ferruccio Lamborghini und die Wurzeln seiner Edelschmiede mit dem Kampfstier: Die Ikone italienischer Automobiltechnik. (Senderinfo).</desc>
+    <date>2016</date>
+    <category lang="de">Dokuserie</category>
+    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
+    <country lang="de">D</country>
+    <episode-num system="onscreen">E52</episode-num>
+  </programme>
+  <programme start="20251219105500 +0000" stop="20251219112000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">FastZone 2024</title>
+    <date>2024</date>
+    <category lang="de">Motorsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20251219112000 +0000" stop="20251219115000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">FIM World Motocross Championship 2023</title>
+    <sub-title lang="de">MXGP der Tschechischen Republik, Loket</sub-title>
+    <date>2023</date>
+    <category lang="de">Motorradsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">F</country>
+    <episode-num system="onscreen">E13</episode-num>
+  </programme>
+  <programme start="20251219115000 +0000" stop="20251219122000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Perfect Ride</title>
+    <sub-title lang="de">Low Budget Roadtrip nach Paris</sub-title>
+    <desc lang="de">Wenn es um erschwingliche Autos geht, ist Dacia die erste Marke die vielen in den Kopf kommt. Das Erfolgsmodell Duster kommt in dritter Generation und entwickelt sich extrem weiter. Wir machen einen Low-Budget Roadtrip von München nach Paris. Werden uns 300 € Budget reichen? (Senderinfo).</desc>
+    <date>2025</date>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
+    <episode-num system="onscreen">E103</episode-num>
+  </programme>
+  <programme start="20251219122000 +0000" stop="20251219124500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Stunt Heroes</title>
+    <sub-title lang="de">Massenkarambolage</sub-title>
+    <desc lang="de">Nebel, Dunkelheit, ein Auffahrunfall mit vielen Autos. Das passiert auf deutschen Autobahnen immer wieder. Die "Stunt Heroes" stellen eine solche Szenerie nach. Sie ist Ausgangspunkt für einen Stunt mit brennenden Personen, einem Feuerwehrmann der zu spät kommt und einem Auto das in die Luft fliegt. Wie das funktioniert sehen Sie in dieser Folge der Stunt-Reportagereihe. (Senderinfo).</desc>
+    <date>2012</date>
+    <category lang="de">Dokumentationsreihe</category>
+    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
+    <country lang="de">D</country>
+    <episode-num system="onscreen">E11</episode-num>
+  </programme>
+  <programme start="20251219124500 +0000" stop="20251219131500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Dream Cars</title>
+    <sub-title lang="de">Deutschland</sub-title>
+    <desc lang="de">Dream Cars präsentiert die teuersten, luxuriösesten und schnellsten Traumautos aus Deutschland. Ob Porsche 918 Spyder, Mercedes S-Klasse, BMW M6 oder Audi A8, die Premium-Fahrzeuge aus Deutschland definieren den Maßstab für Komfort, Status, Dynamik und Fahrfreude. (Senderinfo).</desc>
+    <date>2016</date>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
+    <episode-num system="onscreen">E15</episode-num>
+  </programme>
+  <programme start="20251219131500 +0000" stop="20251219134500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Gearing Up 2024</title>
+    <desc lang="de">In dieser Folge blicken wir hinter die Kulissen der Monster Jam World Series sowie auf die Entscheidung in der Stock Car Pro Series 2024 aus Brasilien. Zudem gibt die XCAT-Meisterschaft ihr Debüt in Saudi-Arabien. (Senderinfo).</desc>
+    <date>2024</date>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">GR</country>
+  </programme>
+  <programme start="20251219134500 +0000" stop="20251219141000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Grüne Welle</title>
+    <sub-title lang="de">Establishment Reloaded</sub-title>
+    <desc lang="de">Establishment Reloaded: Luxus- und Oberklasseautos machen sich bereit für die Zukunft. Neuer Name, mehr Reichweite. Audi präsentiert den Q8 e-tron. Ist das Fahrzeug jetzt wieder up to date? Und: Ein Klassiker wird elektrifiziert. Wir dürfen exklusiv in der elektrischen Mercedes G-Klasse mitfahren. Wird der Spagat zwischen zukunftsweisendem Antrieb und absoluter Offroadtauglichkeit gelingen? (Senderinfo).</desc>
+    <date>2023</date>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
+    <episode-num system="onscreen">E63</episode-num>
+  </programme>
+  <programme start="20251219141000 +0000" stop="20251219145500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Australian Drag Racing Championship 2023</title>
+    <sub-title lang="de">Top Fuel Championship , Hidden Valley</sub-title>
+    <desc lang="de">Die "Australian Drag Racing Championship" ist eine regionale Motorsportserie für Top-Benzin-Dragster, die in unter 5 Sekunden Geschwindigkeiten von rund 500 km/h erreichen (Senderinfo).</desc>
+    <date>2023</date>
+    <category lang="de">Motorsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">AUS</country>
+  </programme>
+  <programme start="20251219145500 +0000" stop="20251219152500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Tour European Rally Historic 2024</title>
+    <sub-title lang="de">Rally Terra Sarda, Italien</sub-title>
+    <date>2024</date>
+    <category lang="de">Rallye</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">GB</country>
+  </programme>
+  <programme start="20251219152500 +0000" stop="20251219155000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Car History</title>
+    <sub-title lang="de">Jaguar E-Type</sub-title>
+    <desc lang="de">Er ist aufregend und atemberaubend, er ist der Urmeter aller Sportwagen, der Jaguar E-Type. Der Minirock und seine lange Haube prägen den Stil der sexy Sixties. Der E-Type ist ein Jahrhundert-Sportwagen, dessen Formen auch heute noch den Puls beschleunigen. Das schönste Auto, daß je gebaut wurde, ist eben auch zu schön, um einen Nachfolger zu bekommen. Fast 40 Jahre warten die Verantwortlichen bei Jaguar, bis man sich traut die Legende fortzusetzen. (Senderinfo).</desc>
+    <date>2012</date>
+    <category lang="de">Dokuserie</category>
+    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
+    <country lang="de">D</country>
+    <episode-num system="onscreen">E9</episode-num>
+  </programme>
+  <programme start="20251219155000 +0000" stop="20251219162000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Car History</title>
+    <sub-title lang="de">Lancia</sub-title>
+    <desc lang="de">Außergewöhnliche Fahrzeuge und legendäre Erfolge im Rennsport auf der einen Seite – Schicksalsschläge und wirtschaftliche Fehlentscheidungen auf der anderen. Aber der Mythos Lancia lebt bis heute. (Senderinfo).</desc>
+    <credits>
+      <director>Peter Schöllhorn</director>
+    </credits>
+    <date>2013</date>
+    <category lang="de">Dokuserie</category>
+    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
+    <country lang="de">D</country>
+    <episode-num system="onscreen">E15</episode-num>
+  </programme>
+  <programme start="20251219162000 +0000" stop="20251219165000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Car History</title>
+    <sub-title lang="de">Auto Union – Die Geschichte der vier Ringe</sub-title>
+    <desc lang="de">Es ist der zweitgrößte deutsche Automobilhersteller vor dem Krieg, die Auto Union. 1932 führt die Wirtschaftskrise die Marken Horch, DKW, Audi und Wanderer zur Auto Union zusammen. Car History erzählt die ganze Geschichte der Auto Union, ihrer vier Marken, der aufregenden Autos und die großen Grand Prix Siege der spektakulären Silberpfeile in den 30ger Jahren. (Senderinfo).</desc>
+    <date>2013</date>
+    <category lang="de">Dokumentationsreihe</category>
+    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
+    <country lang="de">D</country>
+    <episode-num system="onscreen">E36</episode-num>
+  </programme>
+  <programme start="20251219165000 +0000" stop="20251219171500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Top Speed Classic</title>
+    <sub-title lang="de">Ode an Jochen Mass</sub-title>
+    <desc lang="de">Am 30. September wäre Jochen Mass 79 Jahre alt geworden. Leider hat der im Mai verstorbene ehemalige Formel-1-Fahrer das nicht mehr erleben dürfen. In dieser Folge holen Top Speed Moderator Martin Utberg und Ralf Eisenbach Erinnerungen hervor – im Agnesenhof, dem Hotel, in dem Jochen immer übernachtete, wenn er auf der Nürburgring oder Nordschleife unterwegs war. (Senderinfo).</desc>
+    <date>2025</date>
+    <category lang="de">Motorsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">NL</country>
+    <episode-num system="onscreen">E222</episode-num>
+  </programme>
+  <programme start="20251219171500 +0000" stop="20251219181000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Classic Races</title>
+    <sub-title lang="de">Mercedes in der Grand-Prix-Saison 1954</sub-title>
+    <desc lang="de">Nach den großen Erfolgen im Grand-Prix-Sport in den 30-Jahren kehrt Mercedes erst 1954 wieder in diese Motorsport-Serie zurück. Wir zeigen diesmal die beinharten und unvergleichlichen Zweikämpfe der damaligen Grand-Prix-Asse um die Weltmeisterschaft 1954 (Senderinfo).</desc>
+    <date>2010</date>
+    <category lang="de">Motorsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">D</country>
+    <episode-num system="onscreen">E10</episode-num>
+  </programme>
+  <programme start="20251219181000 +0000" stop="20251219190000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Monaco Grand Prix Historique 2024</title>
+    <sub-title lang="de">Highlight 1</sub-title>
+    <desc lang="de">Der Historic Grand Prix von Monaco ist eine Serie von Autorennen, die sich auf den historischen Motorsport konzentriert. Die Veranstaltung findet in der Regel alle zwei Jahre zwei Wochen vor dem Formel-1-Grand-Prix von Monaco statt. (Senderinfo).</desc>
+    <date>2024</date>
+    <category lang="de">Motorsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">Mona.</country>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20251219190000 +0000" stop="20251219195000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">King of the Roads 2024</title>
+    <sub-title lang="de">Southern 100</sub-title>
+    <desc lang="de">Kind of the Roads ist eine Straßenrennserie für Motorräder, bei der die Fahrer Geschwindigkeiten von bis zu 200 mp/h erreichen (Senderinfo).</desc>
+    <date>2024</date>
+    <category lang="de">Motorradsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">GB</country>
+    <episode-num system="onscreen">E8</episode-num>
+  </programme>
+  <programme start="20251219195000 +0000" stop="20251219204000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Australian Drag Racing Championship 2024</title>
+    <sub-title lang="de">Nitro Funny Car Final, Willowbank</sub-title>
+    <desc lang="de">Die "Australian Drag Racing Championship" ist eine regionale Motorsportserie für Top-Benzin-Dragster, die in unter 5 Sekunden Geschwindigkeiten von rund 500 km/h erreichen (Senderinfo).</desc>
+    <date>2024</date>
+    <category lang="de">Motorsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">AUS</country>
+  </programme>
+  <programme start="20251219204000 +0000" stop="20251219210500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Monster Jam Championship 2023</title>
+    <sub-title lang="de">Indianapolis, Indiana</sub-title>
+    <desc lang="de">"Monster Jam" ist eine amerikanische Monstertruck-Serie, in der die Fahrer Stunts ausführen und gegeneinander Rennen fahren (Senderinfo).</desc>
+    <date>2023</date>
+    <category lang="de">Motorsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">USA</country>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20251219210500 +0000" stop="20251219213500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">EMX Quad European Championship 2025</title>
+    <sub-title lang="de">Fox Hill, United Kingdom</sub-title>
+    <date>2025</date>
+    <category lang="de">Motorsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+  </programme>
+  <programme start="20251219213500 +0000" stop="20251219220500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">All Wheel Drive Safari Challenge 2025</title>
+    <sub-title lang="de">Runde 3, Pickering</sub-title>
+    <desc lang="de">Die "AWDC" ist eine britische Offroad-Veranstaltung, bei der die Fahrer enge und kurvige Straßen voller Schlamm und Schotter bewältigen müssen (Senderinfo).</desc>
+    <date>2025</date>
+    <category lang="de">Rallye</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">GB</country>
+  </programme>
+  <programme start="20251219220500 +0000" stop="20251219223000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">US Pro Pulling 2023</title>
+    <sub-title lang="de">Mt Sterling, Illinois, Super Modified Tractors</sub-title>
+    <desc lang="de">Motorsport, wie Sie ihn noch nie gesehen haben. Bei diesem Wettbewerb ziehen die Fahrer mit mehrmotorigen, modifizierten Traktoren einen schweren Schlitten über die Strecke. Einige Traktoren können sogar eine Leistung von mehr als 12.000 PS erbringen. Damit ist Tractor Pulling der stärkste Motorsport der Welt. (Senderinfo).</desc>
+    <date>2023</date>
+    <category lang="de">Tractor Pulling</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">GB</country>
+  </programme>
+  <programme start="20251219223000 +0000" stop="20251219230000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Icelandic Formula Offroad 2025</title>
+    <sub-title lang="de">Icelandic Formula Offroad Cup, Stangarhylur, Runde 1</sub-title>
+    <desc lang="de">Nachdem die Präzision der Fahrer auf drei Strecken getestet wurde, geht es jetzt beim Saisonauftakt der Formula Offroad Iceland 2022 in Hella um Geschwindigkeit. Wer holt sich den ersten Sieg in der neuen Saison? (Senderinfo).</desc>
+    <date>2025</date>
+    <category lang="de">Motorsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">Isl.</country>
+  </programme>
+  <programme start="20251219230000 +0000" stop="20251220000000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">UK National Legends Cars Championship 2024</title>
+    <sub-title lang="de">Brands Hatch, Runde 3 &amp; 4</sub-title>
+    <date>2024</date>
+    <category lang="de">Motorsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">GB</country>
   </programme>
   <programme start="20251216000000 +0000" stop="20251216003000 +0000" channel="Motorvision+.de">
     <title lang="de">Infomercial</title>
