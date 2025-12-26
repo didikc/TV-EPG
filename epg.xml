@@ -9,61 +9,6 @@
     <icon src="http://ngiss.t-online.de/cm1s/media/c106fe8ef548c796be95ef4d6e17d7718e8f765e.png" />
     <url>http://www.magentatv.de</url>
   </channel>
-  <programme start="20251225000000 +0000" stop="20251225003000 +0000" channel="Motorvision.TV.de">
-    <title lang="de">Infomercial</title>
-    <desc lang="de">Bei uns wird das Fernsehen zur Shopping-Mall: Unsere Teleshopping-Partner bringen interessante und innovative Produkte aus den Bereichen Küche, Haushalt, Beauty, Wellness, Freizeit und Fitness direkt in das Wohnzimmer der TV-Zuschauer. (Senderinfo).</desc>
-    <category lang="de">Werbesendung</category>
-    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
-    <country lang="de">D</country>
-  </programme>
-  <programme start="20251225003000 +0000" stop="20251225010000 +0000" channel="Motorvision.TV.de">
-    <title lang="de">Infomercial</title>
-    <desc lang="de">Bei uns wird das Fernsehen zur Shopping-Mall: Unsere Teleshopping-Partner bringen interessante und innovative Produkte aus den Bereichen Küche, Haushalt, Beauty, Wellness, Freizeit und Fitness direkt in das Wohnzimmer der TV-Zuschauer. (Senderinfo).</desc>
-    <category lang="de">Werbesendung</category>
-    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
-    <country lang="de">D</country>
-  </programme>
-  <programme start="20251225010000 +0000" stop="20251225013000 +0000" channel="Motorvision.TV.de">
-    <title lang="de">Infomercial</title>
-    <desc lang="de">Bei uns wird das Fernsehen zur Shopping-Mall: Unsere Teleshopping-Partner bringen interessante und innovative Produkte aus den Bereichen Küche, Haushalt, Beauty, Wellness, Freizeit und Fitness direkt in das Wohnzimmer der TV-Zuschauer. (Senderinfo).</desc>
-    <category lang="de">Werbesendung</category>
-    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
-    <country lang="de">D</country>
-  </programme>
-  <programme start="20251225013000 +0000" stop="20251225020500 +0000" channel="Motorvision.TV.de">
-    <title lang="de">Infomercial</title>
-    <desc lang="de">Bei uns wird das Fernsehen zur Shopping-Mall: Unsere Teleshopping-Partner bringen interessante und innovative Produkte aus den Bereichen Küche, Haushalt, Beauty, Wellness, Freizeit und Fitness direkt in das Wohnzimmer der TV-Zuschauer. (Senderinfo).</desc>
-    <category lang="de">Werbesendung</category>
-    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
-    <country lang="de">D</country>
-  </programme>
-  <programme start="20251225020500 +0000" stop="20251225024000 +0000" channel="Motorvision.TV.de">
-    <title lang="de">Super Cars</title>
-    <sub-title lang="de">Adrenalin Ensemble</sub-title>
-    <desc lang="de">Heute stellen wir ein Adrenalin-Ensemble vor, das abseits der geläufigen Marken für überraschende Power und Fahrspaß sorgt. Benzin gegen Elektro! Zwei GTs, zwei Charaktere, ein Duell. Welcher Kia überzeugt mehr in drei spannenden Kategorien? Und noch einer, den man auf dem Schirm haben muss: Der Hyundai Kona N. Ein kompakter Kraftprotz, der den Puls in die Höhe treibt! (Senderinfo).</desc>
-    <date>2023</date>
-    <category lang="de">Magazin</category>
-    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
-    <country lang="de">D</country>
-    <episode-num system="onscreen">E222</episode-num>
-  </programme>
-  <programme start="20251225024000 +0000" stop="20251225031000 +0000" channel="Motorvision.TV.de">
-    <title lang="de">Top Speed Classic</title>
-    <sub-title lang="de">Oldtimerküche Margaretenhof</sub-title>
-    <desc lang="de">Top Speed-Moderator Martin Utberg wurde von Porsche-Enthusiast Ralf Gerhard ins Saarland eingeladen, um gemeinsam mit ihm ein Abendessen für eine kleine Gruppe von Personen zuzubereiten. Das Restaurant, das Ralf ausgewählt hat, war bereits in einer früheren Folge von Top Speed zu sehen. Dort fand das Oldtimer-Event Klassik Atos im Grünen statt. Außerdem hat Ralf einen Besuch bei einem Porsche-356-Spezialisten geplant, und Martin trifft Mitglieder des Porsche 356 Club Deutschland. (Senderinfo).</desc>
-    <date>2024</date>
-    <category lang="de">Motorsport</category>
-    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
-    <country lang="de">NL</country>
-    <episode-num system="onscreen">E185</episode-num>
-  </programme>
-  <programme start="20251225031000 +0000" stop="20251225033500 +0000" channel="Motorvision.TV.de">
-    <title lang="de">Gearing Up 2024</title>
-    <date>2024</date>
-    <category lang="de">Magazin</category>
-    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
-    <country lang="de">GR</country>
-  </programme>
   <programme start="20251225033500 +0000" stop="20251225040500 +0000" channel="Motorvision.TV.de">
     <title lang="de">FIM World Motocross Championship 2023</title>
     <sub-title lang="de">MXGP von Portugal, Agueda</sub-title>
@@ -1234,6 +1179,81 @@
     <category lang="de">Motorsport</category>
     <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
     <country lang="de">D</country>
+  </programme>
+  <programme start="20251228040500 +0000" stop="20251228043000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Icelandic Formula Offroad 2024</title>
+    <sub-title lang="de">Icelandic Formula Offroad Cup, Stangarhylur</sub-title>
+    <desc lang="de">Nachdem die Präzision der Fahrer auf drei Strecken getestet wurde, geht es jetzt beim Saisonauftakt der Formula Offroad Iceland 2022 in Hella um Geschwindigkeit. Wer holt sich den ersten Sieg in der neuen Saison? (Senderinfo).</desc>
+    <date>2024</date>
+    <category lang="de">Motorsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">Isl.</country>
+  </programme>
+  <programme start="20251228043000 +0000" stop="20251228050000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Car History</title>
+    <sub-title lang="de">Jaguar Racing</sub-title>
+    <desc lang="de">Ob XK120, C-Type oder D-Type. Von Anfang an sind Jaguar Sport- und Rennwagen maßgeschneidert für Höchstgeschwindigkeiten. Ob Le Mans, Daytona oder die Rallye Monte Carlo, Jaguar dominiert nicht für viele Jahre den internationalen Motorsport sondern hat ihn auch entscheidend mit geprägt. Unvergessen sind dabei die sieben Gesamtsiege in Le Mans, die Jaguar und vor allem die Modelle C-Type und D-Type weltweit berühmt gemacht haben. (Senderinfo).</desc>
+    <date>2014</date>
+    <category lang="de">Dokuserie</category>
+    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
+    <country lang="de">D</country>
+    <episode-num system="onscreen">E41</episode-num>
+  </programme>
+  <programme start="20251228050000 +0000" stop="20251228070000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Repco Supercars Championship 2024</title>
+    <sub-title lang="de">Saisonrückblick</sub-title>
+    <desc lang="de">Die Supercars Championship ist die führende australische Motorsportserie mit verschiedenen Sprint- und Langstreckenrennen in Australien (Senderinfo).</desc>
+    <date>2024</date>
+    <category lang="de">Tourenwagen</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">AUS</country>
+    <country lang="de">NZ</country>
+    <episode-num system="onscreen">E24</episode-num>
+  </programme>
+  <programme start="20251228070000 +0000" stop="20251228101000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">IMSA WeatherTech SportsCar Championship 2025</title>
+    <sub-title lang="de">Michelin GT Challenge at VIR, VIRginia International Raceway</sub-title>
+    <desc lang="de">Die IMSA WeatherTech SportsCar Championship ist eine Langstrecken-Meisterschaft in Nordamerika, bei der bis zu fünf verschiedene Klassen in elf Veranstaltungen gegeneinander antreten (Senderinfo).</desc>
+    <date>2025</date>
+    <category lang="de">Motorsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">USA</country>
+  </programme>
+  <programme start="20251228101000 +0000" stop="20251228163500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">IMSA WeatherTech SportsCar Championship 2025</title>
+    <sub-title lang="de">Tirerack.com Battle on the Bricks, Indianapolis Motor Speedway</sub-title>
+    <desc lang="de">Die IMSA WeatherTech SportsCar Championship ist eine Langstrecken-Meisterschaft in Nordamerika, bei der bis zu fünf verschiedene Klassen in elf Veranstaltungen gegeneinander antreten (Senderinfo).</desc>
+    <date>2025</date>
+    <category lang="de">Motorsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">USA</country>
+  </programme>
+  <programme start="20251228163500 +0000" stop="20251228190000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">NTT Indycar Series 2025</title>
+    <sub-title lang="de">Honda Indy 200 at Mid Ohio, Mid-Ohio Sports Cars Course, Ohio</sub-title>
+    <category lang="de">Programm nach Ansage</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">USA</country>
+    <episode-num system="onscreen">E29</episode-num>
+  </programme>
+  <programme start="20251228190000 +0000" stop="20251228213500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">NTT Indycar Series 2025</title>
+    <sub-title lang="de">Hy-Vee Indycar Race Weekend Race 1, Iowa Speedway, Iowa</sub-title>
+    <desc lang="de">Die IndyCar Series wird seit 1996 ausgetragen. Die Rennen finden vor allem in Nordamerika statt und werden auf Ovalstrecken ausgetragen. Das wichtigste Event ist das Rennen von Indianapolis. (Senderinfo).</desc>
+    <date>2025</date>
+    <category lang="de">Indycar</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">USA</country>
+    <episode-num system="onscreen">E32</episode-num>
+  </programme>
+  <programme start="20251228213500 +0000" stop="20251229000000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">NTT Indycar Series 2025</title>
+    <sub-title lang="de">Ontario Honda Dealers Indy Toronto, Streets of Toronto, Ontario</sub-title>
+    <date>2025</date>
+    <category lang="de">Indycar</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">Kan.</country>
+    <episode-num system="onscreen">E38</episode-num>
   </programme>
   <programme start="20251225000000 +0000" stop="20251225003000 +0000" channel="Motorvision+.de">
     <title lang="de">Infomercial</title>
