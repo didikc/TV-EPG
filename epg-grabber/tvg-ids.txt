@@ -6,3 +6,4 @@ plex.tv.Action.Hollywood.Movies.plex
 plex.tv.Dove.plex
 plex.tv.MyTime.Movie.Network.plex
 MotorRacing.distro
+Horizon.Sports.distro
