@@ -3651,10 +3651,179 @@
     <episode-num system="onscreen">E1</episode-num>
     <premiere lang="en" />
   </programme>
+  <channel id="Horizon.Sports.distro">
+    <url>http://www.distro.tv</url>
+    <display-name lang="en">Horizon Sports</display-name>
+  </channel>
   <channel id="MotorRacing.distro">
     <url>http://www.distro.tv</url>
     <display-name lang="en">MotorRacing</display-name>
   </channel>
+  <programme channel="Horizon.Sports.distro" start="20251230031121 +0000" stop="20251230034545 +0000">
+    <title lang="en">Skoda Titan Desert Almeria 2025</title>
+    <desc lang="en">Four intense days of mountain biking through Almería’s stunning landscapes — from coast to desert, across sand, hills, and rugged trails. Amateurs and pros alike face the heat, the wind, and their own limits. More than a race, it’s an adventure of endurance, camaraderie, and pure adrenaline beyond the stopwatch.</desc>
+    <icon src="https://distroscale-public.s3.amazonaws.com/hls/22705/vid/hscbwwxfvgq5-274043/thumbh.jpg" />
+  </programme>
+  <programme channel="Horizon.Sports.distro" start="20251230034545 +0000" stop="20251230045008 +0000">
+    <title lang="en">Tour de France EFGH Singapore Criterium 2025</title>
+    <desc lang="en">The Tour de France Singapore Criterium returns for its fourth edition, bringing the speed, strategy, and spectacle of elite cycling back to the streets of Marina Bay. Leading this year’s line-up is Jasper Philipsen, to reclaim the Tour de France Singapore Criterium title he won in 2023, after being edged out last year by the legendary Mark Cavendish in his unforgettable farewell race.</desc>
+    <icon src="https://distroscale-public.s3.amazonaws.com/hls/22705/vid/hscbtsa2zmui-273528/thumbh.jpg" />
+  </programme>
+  <programme channel="Horizon.Sports.distro" start="20251230045008 +0000" stop="20251230055652 +0000">
+    <title lang="en">Cro Race 2025</title>
+    <desc lang="en">The 2025 CRO Race is a road cycling stage race (6 stages - 900 km) in Croatia held between 30 September and 5 October 2025. It is the tenth edition of the Tour of Croatia since its revival in 2015 and the sixth under the CRO Race name. The race is rated as a category 2.1 event on the 2025 UCI Europe Tour calendar.</desc>
+    <icon src="https://distroscale-public.s3.amazonaws.com/hls/22705/vid/hscbr1vxh5n2-274444/thumbh.jpg" />
+  </programme>
+  <programme channel="Horizon.Sports.distro" start="20251230055652 +0000" stop="20251230070327 +0000">
+    <title lang="en">Tour of Hellas 2025 - Full Summary</title>
+    <desc lang="en">The 2025 Tour of Hellas consists of 5 days of action across 3 Regions and a total distance of 811.19 km. From Patras to an impressive end at Syntagma Square, The Tour of Hellas connects western and central Greece with Attica. 20 teams are particpating, among them World Tour teams Jayco AlUla and XDS Astana.</desc>
+    <icon src="https://distroscale-public.s3.amazonaws.com/hls/22705/vid/hscbtrleqrm9-265724/thumbh.jpg" />
+  </programme>
+  <programme channel="Horizon.Sports.distro" start="20251230070327 +0000" stop="20251230071643 +0000">
+    <title lang="en">Nightmare Climbs - Crostis Eng</title>
+    <desc lang="en">A nightmare climb up Crostis mountain in Carnia which is part of Friuli venezia Giulia in northern Italy. Patrick and Emiliano will ride up 14.5 km with 1374 meters of climb and an average steepness of 9.5 ........you will be out of breath...</desc>
+    <icon src="https://distroscale-public.s3.amazonaws.com/hls/22705/vid/hscbzq2jn4o0-269380/thumbh.jpg" />
+  </programme>
+  <programme channel="Horizon.Sports.distro" start="20251230071643 +0000" stop="20251230073403 +0000">
+    <title lang="en">GWA Wingfoil World Cup Gran Canaria 2025</title>
+    <desc lang="en">The world’s best wingfoilers compete on the Spanish island of Gran Canaria for the Surf-Freestyle world champion title. A full roster of 28 men, accompanied by 14 women, from 12 nations around the world, are set to battle it out at Playa El Burrero, the third successive year that Gran Canaria has hosted a GWA World Cup.</desc>
+    <icon src="https://distroscale-public.s3.amazonaws.com/hls/22705/vid/hswgesc0ay0-272233/thumbh.jpg" />
+  </programme>
+  <programme channel="Horizon.Sports.distro" start="20251230073403 +0000" stop="20251230074612 +0000">
+    <title lang="en">Freestyle Pro Tour 2025 Naxos Greece</title>
+    <desc lang="en">The Freestyle Pro Tour is more than excited to return to the island of Naxos. Once again, the tour is gathering on the beach in front of Sun Kyma, where the last year’s event with a full fleet of 50 riders and unforgettable vibes on and off the water. The wind is strong with up to 35 knots on big days. Strong north winds mean side on shore conditions, which give the spot its bump and jump Character.</desc>
+    <icon src="https://distroscale-public.s3.amazonaws.com/hls/22705/vid/hswbazrf2zq-273275/thumbh.jpg" />
+  </programme>
+  <programme channel="Horizon.Sports.distro" start="20251230074612 +0000" stop="20251230081927 +0000">
+    <title lang="en">Changing Channels</title>
+    <desc lang="en">Gerrard Gosens is set to become the first totally blind person to attempt the daunting 34+ km swim from Dover in the UK to Cape Gris-Nez in France. Battling the cold and unpredictable waters of the English Channel, Gerrard faces not only the rough conditions but also the need to swim in synchronization with his team of guide swimmers, Hayden, Phil, Jo, Rosie, Alexis, and Sarah by his side.</desc>
+    <icon src="https://distroscale-public.s3.amazonaws.com/hls/22705/vid/hs-w_VsmIM6T1-257538/thumbh.jpg" />
+  </programme>
+  <programme channel="Horizon.Sports.distro" start="20251230081927 +0000" stop="20251230085428 +0000">
+    <title lang="en">Transat Jacques Vabre 2023 - Summary 2 Eng</title>
+    <desc lang="en">Second summary of the Transat Jacques Vabre 2023 with the race and the finish of the Ocean Fifty, Imoca and Class 40 categories.</desc>
+    <icon src="https://distroscale-public.s3.amazonaws.com/hls/22705/vid/hswesxovtz2-269382/thumbh.jpg" />
+  </programme>
+  <programme channel="Horizon.Sports.distro" start="20251230085428 +0000" stop="20251230092639 +0000">
+    <title lang="en">Inside Sailing 2025 - Episode 11</title>
+    <desc lang="en">We start this episode from Italy for the first ever Formula Wing World Championships taking place in Cagliari in the south of Sardinia. After the conclusion of this Championships, it was time for another one. Quartu Sant’Elena in the south of Sardinia hosted the 2025 Formula Kite World Championships. Then we travel to the Netherlands for the Dutch Water Week. The Sailing Grand Slam connected five major international sailing events, and in Almere, new race formats, alternative course layouts, and experimental scoring systems were tested—not only to crown the 2025 winners but also to explore ways to make the sport more attractive, accessible, and exciting for spectators, the media, and the athletes themselves.</desc>
+    <icon src="https://distroscale-public.s3.amazonaws.com/hls/22705/vid/hsw16fxwofq-274445/thumbh.jpg" />
+  </programme>
+  <programme channel="Horizon.Sports.distro" start="20251230092639 +0000" stop="20251230092902 +0000">
+    <title lang="en">The First Second - Samantha Davies</title>
+    <desc lang="en">Samantha Davies sees the ocean as a pleasure, obvious. In symbiosis with her boat, she leads a violent struggle with the harsh conditions and \"loves it\" in an almost inexplicable way! She knows and enjoys her luck, which she shares with Initiatives Cœur. She also measures it to that of her grandfather, a war submariner…. At the start of a race like the Vendée Globe, it is an adventurer who sets off.</desc>
+    <icon src="https://distroscale-public.s3.amazonaws.com/hls/22705/vid/hs-w_kDB9XRra-200589/thumbh.jpg" />
+  </programme>
+  <programme channel="Horizon.Sports.distro" start="20251230092902 +0000" stop="20251230095903 +0000">
+    <title lang="en">Blind Ambition</title>
+    <desc lang="en">In a world where limits are defined by sight, one man dares to see beyond. Gerrard Gosens — totally blind adventurer, Paralympian, Everest summiteer, and recipient of the Order of Australia Medal — sets his sights on a challenge no (totally Blind from Birth) human has ever completed: conquering the 20 Bridges circumnavigation of Manhattan Island. Battling currents, cold, and crushing fatigue, Gerrard and his team must navigate one of the most iconic open water swims on the planet, at night. This is a story of courage without boundaries, of finding light in total darkness, and of one man and his teams fight to etch his name into history’s Ides.A film by Anthony Gordon.</desc>
+    <icon src="https://distroscale-public.s3.amazonaws.com/hls/22705/vid/hswpez1ifqx-271964/thumbh.jpg" />
+  </programme>
+  <programme channel="Horizon.Sports.distro" start="20251230095903 +0000" stop="20251230102549 +0000">
+    <title lang="en">GWA Wingfoil World Cup Abu Dhabi 2025</title>
+    <desc lang="en">Abu Dhabi, the capital of the United Arab Emirates hosts the GWA Wingfoil World Cup for the first time, marking the grand finale of the 2025 FreeFly-Slalom season. Leading the charge are two-time defending world champions, Nia Suardiaz, of Spain, and Francesco Cappuzzo, of Italy, who head to Abu Dhabi leading the rankings. With the season’s final stop still wide open, both athletes will need flawless performances to secure their third consecutive titles.</desc>
+    <icon src="https://distroscale-public.s3.amazonaws.com/hls/22705/vid/hswpajjspcz-274241/thumbh.jpg" />
+  </programme>
+  <programme channel="Horizon.Sports.distro" start="20251230102549 +0000" stop="20251230114039 +0000">
+    <title lang="en">All The Way Eng</title>
+    <desc lang="en">From award-winning documentary filmmaker Carl Eneroth at Sthlm Social Innovation Lab comes \"All the Way\". A heart-pounding, intimate and mind expanding portrait of Swimrun team Pontus Lindberg and George Bjälkemo, as they prepare for their ultimate challenge… winning the 75 km ÖtillÖ Swimrun World Championships in the Stockholm archipelago… in trail shoes and a wetsuit.</desc>
+    <icon src="https://distroscale-public.s3.amazonaws.com/hls/22705/vid/hs-w_sVML8HWc-209482/thumbh.jpg" />
+  </programme>
+  <programme channel="Horizon.Sports.distro" start="20251230114039 +0000" stop="20251230114755 +0000">
+    <title lang="en">GKA Freestyle World Cup Abu Dhabi 2025</title>
+    <desc lang="en">Abu Dhabi will host the GKA Kite World Tour for the first time, bringing back-to-back World Cups in Hydrofoil Big Air and Freestyle to Fahid Island, Abu Dhabi’s newest coastal wellness destination and the world’s first Fitwel-certified island, offering 11kms of coastline.</desc>
+    <icon src="https://distroscale-public.s3.amazonaws.com/hls/22705/vid/hswwh9abgog-274044/thumbh.jpg" />
+  </programme>
+  <programme channel="Horizon.Sports.distro" start="20251230114755 +0000" stop="20251230120551 +0000">
+    <title lang="en">Defender GKA Kite-Surf World Cup 2025</title>
+    <desc lang="en">The GKA Kite World Tour returns to the legendary shores of Sylt in 2025 for an adrenaline-fueled spectacle—the Kite-Surf &amp; Hydrofoil Big Air World Cup! Witness the world’s best riders defy gravity, push limits, and battle for glory in one of kiteboarding’s most iconic locations.</desc>
+    <icon src="https://distroscale-public.s3.amazonaws.com/hls/22705/vid/hswdqeiklv2-272504/thumbh.jpg" />
+  </programme>
+  <programme channel="Horizon.Sports.distro" start="20251230120551 +0000" stop="20251230122115 +0000">
+    <title lang="en">GKA Hydrofoil Big Air World Cup Abu Dhabi 2025</title>
+    <desc lang="en">Abu Dhabi will host the GKA Kite World Tour for the first time, bringing back-to-back World Cups in Hydrofoil Big Air and Freestyle to Fahid Island, Abu Dhabi’s newest coastal wellness destination and the world’s first Fitwel-certified island, offering 11kms of coastline.</desc>
+    <icon src="https://distroscale-public.s3.amazonaws.com/hls/22705/vid/hswsn3bzzya-274045/thumbh.jpg" />
+  </programme>
+  <programme channel="Horizon.Sports.distro" start="20251230122115 +0000" stop="20251230124058 +0000">
+    <title lang="en">GKA Kite-Surf World Cup Dakhla - Morocco 2025</title>
+    <desc lang="en">A full roster of 28 men and 16 women, from a total of 16 countries around the world, are set to join the line-up in Dakhla for five days of intense action that could have a key bearing on who takes the titles. Reigning world champions, France’s Capucine Delannoy and Brazil’s Gabriel Benetton, top the Kite-Surf rankings as they head to the season’s penultimate stop in Dakhla, Morocco, on the Sahara desert’s coastline.</desc>
+    <icon src="https://distroscale-public.s3.amazonaws.com/hls/22705/vid/hswpiykhonj-273530/thumbh.jpg" />
+  </programme>
+  <programme channel="Horizon.Sports.distro" start="20251230124058 +0000" stop="20251230125758 +0000">
+    <title lang="en">Freestyle Pro Tour 2025 Geneva</title>
+    <desc lang="en">Once again, the world’s best freestylers have gathered for the first half of the Freestyle Pro Tour’s two-stop finale. As per tradition at this point, traditional fin Freestyle will be taking a back seat in Geneva, in favor of a focus on the other two disciplines on tour – Tow-In and Foilstyle. Geneva will be the only Foilstyle event of the 2025 season – meaning a champion will be crowned at this event, alongside the Tow-In World Series champion marking an end to the two-part competition that started at the Boot Dusseldorf at the beginning of the year.</desc>
+    <icon src="https://distroscale-public.s3.amazonaws.com/hls/22705/vid/hsw9ezewhwg-273274/thumbh.jpg" />
+  </programme>
+  <programme channel="Horizon.Sports.distro" start="20251230125758 +0000" stop="20251230130021 +0000">
+    <title lang="en">The First Second - Samantha Davies</title>
+    <desc lang="en">Samantha Davies sees the ocean as a pleasure, obvious. In symbiosis with her boat, she leads a violent struggle with the harsh conditions and \"loves it\" in an almost inexplicable way! She knows and enjoys her luck, which she shares with Initiatives Cœur. She also measures it to that of her grandfather, a war submariner…. At the start of a race like the Vendée Globe, it is an adventurer who sets off.</desc>
+    <icon src="https://distroscale-public.s3.amazonaws.com/hls/22705/vid/200423/thumbh.jpg" />
+  </programme>
+  <programme channel="Horizon.Sports.distro" start="20251230130021 +0000" stop="20251230130430 +0000">
+    <title lang="en">The First Second - Armel Le Cl ac h E</title>
+    <desc lang="en">Armel Le Cléach creates his victories thanks to a strong relationship with the whole team of which he is the extension ... But for this navigator engaged in a daunting battle with the ocean on a giant 32-meter trimaran, each course towards a new start is a new battle with the unknown, with his own will and with his primary adversary: himself.</desc>
+    <icon src="https://distroscale-public.s3.amazonaws.com/hls/22705/vid/hs-w_LKpm3GzA-195918/thumbh.jpg" />
+  </programme>
+  <programme channel="Horizon.Sports.distro" start="20251230130430 +0000" stop="20251230131116 +0000">
+    <title lang="en">Lords Of Tram GKA Big Air Kite World Cup France 2025 Eng</title>
+    <desc lang="en">The second stop of the GKA Big Air 2025 season happened at Lords of Tram in the legendary spot of Barcarès, France, powered by the epic Tramontana winds that sweep down off the snow-capped Pyrenees. Reigning Big Air Twin-tip World Champions, Spain’s Jeremy Burlando and the Netherlands’ Zara Hoogenraad, will be on hand to defend their titles.</desc>
+    <icon src="https://distroscale-public.s3.amazonaws.com/hls/22705/vid/hswf4fkpw5e-265458/thumbh.jpg" />
+  </programme>
+  <programme channel="Horizon.Sports.distro" start="20251230131116 +0000" stop="20251230131942 +0000">
+    <title lang="en">The First Second - Samantha Davies</title>
+    <desc lang="en">Samantha Davies sees the ocean as a pleasure, obvious. In symbiosis with her boat, she leads a violent struggle with the harsh conditions and \"loves it\" in an almost inexplicable way! She knows and enjoys her luck, which she shares with Initiatives Cœur. She also measures it to that of her grandfather, a war submariner…. At the start of a race like the Vendée Globe, it is an adventurer who sets off.</desc>
+    <icon src="https://distroscale-public.s3.amazonaws.com/hls/22705/vid/hs-w_kDB9XRra-200589/thumbh.jpg" />
+  </programme>
+  <programme channel="Horizon.Sports.distro" start="20251230131942 +0000" stop="20251230133849 +0000">
+    <title lang="en">Lekkarod 2025</title>
+    <desc lang="en">Depuis 10 ans, la Lekkarod est une course majeure du mushing en Europe. Affiliée aux fédérations nationale FFST et internationale IFSS, elle est une étape de la Coupe du Monde. Chaque année, une centaine de mushers et leurs chiens prennent le départ des 9 étapes de la Lekkarod, ou de celles des Trophées !For the past 10 years, the Lekkarod has been a major mushing race in Europe. Affiliated with the national FFST and international IFSS federations, it is a stage of the World Cup. Each year, around a hundred mushers and their dogs take part in the 9 stages of the Lekkarod, or those of the Trophies.</desc>
+    <icon src="https://distroscale-public.s3.amazonaws.com/hls/22705/vid/hsmsauh8jp2lm-265135/thumbh.jpg" />
+  </programme>
+  <programme channel="Horizon.Sports.distro" start="20251230133849 +0000" stop="20251230135401 +0000">
+    <title lang="en">Climbing Skye s Highest Peak - Sgurr Alasdair</title>
+    <desc lang="en">Cris and Viv decided to climb Sgurr Alasdair, the highest mountain on the island of Skye, located in an area of the mountain range known as Black Cullin. The main challenge they had in climbing the peak was the Great Stone Chute. A 300-meter slope of the harshest mountain terrain - scree. The summit of Sgurr Alasdair has unobstructed views of all of the Munroes in the Black Cullin, and also of one of Skyes most famous routes - The Cullin Ridge traverse.</desc>
+    <icon src="https://distroscale-public.s3.amazonaws.com/hls/22705/vid/hs-msa_4e0xTHam-246309/thumbh.jpg" />
+  </programme>
+  <programme channel="Horizon.Sports.distro" start="20251230135401 +0000" stop="20251230141408 +0000">
+    <title lang="en">Expedition Antarctica of extreme sports woman Caro North</title>
+    <desc lang="en">Iceclimbing, ski mountaineering and sailing the open water for days through the infamous Drake Passage: The 28 years old extreme sports woman Caro North made her way to the very South of our continent for a four weeks expedition – accompanied by an eight-member crew. Antarctica turned out to be a paradise for extreme sports: deserted landscapes and snow-capped mountains against a surreal backdrop of ice and sea were waiting to be discovered.</desc>
+    <icon src="https://distroscale-public.s3.amazonaws.com/hls/22705/vid/hs-msa_14ElwoyH-255261/thumbh.jpg" />
+  </programme>
+  <programme channel="Horizon.Sports.distro" start="20251230141408 +0000" stop="20251230143139 +0000">
+    <title lang="en">Summiting Mt Sneffels in Colorado Eng</title>
+    <desc lang="en">Mount Sneffels is a prominent mountain near Ouray, Colorado in the United States which is over 14,000 feet high, more than 4,300 metres. Audree had never climbed a 14er, so we decided to try reach its summit while on a road trip through Colorado in late-July.</desc>
+    <icon src="https://distroscale-public.s3.amazonaws.com/hls/22705/vid/hs-msa_cclWS84M-196929/thumbh.jpg" />
+  </programme>
+  <programme channel="Horizon.Sports.distro" start="20251230143139 +0000" stop="20251230143429 +0000">
+    <title lang="en">Nendaz Backcountry Invitational 2025</title>
+    <desc lang="en">Nestled in the heart of the Swiss Alps, the Nendaz Backcountry Invitational 2025 is one of the most exciting events on the freeride calendar. This unique competition brings together some of the world’s top backcountry athletes, showcasing their incredible skills and creativity in untouched snow.</desc>
+    <icon src="https://distroscale-public.s3.amazonaws.com/hls/22705/vid/hs-msa_epstYjw3-262154/thumbh.jpg" />
+  </programme>
+  <programme channel="Horizon.Sports.distro" start="20251230143429 +0000" stop="20251230153052 +0000">
+    <title lang="en">Aussie 8</title>
+    <desc lang="en">Aussie 8 is the adventure of 3 friends who decided to climb the 8 tallest mountains in 8 Australian states in 8 days. To make this possible, they had to put together and respect a very strict timing and logistic organisation.</desc>
+    <icon src="https://distroscale-public.s3.amazonaws.com/hls/22705/vid/hs-msa_9810EhTd-195881/thumbh.jpg" />
+  </programme>
+  <programme channel="Horizon.Sports.distro" start="20251230153052 +0000" stop="20251230162444 +0000">
+    <title lang="en">Nine Mountains</title>
+    <desc lang="en">The journey of two cyclists (Leo Russell &amp; George Stagg) on a mission to climb the 9 most challenging and notorious mountains in Europe. From Austria To Spain, Nine Mountains is an adventure of brutality and beauty exploring the limits of the mind and body. The boys cycled over 3,200km from blistering snowstorms to scorching deserts whilst ascending the equivalent of eight times the height of Everest. The film follows a never been done route with the aim to raise £100,000 towards mens mental health charity James Place, an organisation set up to help men in suicidal crisis.</desc>
+    <icon src="https://distroscale-public.s3.amazonaws.com/hls/22705/vid/hs-cb_uaF2HVei-195871/thumbh.jpg" />
+  </programme>
+  <programme channel="Horizon.Sports.distro" start="20251230162444 +0000" stop="20251230163315 +0000">
+    <title lang="en">World Rookie Freeski Finals 2025</title>
+    <desc lang="en">The World Rookie Tour is excited that the Freeski Finals are held in the magnificent Ursus Snowpark at Madonna di Campiglio. This event shows the world’s most talented young freeski athletes as they compete in one of the most celebrated snowparks in Europe. This exclusive opportunity brings the excitement and competitive spirit of one of the most anticipated events in youth action sports directly to athletes, fans and viewers.</desc>
+    <icon src="https://distroscale-public.s3.amazonaws.com/hls/22705/vid/hsmsan9ktul4f-265725/thumbh.jpg" />
+  </programme>
+  <programme channel="Horizon.Sports.distro" start="20251230163315 +0000" stop="20251230163712 +0000">
+    <title lang="en">Pierra Menta 2025 4</title>
+    <desc lang="en">Axelle Gachet-Mollaret et Lorna Bonnel remportent cette 39e édition de la Pierra Menta avec classe. Chez les hommes, Xavier Gachet etWilliam Bon Mardion simposent et réalisent un doublé historique 10 jours après leur titre de champion du monde par équipe.</desc>
+    <icon src="https://distroscale-public.s3.amazonaws.com/hls/22705/vid/hsmsa6lhb7h1j-264405/thumbh.jpg" />
+  </programme>
+  <programme channel="Horizon.Sports.distro" start="20251230163712 +0000" stop="20251230165456 +0000">
+    <title lang="en">Best Via Ferrata In The Dolomites Climbing Possnecker Eng</title>
+    <desc lang="en">Cris and Viv climb Piz Selva, a 2,941m mountain belonging to the Sella group, an iconic giant of the Dolomites.They start their hike from Passo Sella, and their chosen route was via Ferrata Possnecker (also called Ferrata delle Mesules), one of the oldest Via Ferratas in the Dolomites.</desc>
+    <icon src="https://distroscale-public.s3.amazonaws.com/hls/22705/vid/hs-atw_pZkrGttw-248004/thumbh.jpg" />
+  </programme>
   <programme channel="MotorRacing.distro" start="20251230030746 +0000" stop="20251230033927 +0000">
     <title lang="en">FIM Supermoto World European Championship 2025 - GP Piemonte - Busca Italy</title>
     <desc lang="en">Raced on a mix of tarmac and gravel, the Supermoto is the bike equivalent to Rallycross.</desc>
