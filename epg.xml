@@ -9,61 +9,6 @@
     <icon src="http://ngiss.t-online.de/cm1s/media/c106fe8ef548c796be95ef4d6e17d7718e8f765e.png" />
     <url>http://www.magentatv.de</url>
   </channel>
-  <programme start="20260101000000 +0000" stop="20260101003000 +0000" channel="Motorvision.TV.de">
-    <title lang="de">Infomercial</title>
-    <desc lang="de">Bei uns wird das Fernsehen zur Shopping-Mall: Unsere Teleshopping-Partner bringen interessante und innovative Produkte aus den Bereichen Küche, Haushalt, Beauty, Wellness, Freizeit und Fitness direkt in das Wohnzimmer der TV-Zuschauer. (Senderinfo).</desc>
-    <category lang="de">Werbesendung</category>
-    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
-    <country lang="de">D</country>
-  </programme>
-  <programme start="20260101003000 +0000" stop="20260101010000 +0000" channel="Motorvision.TV.de">
-    <title lang="de">Infomercial</title>
-    <desc lang="de">Bei uns wird das Fernsehen zur Shopping-Mall: Unsere Teleshopping-Partner bringen interessante und innovative Produkte aus den Bereichen Küche, Haushalt, Beauty, Wellness, Freizeit und Fitness direkt in das Wohnzimmer der TV-Zuschauer. (Senderinfo).</desc>
-    <category lang="de">Werbesendung</category>
-    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
-    <country lang="de">D</country>
-  </programme>
-  <programme start="20260101010000 +0000" stop="20260101013000 +0000" channel="Motorvision.TV.de">
-    <title lang="de">Infomercial</title>
-    <desc lang="de">Bei uns wird das Fernsehen zur Shopping-Mall: Unsere Teleshopping-Partner bringen interessante und innovative Produkte aus den Bereichen Küche, Haushalt, Beauty, Wellness, Freizeit und Fitness direkt in das Wohnzimmer der TV-Zuschauer. (Senderinfo).</desc>
-    <category lang="de">Werbesendung</category>
-    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
-    <country lang="de">D</country>
-  </programme>
-  <programme start="20260101013000 +0000" stop="20260101020500 +0000" channel="Motorvision.TV.de">
-    <title lang="de">Infomercial</title>
-    <desc lang="de">Bei uns wird das Fernsehen zur Shopping-Mall: Unsere Teleshopping-Partner bringen interessante und innovative Produkte aus den Bereichen Küche, Haushalt, Beauty, Wellness, Freizeit und Fitness direkt in das Wohnzimmer der TV-Zuschauer. (Senderinfo).</desc>
-    <category lang="de">Werbesendung</category>
-    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
-    <country lang="de">D</country>
-  </programme>
-  <programme start="20260101020500 +0000" stop="20260101024000 +0000" channel="Motorvision.TV.de">
-    <title lang="de">Super Cars</title>
-    <sub-title lang="de">Adrenalin Ensemble</sub-title>
-    <desc lang="de">Heute stellen wir ein Adrenalin-Ensemble vor, das abseits der geläufigen Marken für überraschende Power und Fahrspaß sorgt. Benzin gegen Elektro! Zwei GTs, zwei Charaktere, ein Duell. Welcher Kia überzeugt mehr in drei spannenden Kategorien? Und noch einer, den man auf dem Schirm haben muss: Der Hyundai Kona N. Ein kompakter Kraftprotz, der den Puls in die Höhe treibt! (Senderinfo).</desc>
-    <date>2023</date>
-    <category lang="de">Magazin</category>
-    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
-    <country lang="de">D</country>
-    <episode-num system="onscreen">E222</episode-num>
-  </programme>
-  <programme start="20260101024000 +0000" stop="20260101031000 +0000" channel="Motorvision.TV.de">
-    <title lang="de">Top Speed Classic</title>
-    <sub-title lang="de">Oldtimerküche Margaretenhof</sub-title>
-    <desc lang="de">Top Speed-Moderator Martin Utberg wurde von Porsche-Enthusiast Ralf Gerhard ins Saarland eingeladen, um gemeinsam mit ihm ein Abendessen für eine kleine Gruppe von Personen zuzubereiten. Das Restaurant, das Ralf ausgewählt hat, war bereits in einer früheren Folge von Top Speed zu sehen. Dort fand das Oldtimer-Event Klassik Atos im Grünen statt. Außerdem hat Ralf einen Besuch bei einem Porsche-356-Spezialisten geplant, und Martin trifft Mitglieder des Porsche 356 Club Deutschland. (Senderinfo).</desc>
-    <date>2024</date>
-    <category lang="de">Motorsport</category>
-    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
-    <country lang="de">NL</country>
-    <episode-num system="onscreen">E185</episode-num>
-  </programme>
-  <programme start="20260101031000 +0000" stop="20260101033500 +0000" channel="Motorvision.TV.de">
-    <title lang="de">Gearing Up 2024</title>
-    <date>2024</date>
-    <category lang="de">Magazin</category>
-    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
-    <country lang="de">GR</country>
-  </programme>
   <programme start="20260101033500 +0000" stop="20260101040500 +0000" channel="Motorvision.TV.de">
     <title lang="de">FIM World Motocross Championship 2023</title>
     <sub-title lang="de">MXGP von Portugal, Agueda</sub-title>
@@ -1235,6 +1180,216 @@
     <category lang="de">Motorsport</category>
     <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
     <country lang="de">Isl.</country>
+  </programme>
+  <programme start="20260104040500 +0000" stop="20260104043500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">FIM World Motocross Championship 2023</title>
+    <sub-title lang="de">MXGP von Flandern, Lommel</sub-title>
+    <date>2023</date>
+    <category lang="de">Motorradsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">F</country>
+    <episode-num system="onscreen">E14</episode-num>
+  </programme>
+  <programme start="20260104043500 +0000" stop="20260104050000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Car History</title>
+    <sub-title lang="de">Jaguar Racing</sub-title>
+    <desc lang="de">Ob XK120, C-Type oder D-Type. Von Anfang an sind Jaguar Sport- und Rennwagen maßgeschneidert für Höchstgeschwindigkeiten. Ob Le Mans, Daytona oder die Rallye Monte Carlo, Jaguar dominiert nicht für viele Jahre den internationalen Motorsport sondern hat ihn auch entscheidend mit geprägt. Unvergessen sind dabei die sieben Gesamtsiege in Le Mans, die Jaguar und vor allem die Modelle C-Type und D-Type weltweit berühmt gemacht haben. (Senderinfo).</desc>
+    <date>2014</date>
+    <category lang="de">Dokuserie</category>
+    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
+    <country lang="de">D</country>
+    <episode-num system="onscreen">E41</episode-num>
+  </programme>
+  <programme start="20260104050000 +0000" stop="20260104065500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">IMSA WeatherTech SportsCar Championship 2025</title>
+    <sub-title lang="de">Acura Grand Prix of Long Beach, Long Beach Street Circuit</sub-title>
+    <desc lang="de">Die IMSA WeatherTech SportsCar Championship ist eine Langstrecken-Meisterschaft in Nordamerika, bei der bis zu fünf verschiedene Klassen in elf Veranstaltungen gegeneinander antreten (Senderinfo).</desc>
+    <date>2025</date>
+    <category lang="de">Motorsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">USA</country>
+  </programme>
+  <programme start="20260104065500 +0000" stop="20260104072000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Deutsche Rallycross Meisetrschaft 2024</title>
+    <sub-title lang="de">Schlüchtern Runde 1</sub-title>
+    <desc lang="de">Acht Rennen auf vier verschiedenen Strecken: Die Deutsche Rallycross-Meisterschaft sucht ihren neuen Meister für das Jahr 2024. In sechs verschiedenen Klassen kämpfen die Fahrer auf Rallycross-Strecken in Deutschland und den Niederlanden um die Titel. In kurzen Sprintrennen geht es auf Strecken mit einem Mix aus Asphalt und Schotter richtig zur Sache. (Senderinfo).</desc>
+    <category lang="de">Programm nach Ansage</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20260104072000 +0000" stop="20260104074500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Deutsche Rallycross Meisetrschaft 2024</title>
+    <sub-title lang="de">Schlüchtern Runde 2</sub-title>
+    <desc lang="de">Acht Rennen auf vier verschiedenen Strecken: Die Deutsche Rallycross-Meisterschaft sucht ihren neuen Meister für das Jahr 2024. In sechs verschiedenen Klassen kämpfen die Fahrer auf Rallycross-Strecken in Deutschland und den Niederlanden um die Titel. In kurzen Sprintrennen geht es auf Strecken mit einem Mix aus Asphalt und Schotter richtig zur Sache. (Senderinfo).</desc>
+    <category lang="de">Programm nach Ansage</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20260104074500 +0000" stop="20260104081000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Deutsche Rallycross Meisetrschaft 2024</title>
+    <sub-title lang="de">Gründau Runde 1</sub-title>
+    <desc lang="de">Acht Rennen auf vier verschiedenen Strecken: Die Deutsche Rallycross-Meisterschaft sucht ihren neuen Meister für das Jahr 2024. In sechs verschiedenen Klassen kämpfen die Fahrer auf Rallycross-Strecken in Deutschland und den Niederlanden um die Titel. In kurzen Sprintrennen geht es auf Strecken mit einem Mix aus Asphalt und Schotter richtig zur Sache. (Senderinfo).</desc>
+    <category lang="de">Programm nach Ansage</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20260104081000 +0000" stop="20260104083500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Deutsche Rallycross Meisetrschaft 2024</title>
+    <sub-title lang="de">Gründau Runde 2</sub-title>
+    <desc lang="de">Acht Rennen auf vier verschiedenen Strecken: Die Deutsche Rallycross-Meisterschaft sucht ihren neuen Meister für das Jahr 2024. In sechs verschiedenen Klassen kämpfen die Fahrer auf Rallycross-Strecken in Deutschland und den Niederlanden um die Titel. In kurzen Sprintrennen geht es auf Strecken mit einem Mix aus Asphalt und Schotter richtig zur Sache. (Senderinfo).</desc>
+    <category lang="de">Programm nach Ansage</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20260104083500 +0000" stop="20260104090000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Deutsche Rallycross Meisetrschaft 2024</title>
+    <sub-title lang="de">Valkenswaard Runde 1</sub-title>
+    <desc lang="de">Acht Rennen auf vier verschiedenen Strecken: Die Deutsche Rallycross-Meisterschaft sucht ihren neuen Meister für das Jahr 2024. In sechs verschiedenen Klassen kämpfen die Fahrer auf Rallycross-Strecken in Deutschland und den Niederlanden um die Titel. In kurzen Sprintrennen geht es auf Strecken mit einem Mix aus Asphalt und Schotter richtig zur Sache. (Senderinfo).</desc>
+    <category lang="de">Programm nach Ansage</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20260104090000 +0000" stop="20260104092500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">Deutsche Rallycross Meisetrschaft 2024</title>
+    <sub-title lang="de">Valkenswaard Runde 2</sub-title>
+    <desc lang="de">Acht Rennen auf vier verschiedenen Strecken: Die Deutsche Rallycross-Meisterschaft sucht ihren neuen Meister für das Jahr 2024. In sechs verschiedenen Klassen kämpfen die Fahrer auf Rallycross-Strecken in Deutschland und den Niederlanden um die Titel. In kurzen Sprintrennen geht es auf Strecken mit einem Mix aus Asphalt und Schotter richtig zur Sache. (Senderinfo).</desc>
+    <category lang="de">Programm nach Ansage</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20260104092500 +0000" stop="20260104095000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">FIA European Truck Racing Series 2025</title>
+    <sub-title lang="de">Misano World Circuit, Italien</sub-title>
+    <date>2025</date>
+    <category lang="de">Truck Racing</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20260104095000 +0000" stop="20260104102000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">FIA European Truck Racing Series 2025</title>
+    <sub-title lang="de">Lausitzring, Deutschland</sub-title>
+    <date>2025</date>
+    <category lang="de">Truck Racing</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20260104102000 +0000" stop="20260104105000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">FIA European Truck Racing Series 2025</title>
+    <sub-title lang="de">Slovakia Ring, Slowakwei</sub-title>
+    <date>2025</date>
+    <category lang="de">Truck Racing</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20260104105000 +0000" stop="20260104112000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">FIA European Truck Racing Series 2025</title>
+    <sub-title lang="de">Nürburgring, Deutschland</sub-title>
+    <date>2025</date>
+    <category lang="de">Truck Racing</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20260104112000 +0000" stop="20260104114500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">FIA European Truck Racing Series 2025</title>
+    <sub-title lang="de">Autodrom Most, Tschechiesche Republik</sub-title>
+    <date>2025</date>
+    <category lang="de">Truck Racing</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20260104114500 +0000" stop="20260104121500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">FIA European Truck Racing Series 2025</title>
+    <sub-title lang="de">Circuit Zolder, Belgien</sub-title>
+    <date>2025</date>
+    <category lang="de">Truck Racing</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20260104121500 +0000" stop="20260104124500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">FIA European Truck Racing Series 2025</title>
+    <sub-title lang="de">Le Mans, Bugatti, Frankreich</sub-title>
+    <date>2025</date>
+    <category lang="de">Truck Racing</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20260104124500 +0000" stop="20260104131000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">FIA European Truck Racing Series 2025</title>
+    <sub-title lang="de">Circuito del Jarama, Spanien</sub-title>
+    <date>2025</date>
+    <category lang="de">Truck Racing</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20260104131000 +0000" stop="20260104160500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">IMSA WeatherTech SportsCar Championship 2025</title>
+    <sub-title lang="de">Motul Course de Monterey powered by Hyundai, WeatherTech Raceway Laguna Seca</sub-title>
+    <desc lang="de">Die IMSA WeatherTech SportsCar Championship ist eine Langstrecken-Meisterschaft in Nordamerika, bei der bis zu fünf verschiedene Klassen in elf Veranstaltungen gegeneinander antreten (Senderinfo).</desc>
+    <date>2025</date>
+    <category lang="de">Motorsport</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">USA</country>
+  </programme>
+  <programme start="20260104160500 +0000" stop="20260104165500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">NASCAR Whelen Euro Series 2025</title>
+    <sub-title lang="de">GP Spanien, Circuit Ricardo Tormo</sub-title>
+    <desc lang="de">Die NASCAR Whelen Euro Series startet auf dem legendären Circuit Ricardo Tormo im spanischen Valencia in die neue Saison. Mit 37 gemeldeten Autos verbuchte die Serie vor dem Auftakt ein neues Rekordfeld. Vier Rennen in zwei Meisterschaften versprechen ein spannendes Rennwochenende unter der brütenden Hitze Spaniens. (Senderinfo).</desc>
+    <date>2025</date>
+    <category lang="de">Nascar</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">F</country>
+  </programme>
+  <programme start="20260104165500 +0000" stop="20260104175000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">NASCAR Whelen Euro Series 2025</title>
+    <sub-title lang="de">GP Italien, Autodromo di Vallelunga</sub-title>
+    <date>2025</date>
+    <category lang="de">Nascar</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">F</country>
+  </programme>
+  <programme start="20260104175000 +0000" stop="20260104184500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">NASCAR Whelen Euro Series 2025</title>
+    <sub-title lang="de">GP England, Brands Hatch Indy Circuit</sub-title>
+    <desc lang="de">Die NASCAR Whelen Euro Series gastiert auf dem 1,9 Kilometer langen Indy-Kurs von Brands Hatch in Großbritannien. Das populärste Event im Kalender der offiziellen NASCAR-Serie in Europa ist Heimat vier spannender Rennen – zwei in der EuroNASCAR PRO, zwei in der EuroNASCAR 2. In beiden Meisterschaften nehmen die Titelkämpfe so richtig Fahrt auf! (Senderinfo).</desc>
+    <date>2025</date>
+    <category lang="de">Nascar</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">F</country>
+  </programme>
+  <programme start="20260104184500 +0000" stop="20260104194000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">NASCAR Whelen Euro Series 2025</title>
+    <sub-title lang="de">GP Tschechische Republik, Autodrom Most</sub-title>
+    <date>2025</date>
+    <category lang="de">Nascar</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">F</country>
+  </programme>
+  <programme start="20260104194000 +0000" stop="20260104203500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">NASCAR Whelen Euro Series 2025</title>
+    <sub-title lang="de">Semi Final GP Deutschland, Motorsport Arena Oschersleben</sub-title>
+    <desc lang="de">Die Runden 7 &amp; 8 der NASCAR Whelen Euro Series gehen auf dem Autodrom Most in der Tschechischen Republik über die Bühne. Es stehen insgesamt vier spannende Rennen in zwei Meisterschaften auf dem Programm. Wer hat die Sommerpause bestmöglich genutzt, um sich auf das Event vorzubereiten? (Senderinfo).</desc>
+    <date>2025</date>
+    <category lang="de">Nascar</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">F</country>
+  </programme>
+  <programme start="20260104203500 +0000" stop="20260104213000 +0000" channel="Motorvision.TV.de">
+    <title lang="de">NASCAR Whelen Euro Series 2025</title>
+    <sub-title lang="de">Final GP Belgien, Circuit Zolder</sub-title>
+    <desc lang="de">Das Finale der Regular-Season in der NASCAR Whelen Euro Series 2022 steigt auf dem Circuit Zolder in Belgien. Alle Fahrer streichen nach vier spannenden Rennen – zwei in der EuroNASCAR PRO und zwei in der EuroNASCAR 2 – ihre zwei schlechtesten Resultate. Der Meisterschaftskampf ist verdammt eng und deshalb werden emotionale Rennen in Belgien erwartet. (Senderinfo).</desc>
+    <date>2025</date>
+    <category lang="de">Nascar</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">F</country>
+  </programme>
+  <programme start="20260104213000 +0000" stop="20260105020500 +0000" channel="Motorvision.TV.de">
+    <title lang="de">NTT Indycar Series 2025</title>
+    <sub-title lang="de">Indianapolis 500, Indianapolis Motor Speedway, Indiana</sub-title>
+    <date>2025</date>
+    <category lang="de">Indycar</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">USA</country>
+    <episode-num system="onscreen">E17</episode-num>
   </programme>
   <programme start="20260101000000 +0000" stop="20260101003000 +0000" channel="Motorvision+.de">
     <title lang="de">Infomercial</title>
