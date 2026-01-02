@@ -5459,57 +5459,6 @@
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">Tennis Channel HD</display-name>
   </channel>
-  <programme channel="Tennis.Channel.HD.us2" start="20251231033000 +0000" stop="20251231063000 +0000">
-    <title lang="en">ATP Encore</title>
-    <desc lang="en">Novak Djokovic vs. Lorenzo Musetti.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-    <category lang="en">Classic Sport Event</category>
-    <icon src="http://dshm.tmsimg.com/assets/p13385194_b_h8_ad.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E27</episode-num>
-    <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20251231063000 +0000" stop="20251231110000 +0000">
-    <title lang="en">WTA Encore</title>
-    <desc lang="en">Amanda Anisimova vs. Iga Swiatek.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-    <category lang="en">Classic Sport Event</category>
-    <icon src="http://dshm.tmsimg.com/assets/p14665955_b_h8_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E21</episode-num>
-    <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20251231110000 +0000" stop="20251231113000 +0000">
-    <title lang="en">Academy Life</title>
-    <sub-title lang="en">IMG Tennis Academy</sub-title>
-    <desc lang="en">Behind-the-scenes at top tennis academies.</desc>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dshm.tmsimg.com/assets/p21058753_b_h8_ab.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20251231113000 +0000" stop="20251231193000 +0000">
-    <title lang="en">Australian Open Encore</title>
-    <desc lang="en">Gael Monfils vs. Taylor Fritz.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Classic Sport Event</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dshm.tmsimg.com/assets/p18270743_b_h8_ac.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20251231193000 +0000" stop="20260101033000 +0000">
-    <title lang="en">Australian Open Encore</title>
-    <desc lang="en">Gael Monfils vs. Taylor Fritz.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Classic Sport Event</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dshm.tmsimg.com/assets/p18270743_b_h8_ac.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260101033000 +0000" stop="20260101040000 +0000">
-    <title lang="en">Australian Open Encore</title>
-    <desc lang="en">Gael Monfils vs. Taylor Fritz.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Classic Sport Event</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dshm.tmsimg.com/assets/p18270743_b_h8_ac.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
   <programme channel="Tennis.Channel.HD.us2" start="20260101040000 +0000" stop="20260101090000 +0000">
     <title lang="en">Tennis Encore</title>
     <desc lang="en">Watch Iga Swiatek vs. Coco Gauff in the 2025 United Cup Final.</desc>
@@ -5744,6 +5693,46 @@
     <category lang="en">Tennis</category>
     <icon src="http://dshm.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">E5</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260104073000 +0000" stop="20260104150000 +0000">
+    <title lang="en">Center Court Live</title>
+    <sub-title lang="en">United Cup - Day 3 Group Stage; Brisbane-ATP/WTA Early Rounds</sub-title>
+    <desc lang="en">Tennis action from around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dshm.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E5</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260104150000 +0000" stop="20260104230000 +0000">
+    <title lang="en">Center Court</title>
+    <sub-title lang="en">United Cup - Day 3 Group Stage; Brisbane-ATP/WTA Early Rounds</sub-title>
+    <desc lang="en">Tennis action from around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dshm.tmsimg.com/assets/p615474_b_h10_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E5</episode-num>
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260104230000 +0000" stop="20260104233000 +0000">
+    <title lang="en">Tennis Channel Live</title>
+    <desc lang="en">Tennis stories of the day, detailed analysis and more.</desc>
+    <date>2013</date>
+    <category lang="en">Tennis</category>
+    <icon src="http://dshm.tmsimg.com/assets/p10285580_b_h10_ae.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260104233000 +0000" stop="20260105073000 +0000">
+    <title lang="en">Center Court Live</title>
+    <sub-title lang="en">United Cup - Day 4 Group Stage; Brisbane-ATP/WTA, Auckland-WTA &amp; Hong Kong-ATP Early Rounds</sub-title>
+    <desc lang="en">Tennis action from around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dshm.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E6</episode-num>
     <premiere lang="en" />
   </programme>
   <channel id="Horizon.Sports.distro">
