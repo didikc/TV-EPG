@@ -5479,108 +5479,26 @@
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">Tennis Channel HD</display-name>
   </channel>
-  <programme channel="Tennis.Channel.HD.us2" start="20260102020000 +0000" stop="20260102080000 +0000">
+  <programme channel="Tennis.Channel.HD.us2" start="20260103073000 +0000" stop="20260103150000 +0000">
     <title lang="en">Center Court Live</title>
-    <sub-title lang="en">United Cup - Day 1 Group Stage ESP v. ARG</sub-title>
-    <desc lang="en">Tennis action from around the world.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dshm.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E1</episode-num>
-    <premiere lang="en" />
-  </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260102080000 +0000" stop="20260102090000 +0000">
-    <title lang="en">Center Court</title>
-    <sub-title lang="en">United Cup - Day 1 Group Stage ESP v. ARG</sub-title>
-    <desc lang="en">Tennis action from around the world.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dshm.tmsimg.com/assets/p615474_b_h10_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E1</episode-num>
-    <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260102090000 +0000" stop="20260102150000 +0000">
-    <title lang="en">Center Court Live</title>
-    <sub-title lang="en">United Cup - Day 1 Group Stage GRE v. JPN</sub-title>
-    <desc lang="en">Tennis action from around the world.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dshm.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E2</episode-num>
-    <premiere lang="en" />
-  </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260102150000 +0000" stop="20260102230000 +0000">
-    <title lang="en">Center Court</title>
-    <sub-title lang="en">United Cup - Day 1 Group Stage ESP v. ARG &amp; GRE v. JPN</sub-title>
-    <desc lang="en">Tennis action from around the world.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dshm.tmsimg.com/assets/p615474_b_h10_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E2</episode-num>
-    <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260102230000 +0000" stop="20260102233000 +0000">
-    <title lang="en">Tennis Channel Live</title>
-    <desc lang="en">Tennis stories of the day, detailed analysis and more.</desc>
-    <date>2013</date>
-    <category lang="en">Tennis</category>
-    <icon src="http://dshm.tmsimg.com/assets/p10285580_b_h10_ae.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260102233000 +0000" stop="20260103053000 +0000">
-    <title lang="en">Center Court Live</title>
-    <sub-title lang="en">United Cup - Day 2 Group Stage BEL v. CHN</sub-title>
+    <sub-title lang="en">United Cup - Day 2 Group Stage: BEL vs. CHN, FRA vs. SUI, USA vs. ARG, &amp; AUS vs. NOR</sub-title>
     <desc lang="en">Tennis action from around the world.</desc>
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Tennis</category>
     <icon src="http://dshm.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">E3</episode-num>
-    <premiere lang="en" />
-  </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260103053000 +0000" stop="20260103063000 +0000">
-    <title lang="en">Center Court</title>
-    <sub-title lang="en">United Cup - Day 2 Group Stage BEL v. CHN</sub-title>
-    <desc lang="en">Tennis action from around the world.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dshm.tmsimg.com/assets/p615474_b_h10_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E3</episode-num>
-    <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260103063000 +0000" stop="20260103143000 +0000">
-    <title lang="en">Center Court Live</title>
-    <sub-title lang="en">United Cup - Day 2 Group Stage USA v. ARG &amp; AUS v. NOR</sub-title>
-    <desc lang="en">Mertens vs. Zhu; Bergs vs. Zhang; Joint vs. Helgo; De Minaur vs. Ruud; Jeanjean vs. Bencic; Rinderknech vs. Wawrinka; Fritz vs. Baez; Gauff vs. Sierra.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dshm.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E4</episode-num>
-    <premiere lang="en" />
-  </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260103143000 +0000" stop="20260103150000 +0000">
-    <title lang="en">Center Court Live</title>
-    <sub-title lang="en">United Cup - Day 2 Group Stage USA v. ARG &amp; AUS v. NOR</sub-title>
-    <desc lang="en">Mertens vs. Zhu; Bergs vs. Zhang; Joint vs. Helgo; De Minaur vs. Ruud; Jeanjean vs. Bencic; Rinderknech vs. Wawrinka; Fritz vs. Baez; Gauff vs. Sierra.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dshm.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E4</episode-num>
     <premiere lang="en" />
   </programme>
   <programme channel="Tennis.Channel.HD.us2" start="20260103150000 +0000" stop="20260103230000 +0000">
     <title lang="en">Center Court</title>
-    <sub-title lang="en">United Cup - Day 1 Group Stage USA v. ARG, FRA v. SUI, AUS v. NOR &amp; BEL v. CHN</sub-title>
+    <sub-title lang="en">United Cup - Day 2 Group Stage: BEL v. CHN, FRA v. SUI, USA v. ARG, &amp; AUS v. NOR</sub-title>
     <desc lang="en">Tennis action from around the world.</desc>
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Tennis</category>
     <icon src="http://dshm.tmsimg.com/assets/p615474_b_h10_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E4</episode-num>
+    <episode-num system="onscreen">E5</episode-num>
     <previously-shown /></programme>
   <programme channel="Tennis.Channel.HD.us2" start="20260103230000 +0000" stop="20260103233000 +0000">
     <title lang="en">Tennis Channel Live</title>
@@ -5620,7 +5538,7 @@
     <category lang="en">Series</category>
     <category lang="en">Tennis</category>
     <icon src="http://dshm.tmsimg.com/assets/p615474_b_h10_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E5</episode-num>
+    <episode-num system="onscreen">E6</episode-num>
     <previously-shown /></programme>
   <programme channel="Tennis.Channel.HD.us2" start="20260104230000 +0000" stop="20260104233000 +0000">
     <title lang="en">Tennis Channel Live</title>
@@ -5660,7 +5578,7 @@
     <category lang="en">Series</category>
     <category lang="en">Tennis</category>
     <icon src="http://dshm.tmsimg.com/assets/p615474_b_h10_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E6</episode-num>
+    <episode-num system="onscreen">E7</episode-num>
     <previously-shown /></programme>
   <programme channel="Tennis.Channel.HD.us2" start="20260105230000 +0000" stop="20260105233000 +0000">
     <title lang="en">Tennis Channel Live</title>
@@ -5679,6 +5597,56 @@
     <category lang="en">Tennis</category>
     <icon src="http://dshm.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">E7</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260106073000 +0000" stop="20260106123000 +0000">
+    <title lang="en">Center Court Live</title>
+    <sub-title lang="en">United Cup - Day 5 Group Stage; Brisbane-ATP/WTA, Auckland-WTA &amp; Hong Kong-ATP Early Rounds</sub-title>
+    <desc lang="en">Tennis action from around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dshm.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E7</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260106123000 +0000" stop="20260106203000 +0000">
+    <title lang="en">Center Court</title>
+    <sub-title lang="en">United Cup - Day 5 Group Stage; Brisbane-ATP/WTA, Auckland-WTA &amp; Hong Kong-ATP Early Rounds</sub-title>
+    <desc lang="en">Tennis action from around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dshm.tmsimg.com/assets/p615474_b_h10_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E8</episode-num>
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260106203000 +0000" stop="20260106230000 +0000">
+    <title lang="en">Center Court</title>
+    <sub-title lang="en">United Cup - Day 5 Group Stage; Brisbane-ATP/WTA, Auckland-WTA &amp; Hong Kong-ATP Early Rounds</sub-title>
+    <desc lang="en">Tennis action from around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dshm.tmsimg.com/assets/p615474_b_h10_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E8</episode-num>
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260106230000 +0000" stop="20260106233000 +0000">
+    <title lang="en">Tennis Channel Live</title>
+    <desc lang="en">Tennis stories of the day, detailed analysis and more.</desc>
+    <date>2013</date>
+    <category lang="en">Tennis</category>
+    <icon src="http://dshm.tmsimg.com/assets/p10285580_b_h10_ae.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260106233000 +0000" stop="20260107073000 +0000">
+    <title lang="en">Center Court Live</title>
+    <sub-title lang="en">United Cup - Day 6 Quarterfinals &amp; Group Stage; Brisbane-ATP/WTA, Auckland-WTA &amp; Hong Kong-ATP Early Rounds</sub-title>
+    <desc lang="en">Tennis action from around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dshm.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E8</episode-num>
     <premiere lang="en" />
   </programme>
   <channel id="MotorRacing.distro">
