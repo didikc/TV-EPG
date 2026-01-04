@@ -5440,6 +5440,4208 @@
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">Tennis Channel HD</display-name>
   </channel>
+  <channel id="AMC+.us2">
+    <icon src="http://dshm.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dshm.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">AMC+</display-name>
+  </channel>
+  <programme channel="AMC+.us2" start="20260103044200 +0000" stop="20260103061800 +0000">
+    <title lang="en">Neighborhood Watch</title>
+    <desc lang="en">Believing he witnessed an abduction, a young man turns to his next-door neighbor, a retired security guard, to help him find the missing woman.</desc>
+    <credits>
+      <actor>Jeffrey Dean Morgan</actor>
+      <actor>Jack Quaid</actor>
+      <actor>Malin Akerman</actor>
+      <director>Duncan Skiles</director>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p28644600_v_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />  <rating system="Motion Picture Association">
+      <value>R</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260103061800 +0000" stop="20260103075100 +0000">
+    <title lang="en">Sympathy for the Devil</title>
+    <desc lang="en">Forced to drive a mysterious passenger at gunpoint, a man finds himself in a high-stakes game of cat and mouse where nothing is as it seems.</desc>
+    <credits>
+      <actor>Nicolas Cage</actor>
+      <actor>Joel Kinnaman</actor>
+      <actor>Kaiwi Lyman</actor>
+      <director>Yuval Adler</director>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p24534318_v_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />  <rating system="Alberta's Film Classification Board">
+      <value>14A</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="映倫">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260103075100 +0000" stop="20260103092700 +0000">
+    <title lang="en">Apex</title>
+    <desc lang="en">Serving a life sentence for a crime he didn't commit, former cop Thomas Malone gets a chance to win his freedom if he can survive a twisted game. Six killers pay for the thrill of hunting Malone for sport on a remote island, but once he arrives, all hell breaks loose. Laying traps and playing mind games, he soon turns the tables on the goons who want him dead.</desc>
+    <credits>
+      <actor>Neal McDonough</actor>
+      <actor>Bruce Willis</actor>
+      <actor>Corey Large</actor>
+      <director>Edward Drake</director>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <icon src="http://dshm.tmsimg.com/assets/p20822372_v_h10_ai.jpg?w=960&amp;h=540" />
+    <previously-shown />  <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Ministero della Cultura">
+      <value>VM14</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="영상물등급위원회">
+      <value>15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+    <rating system="Medierådet">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260103092700 +0000" stop="20260103110000 +0000">
+    <title lang="en">Clean</title>
+    <desc lang="en">An insight into the world of trauma cleaning through the journey of larger-than-life business owner Sandra Pankhurst and the workers at Melbourne's Specialized Cleaning Services.</desc>
+    <credits>
+      <actor>Sandra Pankhurst</actor>
+      <director>Lachlan Mcleod</director>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Documentary</category>
+    <icon src="http://dshm.tmsimg.com/assets/p22983675_v_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />  <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260103110000 +0000" stop="20260103115000 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">The Dog</sub-title>
+    <desc lang="en">After they escape a riot, Travis, Liza and Chris seek refuge with the Salazars; Madison defends her home.</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260103115000 +0000" stop="20260103123800 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">Not Fade Away</sub-title>
+    <desc lang="en">Madison and Travis see different sides of the National Guard's occupation in their neighborhood; the family tries to adapt to the new world.</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260103123800 +0000" stop="20260103132500 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">Cobalt</sub-title>
+    <desc lang="en">The National Guard's plan for the neighborhood is revealed; Travis and Madison make a difficult decision.</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260103132500 +0000" stop="20260103141900 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">The Good Man</sub-title>
+    <desc lang="en">As civil unrest grows, and the dead take over, Travis and Madison try to devise ways to protect their families.</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260103141900 +0000" stop="20260103152500 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">Pilot</sub-title>
+    <desc lang="en">A dysfunctional blended family is forced together when they realize the onset of the undead apocalypse is upon them.</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260103152500 +0000" stop="20260103161000 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">So Close, Yet So Far</sub-title>
+    <desc lang="en">Madison tries to keep Nick from withdrawal; Travis sets out to locate his son before Los Angeles falls.</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260103161000 +0000" stop="20260103170000 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">The Dog</sub-title>
+    <desc lang="en">After they escape a riot, Travis, Liza and Chris seek refuge with the Salazars; Madison defends her home.</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260103170000 +0000" stop="20260103175000 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">Not Fade Away</sub-title>
+    <desc lang="en">Madison and Travis see different sides of the National Guard's occupation in their neighborhood; the family tries to adapt to the new world.</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260103175000 +0000" stop="20260103183900 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">Cobalt</sub-title>
+    <desc lang="en">The National Guard's plan for the neighborhood is revealed; Travis and Madison make a difficult decision.</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260103183900 +0000" stop="20260103193500 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">The Good Man</sub-title>
+    <desc lang="en">As civil unrest grows, and the dead take over, Travis and Madison try to devise ways to protect their families.</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260103193500 +0000" stop="20260103204400 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">Pilot</sub-title>
+    <desc lang="en">A dysfunctional blended family is forced together when they realize the onset of the undead apocalypse is upon them.</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260103204400 +0000" stop="20260103213200 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">So Close, Yet So Far</sub-title>
+    <desc lang="en">Madison tries to keep Nick from withdrawal; Travis sets out to locate his son before Los Angeles falls.</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260103213200 +0000" stop="20260103222500 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">The Dog</sub-title>
+    <desc lang="en">After they escape a riot, Travis, Liza and Chris seek refuge with the Salazars; Madison defends her home.</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260103222500 +0000" stop="20260103231600 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">Not Fade Away</sub-title>
+    <desc lang="en">Madison and Travis see different sides of the National Guard's occupation in their neighborhood; the family tries to adapt to the new world.</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260103231600 +0000" stop="20260104000500 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">Cobalt</sub-title>
+    <desc lang="en">The National Guard's plan for the neighborhood is revealed; Travis and Madison make a difficult decision.</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260104000500 +0000" stop="20260104010000 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">The Good Man</sub-title>
+    <desc lang="en">As civil unrest grows, and the dead take over, Travis and Madison try to devise ways to protect their families.</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260104010000 +0000" stop="20260104020800 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">Pilot</sub-title>
+    <desc lang="en">A dysfunctional blended family is forced together when they realize the onset of the undead apocalypse is upon them.</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260104020800 +0000" stop="20260104025400 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">So Close, Yet So Far</sub-title>
+    <desc lang="en">Madison tries to keep Nick from withdrawal; Travis sets out to locate his son before Los Angeles falls.</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260104025400 +0000" stop="20260104034500 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">The Dog</sub-title>
+    <desc lang="en">After they escape a riot, Travis, Liza and Chris seek refuge with the Salazars; Madison defends her home.</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260104034500 +0000" stop="20260104043400 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">Not Fade Away</sub-title>
+    <desc lang="en">Madison and Travis see different sides of the National Guard's occupation in their neighborhood; the family tries to adapt to the new world.</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260104043400 +0000" stop="20260104052200 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">Cobalt</sub-title>
+    <desc lang="en">The National Guard's plan for the neighborhood is revealed; Travis and Madison make a difficult decision.</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260104052200 +0000" stop="20260104061800 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">The Good Man</sub-title>
+    <desc lang="en">As civil unrest grows, and the dead take over, Travis and Madison try to devise ways to protect their families.</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260104061800 +0000" stop="20260104072500 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">Pilot</sub-title>
+    <desc lang="en">A dysfunctional blended family is forced together when they realize the onset of the undead apocalypse is upon them.</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260104072500 +0000" stop="20260104081100 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">So Close, Yet So Far</sub-title>
+    <desc lang="en">Madison tries to keep Nick from withdrawal; Travis sets out to locate his son before Los Angeles falls.</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260104081100 +0000" stop="20260104090200 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">The Dog</sub-title>
+    <desc lang="en">After they escape a riot, Travis, Liza and Chris seek refuge with the Salazars; Madison defends her home.</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260104090200 +0000" stop="20260104095100 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">Not Fade Away</sub-title>
+    <desc lang="en">Madison and Travis see different sides of the National Guard's occupation in their neighborhood; the family tries to adapt to the new world.</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260104095100 +0000" stop="20260104103900 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">Cobalt</sub-title>
+    <desc lang="en">The National Guard's plan for the neighborhood is revealed; Travis and Madison make a difficult decision.</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260104103900 +0000" stop="20260104110000 +0000">
+    <title lang="en">Comic Book Men</title>
+    <sub-title lang="en">The Incredible Bulk</sub-title>
+    <desc lang="en">Lou Ferrigno gives Bryan a lesson on fitness; a customer wants to purchase a key comic by Frank Miller.</desc>
+    <credits>
+      <actor>Kevin Smith</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Collectibles</category>
+    <icon src="http://dshm.tmsimg.com/assets/p10167271_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260104110000 +0000" stop="20260104114400 +0000">
+    <title lang="en">Mayfair Witches</title>
+    <sub-title lang="en">Tessa</sub-title>
+    <desc lang="en">Rowan makes a shocking discovery but has to deal with it alone; a tragic event brings Rowan closer to the Mayfairs -- and Lasher; Sip falls deeper down the rabbit hole of the key necklace.</desc>
+    <credits>
+      <actor>Alexandra Daddario</actor>
+      <actor>Jack Huston</actor>
+      <actor>Tongayi Chirisa</actor>
+      <director>Alexis Ostrander</director>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <icon src="http://dshm.tmsimg.com/assets/p23584602_b_h8_ap.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260104114400 +0000" stop="20260104123000 +0000">
+    <title lang="en">Mayfair Witches</title>
+    <sub-title lang="en">What Rough Beast</sub-title>
+    <desc lang="en">Rowan inadvertently discovers her role in a prophecy that's held the Mayfair family for generations; Sip's investigation reaches its conclusion, uncovering secrets that could tarnish both Rowan's family and his role in the Talamasca.</desc>
+    <credits>
+      <actor>Alexandra Daddario</actor>
+      <actor>Jack Huston</actor>
+      <actor>Tongayi Chirisa</actor>
+      <director>Alexis Ostrander</director>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <icon src="http://dshm.tmsimg.com/assets/p23584602_b_h8_ap.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260104123000 +0000" stop="20260104132500 +0000">
+    <title lang="en">Mayfair Witches</title>
+    <sub-title lang="en">The Witching Hour</sub-title>
+    <desc lang="en">Neurosurgeon Rowan Fielding has a problem -- when she gets mad, she kills with her mind; her search for answers sends her toward her secretive biological family; in New Orleans, Deirdre Mayfair is desperate to escape from her aunt's oppressive house.</desc>
+    <credits>
+      <actor>Alexandra Daddario</actor>
+      <actor>Jack Huston</actor>
+      <actor>Tongayi Chirisa</actor>
+      <director>Michael Uppendahl</director>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <icon src="http://dshm.tmsimg.com/assets/p23584602_b_h8_ap.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260104132500 +0000" stop="20260104141200 +0000">
+    <title lang="en">Mayfair Witches</title>
+    <sub-title lang="en">The Dark Place</sub-title>
+    <desc lang="en">Wracked with grief over Ellie's death, Rowan is out of control and unfit to perform surgeries; her paranoia that someone is following her is proven true; in New Orleans, Deirdre and her mysterious companion Lasher work together to draw Rowan home.</desc>
+    <credits>
+      <actor>Alexandra Daddario</actor>
+      <actor>Jack Huston</actor>
+      <actor>Tongayi Chirisa</actor>
+      <director>Michael Uppendahl</director>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <icon src="http://dshm.tmsimg.com/assets/p23584602_b_h8_ap.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260104141200 +0000" stop="20260104145500 +0000">
+    <title lang="en">Mayfair Witches</title>
+    <sub-title lang="en">Second Line</sub-title>
+    <desc lang="en">In the aftermath of Deirdre's grisly death, Rowan searches for safety in a strange city; Sip provides Rowan with a safe house while he investigates Deirdre's murder; Lasher makes contact with Rowan, but not in the way one might expect.</desc>
+    <credits>
+      <actor>Alexandra Daddario</actor>
+      <actor>Jack Huston</actor>
+      <actor>Tongayi Chirisa</actor>
+      <director>Axelle Carolyn</director>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <icon src="http://dshm.tmsimg.com/assets/p23584602_b_h8_ap.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260104145500 +0000" stop="20260104154000 +0000">
+    <title lang="en">Mayfair Witches</title>
+    <sub-title lang="en">Curiouser and Curiouser</sub-title>
+    <desc lang="en">At Deirdre's funeral, Rowan is plunged into the world of the infamous Mayfair family; Uncle Cortland and Aunt Carlotta present diverging views on Lasher; Rowan must choose whom to trust and face the dire consequences; Sip identifies Deirdre's killer.</desc>
+    <credits>
+      <actor>Alexandra Daddario</actor>
+      <actor>Jack Huston</actor>
+      <actor>Tongayi Chirisa</actor>
+      <director>Axelle Carolyn</director>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <icon src="http://dshm.tmsimg.com/assets/p23584602_b_h8_ap.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260104154000 +0000" stop="20260104162600 +0000">
+    <title lang="en">Mayfair Witches</title>
+    <sub-title lang="en">The Thrall</sub-title>
+    <desc lang="en">Trapped in the First Street House, Rowan and Sip must confront its many mysteries in order to escape; Rowan grapples with an inconceivable offer; Sip's sister Odette makes a horrifying discovery.</desc>
+    <credits>
+      <actor>Alexandra Daddario</actor>
+      <actor>Jack Huston</actor>
+      <actor>Tongayi Chirisa</actor>
+      <director>Haifaa Al-Mansour</director>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <icon src="http://dshm.tmsimg.com/assets/p23584602_b_h8_ap.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260104162600 +0000" stop="20260104171500 +0000">
+    <title lang="en">Mayfair Witches</title>
+    <sub-title lang="en">Transference</sub-title>
+    <desc lang="en">Desperate to relinquish Lasher, Rowan reaches out to her extended Mayfair family for help; Rowan must trust their unique process, a sacred ritual; Sip's search for answers takes him back to the Talamasca.</desc>
+    <credits>
+      <actor>Alexandra Daddario</actor>
+      <actor>Jack Huston</actor>
+      <actor>Tongayi Chirisa</actor>
+      <director>Haifaa Al-Mansour</director>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <icon src="http://dshm.tmsimg.com/assets/p23584602_b_h8_ap.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260104171500 +0000" stop="20260104180000 +0000">
+    <title lang="en">Mayfair Witches</title>
+    <sub-title lang="en">Tessa</sub-title>
+    <desc lang="en">Rowan makes a shocking discovery but has to deal with it alone; a tragic event brings Rowan closer to the Mayfairs -- and Lasher; Sip falls deeper down the rabbit hole of the key necklace.</desc>
+    <credits>
+      <actor>Alexandra Daddario</actor>
+      <actor>Jack Huston</actor>
+      <actor>Tongayi Chirisa</actor>
+      <director>Alexis Ostrander</director>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <icon src="http://dshm.tmsimg.com/assets/p23584602_b_h8_ap.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260104180000 +0000" stop="20260104184500 +0000">
+    <title lang="en">Mayfair Witches</title>
+    <sub-title lang="en">What Rough Beast</sub-title>
+    <desc lang="en">Rowan inadvertently discovers her role in a prophecy that's held the Mayfair family for generations; Sip's investigation reaches its conclusion, uncovering secrets that could tarnish both Rowan's family and his role in the Talamasca.</desc>
+    <credits>
+      <actor>Alexandra Daddario</actor>
+      <actor>Jack Huston</actor>
+      <actor>Tongayi Chirisa</actor>
+      <director>Alexis Ostrander</director>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <icon src="http://dshm.tmsimg.com/assets/p23584602_b_h8_ap.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260104184500 +0000" stop="20260104194100 +0000">
+    <title lang="en">Mayfair Witches</title>
+    <sub-title lang="en">The Witching Hour</sub-title>
+    <desc lang="en">Neurosurgeon Rowan Fielding has a problem -- when she gets mad, she kills with her mind; her search for answers sends her toward her secretive biological family; in New Orleans, Deirdre Mayfair is desperate to escape from her aunt's oppressive house.</desc>
+    <credits>
+      <actor>Alexandra Daddario</actor>
+      <actor>Jack Huston</actor>
+      <actor>Tongayi Chirisa</actor>
+      <director>Michael Uppendahl</director>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <icon src="http://dshm.tmsimg.com/assets/p23584602_b_h8_ap.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260104194100 +0000" stop="20260104202900 +0000">
+    <title lang="en">Mayfair Witches</title>
+    <sub-title lang="en">The Dark Place</sub-title>
+    <desc lang="en">Wracked with grief over Ellie's death, Rowan is out of control and unfit to perform surgeries; her paranoia that someone is following her is proven true; in New Orleans, Deirdre and her mysterious companion Lasher work together to draw Rowan home.</desc>
+    <credits>
+      <actor>Alexandra Daddario</actor>
+      <actor>Jack Huston</actor>
+      <actor>Tongayi Chirisa</actor>
+      <director>Michael Uppendahl</director>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <icon src="http://dshm.tmsimg.com/assets/p23584602_b_h8_ap.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260104202900 +0000" stop="20260104211200 +0000">
+    <title lang="en">Mayfair Witches</title>
+    <sub-title lang="en">Second Line</sub-title>
+    <desc lang="en">In the aftermath of Deirdre's grisly death, Rowan searches for safety in a strange city; Sip provides Rowan with a safe house while he investigates Deirdre's murder; Lasher makes contact with Rowan, but not in the way one might expect.</desc>
+    <credits>
+      <actor>Alexandra Daddario</actor>
+      <actor>Jack Huston</actor>
+      <actor>Tongayi Chirisa</actor>
+      <director>Axelle Carolyn</director>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <icon src="http://dshm.tmsimg.com/assets/p23584602_b_h8_ap.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260104211200 +0000" stop="20260104215700 +0000">
+    <title lang="en">Mayfair Witches</title>
+    <sub-title lang="en">Curiouser and Curiouser</sub-title>
+    <desc lang="en">At Deirdre's funeral, Rowan is plunged into the world of the infamous Mayfair family; Uncle Cortland and Aunt Carlotta present diverging views on Lasher; Rowan must choose whom to trust and face the dire consequences; Sip identifies Deirdre's killer.</desc>
+    <credits>
+      <actor>Alexandra Daddario</actor>
+      <actor>Jack Huston</actor>
+      <actor>Tongayi Chirisa</actor>
+      <director>Axelle Carolyn</director>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <icon src="http://dshm.tmsimg.com/assets/p23584602_b_h8_ap.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260104215700 +0000" stop="20260104224200 +0000">
+    <title lang="en">Mayfair Witches</title>
+    <sub-title lang="en">The Thrall</sub-title>
+    <desc lang="en">Trapped in the First Street House, Rowan and Sip must confront its many mysteries in order to escape; Rowan grapples with an inconceivable offer; Sip's sister Odette makes a horrifying discovery.</desc>
+    <credits>
+      <actor>Alexandra Daddario</actor>
+      <actor>Jack Huston</actor>
+      <actor>Tongayi Chirisa</actor>
+      <director>Haifaa Al-Mansour</director>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <icon src="http://dshm.tmsimg.com/assets/p23584602_b_h8_ap.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260104224200 +0000" stop="20260104233000 +0000">
+    <title lang="en">Mayfair Witches</title>
+    <sub-title lang="en">Transference</sub-title>
+    <desc lang="en">Desperate to relinquish Lasher, Rowan reaches out to her extended Mayfair family for help; Rowan must trust their unique process, a sacred ritual; Sip's search for answers takes him back to the Talamasca.</desc>
+    <credits>
+      <actor>Alexandra Daddario</actor>
+      <actor>Jack Huston</actor>
+      <actor>Tongayi Chirisa</actor>
+      <director>Haifaa Al-Mansour</director>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <icon src="http://dshm.tmsimg.com/assets/p23584602_b_h8_ap.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260104233000 +0000" stop="20260105001400 +0000">
+    <title lang="en">Mayfair Witches</title>
+    <sub-title lang="en">Tessa</sub-title>
+    <desc lang="en">Rowan makes a shocking discovery but has to deal with it alone; a tragic event brings Rowan closer to the Mayfairs -- and Lasher; Sip falls deeper down the rabbit hole of the key necklace.</desc>
+    <credits>
+      <actor>Alexandra Daddario</actor>
+      <actor>Jack Huston</actor>
+      <actor>Tongayi Chirisa</actor>
+      <director>Alexis Ostrander</director>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <icon src="http://dshm.tmsimg.com/assets/p23584602_b_h8_ap.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260105001400 +0000" stop="20260105010000 +0000">
+    <title lang="en">Mayfair Witches</title>
+    <sub-title lang="en">What Rough Beast</sub-title>
+    <desc lang="en">Rowan inadvertently discovers her role in a prophecy that's held the Mayfair family for generations; Sip's investigation reaches its conclusion, uncovering secrets that could tarnish both Rowan's family and his role in the Talamasca.</desc>
+    <credits>
+      <actor>Alexandra Daddario</actor>
+      <actor>Jack Huston</actor>
+      <actor>Tongayi Chirisa</actor>
+      <director>Alexis Ostrander</director>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <icon src="http://dshm.tmsimg.com/assets/p23584602_b_h8_ap.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260105010000 +0000" stop="20260105015500 +0000">
+    <title lang="en">Mayfair Witches</title>
+    <sub-title lang="en">The Witching Hour</sub-title>
+    <desc lang="en">Neurosurgeon Rowan Fielding has a problem -- when she gets mad, she kills with her mind; her search for answers sends her toward her secretive biological family; in New Orleans, Deirdre Mayfair is desperate to escape from her aunt's oppressive house.</desc>
+    <credits>
+      <actor>Alexandra Daddario</actor>
+      <actor>Jack Huston</actor>
+      <actor>Tongayi Chirisa</actor>
+      <director>Michael Uppendahl</director>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <icon src="http://dshm.tmsimg.com/assets/p23584602_b_h8_ap.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260105015500 +0000" stop="20260105024200 +0000">
+    <title lang="en">Mayfair Witches</title>
+    <sub-title lang="en">The Dark Place</sub-title>
+    <desc lang="en">Wracked with grief over Ellie's death, Rowan is out of control and unfit to perform surgeries; her paranoia that someone is following her is proven true; in New Orleans, Deirdre and her mysterious companion Lasher work together to draw Rowan home.</desc>
+    <credits>
+      <actor>Alexandra Daddario</actor>
+      <actor>Jack Huston</actor>
+      <actor>Tongayi Chirisa</actor>
+      <director>Michael Uppendahl</director>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <icon src="http://dshm.tmsimg.com/assets/p23584602_b_h8_ap.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260105024200 +0000" stop="20260105032500 +0000">
+    <title lang="en">Mayfair Witches</title>
+    <sub-title lang="en">Second Line</sub-title>
+    <desc lang="en">In the aftermath of Deirdre's grisly death, Rowan searches for safety in a strange city; Sip provides Rowan with a safe house while he investigates Deirdre's murder; Lasher makes contact with Rowan, but not in the way one might expect.</desc>
+    <credits>
+      <actor>Alexandra Daddario</actor>
+      <actor>Jack Huston</actor>
+      <actor>Tongayi Chirisa</actor>
+      <director>Axelle Carolyn</director>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <icon src="http://dshm.tmsimg.com/assets/p23584602_b_h8_ap.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260105032500 +0000" stop="20260105041000 +0000">
+    <title lang="en">Mayfair Witches</title>
+    <sub-title lang="en">Curiouser and Curiouser</sub-title>
+    <desc lang="en">At Deirdre's funeral, Rowan is plunged into the world of the infamous Mayfair family; Uncle Cortland and Aunt Carlotta present diverging views on Lasher; Rowan must choose whom to trust and face the dire consequences; Sip identifies Deirdre's killer.</desc>
+    <credits>
+      <actor>Alexandra Daddario</actor>
+      <actor>Jack Huston</actor>
+      <actor>Tongayi Chirisa</actor>
+      <director>Axelle Carolyn</director>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <icon src="http://dshm.tmsimg.com/assets/p23584602_b_h8_ap.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260105041000 +0000" stop="20260105045500 +0000">
+    <title lang="en">Mayfair Witches</title>
+    <sub-title lang="en">The Thrall</sub-title>
+    <desc lang="en">Trapped in the First Street House, Rowan and Sip must confront its many mysteries in order to escape; Rowan grapples with an inconceivable offer; Sip's sister Odette makes a horrifying discovery.</desc>
+    <credits>
+      <actor>Alexandra Daddario</actor>
+      <actor>Jack Huston</actor>
+      <actor>Tongayi Chirisa</actor>
+      <director>Haifaa Al-Mansour</director>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <icon src="http://dshm.tmsimg.com/assets/p23584602_b_h8_ap.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260105045500 +0000" stop="20260105054200 +0000">
+    <title lang="en">Mayfair Witches</title>
+    <sub-title lang="en">Transference</sub-title>
+    <desc lang="en">Desperate to relinquish Lasher, Rowan reaches out to her extended Mayfair family for help; Rowan must trust their unique process, a sacred ritual; Sip's search for answers takes him back to the Talamasca.</desc>
+    <credits>
+      <actor>Alexandra Daddario</actor>
+      <actor>Jack Huston</actor>
+      <actor>Tongayi Chirisa</actor>
+      <director>Haifaa Al-Mansour</director>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <icon src="http://dshm.tmsimg.com/assets/p23584602_b_h8_ap.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260105054200 +0000" stop="20260105062400 +0000">
+    <title lang="en">Mayfair Witches</title>
+    <sub-title lang="en">Tessa</sub-title>
+    <desc lang="en">Rowan makes a shocking discovery but has to deal with it alone; a tragic event brings Rowan closer to the Mayfairs -- and Lasher; Sip falls deeper down the rabbit hole of the key necklace.</desc>
+    <credits>
+      <actor>Alexandra Daddario</actor>
+      <actor>Jack Huston</actor>
+      <actor>Tongayi Chirisa</actor>
+      <director>Alexis Ostrander</director>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <icon src="http://dshm.tmsimg.com/assets/p23584602_b_h8_ap.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260105062400 +0000" stop="20260105070800 +0000">
+    <title lang="en">Mayfair Witches</title>
+    <sub-title lang="en">What Rough Beast</sub-title>
+    <desc lang="en">Rowan inadvertently discovers her role in a prophecy that's held the Mayfair family for generations; Sip's investigation reaches its conclusion, uncovering secrets that could tarnish both Rowan's family and his role in the Talamasca.</desc>
+    <credits>
+      <actor>Alexandra Daddario</actor>
+      <actor>Jack Huston</actor>
+      <actor>Tongayi Chirisa</actor>
+      <director>Alexis Ostrander</director>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <icon src="http://dshm.tmsimg.com/assets/p23584602_b_h8_ap.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260105070800 +0000" stop="20260105080300 +0000">
+    <title lang="en">Mayfair Witches</title>
+    <sub-title lang="en">The Witching Hour</sub-title>
+    <desc lang="en">Neurosurgeon Rowan Fielding has a problem -- when she gets mad, she kills with her mind; her search for answers sends her toward her secretive biological family; in New Orleans, Deirdre Mayfair is desperate to escape from her aunt's oppressive house.</desc>
+    <credits>
+      <actor>Alexandra Daddario</actor>
+      <actor>Jack Huston</actor>
+      <actor>Tongayi Chirisa</actor>
+      <director>Michael Uppendahl</director>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <icon src="http://dshm.tmsimg.com/assets/p23584602_b_h8_ap.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260105080300 +0000" stop="20260105085000 +0000">
+    <title lang="en">Mayfair Witches</title>
+    <sub-title lang="en">The Dark Place</sub-title>
+    <desc lang="en">Wracked with grief over Ellie's death, Rowan is out of control and unfit to perform surgeries; her paranoia that someone is following her is proven true; in New Orleans, Deirdre and her mysterious companion Lasher work together to draw Rowan home.</desc>
+    <credits>
+      <actor>Alexandra Daddario</actor>
+      <actor>Jack Huston</actor>
+      <actor>Tongayi Chirisa</actor>
+      <director>Michael Uppendahl</director>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <icon src="http://dshm.tmsimg.com/assets/p23584602_b_h8_ap.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260105085000 +0000" stop="20260105093300 +0000">
+    <title lang="en">Mayfair Witches</title>
+    <sub-title lang="en">Second Line</sub-title>
+    <desc lang="en">In the aftermath of Deirdre's grisly death, Rowan searches for safety in a strange city; Sip provides Rowan with a safe house while he investigates Deirdre's murder; Lasher makes contact with Rowan, but not in the way one might expect.</desc>
+    <credits>
+      <actor>Alexandra Daddario</actor>
+      <actor>Jack Huston</actor>
+      <actor>Tongayi Chirisa</actor>
+      <director>Axelle Carolyn</director>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <icon src="http://dshm.tmsimg.com/assets/p23584602_b_h8_ap.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260105093300 +0000" stop="20260105101700 +0000">
+    <title lang="en">Mayfair Witches</title>
+    <sub-title lang="en">Curiouser and Curiouser</sub-title>
+    <desc lang="en">At Deirdre's funeral, Rowan is plunged into the world of the infamous Mayfair family; Uncle Cortland and Aunt Carlotta present diverging views on Lasher; Rowan must choose whom to trust and face the dire consequences; Sip identifies Deirdre's killer.</desc>
+    <credits>
+      <actor>Alexandra Daddario</actor>
+      <actor>Jack Huston</actor>
+      <actor>Tongayi Chirisa</actor>
+      <director>Axelle Carolyn</director>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <icon src="http://dshm.tmsimg.com/assets/p23584602_b_h8_ap.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260105101700 +0000" stop="20260105110000 +0000">
+    <title lang="en">Mayfair Witches</title>
+    <sub-title lang="en">The Thrall</sub-title>
+    <desc lang="en">Trapped in the First Street House, Rowan and Sip must confront its many mysteries in order to escape; Rowan grapples with an inconceivable offer; Sip's sister Odette makes a horrifying discovery.</desc>
+    <credits>
+      <actor>Alexandra Daddario</actor>
+      <actor>Jack Huston</actor>
+      <actor>Tongayi Chirisa</actor>
+      <director>Haifaa Al-Mansour</director>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <icon src="http://dshm.tmsimg.com/assets/p23584602_b_h8_ap.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260105110000 +0000" stop="20260105115600 +0000">
+    <title lang="en">Gangs of London</title>
+    <sub-title lang="en">Episode 6</sub-title>
+    <desc lang="en">Hidden away in a farmhouse in the middle of nowhere, Darren wrestles with the chaos he's unleashed.</desc>
+    <credits>
+      <actor>Sope Dirisu</actor>
+      <actor>Joe Cole</actor>
+      <actor>Colm Meaney</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dshm.tmsimg.com/assets/p18172419_b_h8_am.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260105115600 +0000" stop="20260105125300 +0000">
+    <title lang="en">Gangs of London</title>
+    <sub-title lang="en">Episode 7</sub-title>
+    <desc lang="en">With the Wallaces retreating to a safehouse, Marian puts pressure on Sean to uncover Finn's killer; meanwhile, Elliot's recuperation is interrupted by a new danger.</desc>
+    <credits>
+      <actor>Sope Dirisu</actor>
+      <actor>Joe Cole</actor>
+      <actor>Colm Meaney</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dshm.tmsimg.com/assets/p18172419_b_h8_am.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260105125300 +0000" stop="20260105134600 +0000">
+    <title lang="en">Gangs of London</title>
+    <sub-title lang="en">Episode 8</sub-title>
+    <desc lang="en">With the truth about Finn's murder revealed, the Wallaces and the Dumanis will never be the same again; meanwhile, Luan is forced to confront the deadly consequences of his actions.</desc>
+    <credits>
+      <actor>Sope Dirisu</actor>
+      <actor>Joe Cole</actor>
+      <actor>Colm Meaney</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dshm.tmsimg.com/assets/p18172419_b_h8_am.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260105134600 +0000" stop="20260105144000 +0000">
+    <title lang="en">Gangs of London</title>
+    <sub-title lang="en">Episode 9</sub-title>
+    <desc lang="en">With the stakes higher than ever, the Wallaces are forced to go into hiding; Luan risks his life to rid himself of Mosi; Elliot attempts to save the life of a colleague.</desc>
+    <credits>
+      <actor>Sope Dirisu</actor>
+      <actor>Joe Cole</actor>
+      <actor>Colm Meaney</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dshm.tmsimg.com/assets/p18172419_b_h8_am.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260105144000 +0000" stop="20260105154000 +0000">
+    <title lang="en">Gangs of London</title>
+    <sub-title lang="en">Episode 10</sub-title>
+    <desc lang="en">Elliot is forced to make a choice that will define his entire future; Sean makes a discovery about a traitor who has been in his midst all along.</desc>
+    <credits>
+      <actor>Sope Dirisu</actor>
+      <actor>Joe Cole</actor>
+      <actor>Colm Meaney</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dshm.tmsimg.com/assets/p18172419_b_h8_am.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260105154000 +0000" stop="20260105163100 +0000">
+    <title lang="en">Gangs of London</title>
+    <sub-title lang="en">Episode 1</sub-title>
+    <desc lang="en">London's most powerful criminal is found dead and nobody knows who ordered the hit; Sean Wallace puts a stop to all criminal business in London until he finds his father's killer.</desc>
+    <credits>
+      <actor>Sope Dirisu</actor>
+      <actor>Joe Cole</actor>
+      <actor>Colm Meaney</actor>
+      <director>Gareth Evans</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dshm.tmsimg.com/assets/p18172419_b_h8_am.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260105163100 +0000" stop="20260105171800 +0000">
+    <title lang="en">Gangs of London</title>
+    <sub-title lang="en">Episode 2</sub-title>
+    <desc lang="en">Tensions continue to grow on the morning of Finn's funeral; creating as much chaos as he prevents, Elliot Finch goes deeper and deeper into London's murky underworld.</desc>
+    <credits>
+      <actor>Sope Dirisu</actor>
+      <actor>Joe Cole</actor>
+      <actor>Colm Meaney</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dshm.tmsimg.com/assets/p18172419_b_h8_am.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260105171800 +0000" stop="20260105181600 +0000">
+    <title lang="en">Gangs of London</title>
+    <sub-title lang="en">Episode 3</sub-title>
+    <desc lang="en">Elliot establishes a connection with a key member of the Dumani family; meanwhile, Sean unleashes his fury after making a discovery about his father's murder.</desc>
+    <credits>
+      <actor>Sope Dirisu</actor>
+      <actor>Joe Cole</actor>
+      <actor>Colm Meaney</actor>
+      <director>Corin Hardy</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dshm.tmsimg.com/assets/p18172419_b_h8_am.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260105181600 +0000" stop="20260105191500 +0000">
+    <title lang="en">Gangs of London</title>
+    <sub-title lang="en">Episode 4</sub-title>
+    <desc lang="en">Lale is asked to make an impossible decision; Sean enacts a dangerous plan; Elliot takes on a new foe.</desc>
+    <credits>
+      <actor>Sope Dirisu</actor>
+      <actor>Joe Cole</actor>
+      <actor>Colm Meaney</actor>
+      <director>Corin Hardy</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dshm.tmsimg.com/assets/p18172419_b_h8_am.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260105191500 +0000" stop="20260105201500 +0000">
+    <title lang="en">Gangs of London</title>
+    <sub-title lang="en">Episode 5</sub-title>
+    <desc lang="en">Elliot's loyalty is tested by an increasingly suspicious Ed Dumani; Sean throws a dinner in an attempt to unite the two families; Alexander is asked to meet with an old contact.</desc>
+    <credits>
+      <actor>Sope Dirisu</actor>
+      <actor>Joe Cole</actor>
+      <actor>Colm Meaney</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dshm.tmsimg.com/assets/p18172419_b_h8_am.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260105201500 +0000" stop="20260105211200 +0000">
+    <title lang="en">Gangs of London</title>
+    <sub-title lang="en">Episode 6</sub-title>
+    <desc lang="en">Hidden away in a farmhouse in the middle of nowhere, Darren wrestles with the chaos he's unleashed.</desc>
+    <credits>
+      <actor>Sope Dirisu</actor>
+      <actor>Joe Cole</actor>
+      <actor>Colm Meaney</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dshm.tmsimg.com/assets/p18172419_b_h8_am.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260105211200 +0000" stop="20260105221000 +0000">
+    <title lang="en">Gangs of London</title>
+    <sub-title lang="en">Episode 7</sub-title>
+    <desc lang="en">With the Wallaces retreating to a safehouse, Marian puts pressure on Sean to uncover Finn's killer; meanwhile, Elliot's recuperation is interrupted by a new danger.</desc>
+    <credits>
+      <actor>Sope Dirisu</actor>
+      <actor>Joe Cole</actor>
+      <actor>Colm Meaney</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dshm.tmsimg.com/assets/p18172419_b_h8_am.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260105221000 +0000" stop="20260105230400 +0000">
+    <title lang="en">Gangs of London</title>
+    <sub-title lang="en">Episode 8</sub-title>
+    <desc lang="en">With the truth about Finn's murder revealed, the Wallaces and the Dumanis will never be the same again; meanwhile, Luan is forced to confront the deadly consequences of his actions.</desc>
+    <credits>
+      <actor>Sope Dirisu</actor>
+      <actor>Joe Cole</actor>
+      <actor>Colm Meaney</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dshm.tmsimg.com/assets/p18172419_b_h8_am.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260105230400 +0000" stop="20260105235900 +0000">
+    <title lang="en">Gangs of London</title>
+    <sub-title lang="en">Episode 9</sub-title>
+    <desc lang="en">With the stakes higher than ever, the Wallaces are forced to go into hiding; Luan risks his life to rid himself of Mosi; Elliot attempts to save the life of a colleague.</desc>
+    <credits>
+      <actor>Sope Dirisu</actor>
+      <actor>Joe Cole</actor>
+      <actor>Colm Meaney</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dshm.tmsimg.com/assets/p18172419_b_h8_am.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260105235900 +0000" stop="20260106010000 +0000">
+    <title lang="en">Gangs of London</title>
+    <sub-title lang="en">Episode 10</sub-title>
+    <desc lang="en">Elliot is forced to make a choice that will define his entire future; Sean makes a discovery about a traitor who has been in his midst all along.</desc>
+    <credits>
+      <actor>Sope Dirisu</actor>
+      <actor>Joe Cole</actor>
+      <actor>Colm Meaney</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dshm.tmsimg.com/assets/p18172419_b_h8_am.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260106010000 +0000" stop="20260106015300 +0000">
+    <title lang="en">Gangs of London</title>
+    <sub-title lang="en">Episode 1</sub-title>
+    <desc lang="en">London's most powerful criminal is found dead and nobody knows who ordered the hit; Sean Wallace puts a stop to all criminal business in London until he finds his father's killer.</desc>
+    <credits>
+      <actor>Sope Dirisu</actor>
+      <actor>Joe Cole</actor>
+      <actor>Colm Meaney</actor>
+      <director>Gareth Evans</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dshm.tmsimg.com/assets/p18172419_b_h8_am.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260106015300 +0000" stop="20260106024100 +0000">
+    <title lang="en">Gangs of London</title>
+    <sub-title lang="en">Episode 2</sub-title>
+    <desc lang="en">Tensions continue to grow on the morning of Finn's funeral; creating as much chaos as he prevents, Elliot Finch goes deeper and deeper into London's murky underworld.</desc>
+    <credits>
+      <actor>Sope Dirisu</actor>
+      <actor>Joe Cole</actor>
+      <actor>Colm Meaney</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dshm.tmsimg.com/assets/p18172419_b_h8_am.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260106024100 +0000" stop="20260106034000 +0000">
+    <title lang="en">Gangs of London</title>
+    <sub-title lang="en">Episode 3</sub-title>
+    <desc lang="en">Elliot establishes a connection with a key member of the Dumani family; meanwhile, Sean unleashes his fury after making a discovery about his father's murder.</desc>
+    <credits>
+      <actor>Sope Dirisu</actor>
+      <actor>Joe Cole</actor>
+      <actor>Colm Meaney</actor>
+      <director>Corin Hardy</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dshm.tmsimg.com/assets/p18172419_b_h8_am.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260106034000 +0000" stop="20260106044000 +0000">
+    <title lang="en">Gangs of London</title>
+    <sub-title lang="en">Episode 4</sub-title>
+    <desc lang="en">Lale is asked to make an impossible decision; Sean enacts a dangerous plan; Elliot takes on a new foe.</desc>
+    <credits>
+      <actor>Sope Dirisu</actor>
+      <actor>Joe Cole</actor>
+      <actor>Colm Meaney</actor>
+      <director>Corin Hardy</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dshm.tmsimg.com/assets/p18172419_b_h8_am.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260106044000 +0000" stop="20260106054300 +0000">
+    <title lang="en">Gangs of London</title>
+    <sub-title lang="en">Episode 5</sub-title>
+    <desc lang="en">Elliot's loyalty is tested by an increasingly suspicious Ed Dumani; Sean throws a dinner in an attempt to unite the two families; Alexander is asked to meet with an old contact.</desc>
+    <credits>
+      <actor>Sope Dirisu</actor>
+      <actor>Joe Cole</actor>
+      <actor>Colm Meaney</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dshm.tmsimg.com/assets/p18172419_b_h8_am.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260106054300 +0000" stop="20260106064300 +0000">
+    <title lang="en">Gangs of London</title>
+    <sub-title lang="en">Episode 6</sub-title>
+    <desc lang="en">Hidden away in a farmhouse in the middle of nowhere, Darren wrestles with the chaos he's unleashed.</desc>
+    <credits>
+      <actor>Sope Dirisu</actor>
+      <actor>Joe Cole</actor>
+      <actor>Colm Meaney</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dshm.tmsimg.com/assets/p18172419_b_h8_am.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260106064300 +0000" stop="20260106074400 +0000">
+    <title lang="en">Gangs of London</title>
+    <sub-title lang="en">Episode 7</sub-title>
+    <desc lang="en">With the Wallaces retreating to a safehouse, Marian puts pressure on Sean to uncover Finn's killer; meanwhile, Elliot's recuperation is interrupted by a new danger.</desc>
+    <credits>
+      <actor>Sope Dirisu</actor>
+      <actor>Joe Cole</actor>
+      <actor>Colm Meaney</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dshm.tmsimg.com/assets/p18172419_b_h8_am.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260106074400 +0000" stop="20260106084100 +0000">
+    <title lang="en">Gangs of London</title>
+    <sub-title lang="en">Episode 8</sub-title>
+    <desc lang="en">With the truth about Finn's murder revealed, the Wallaces and the Dumanis will never be the same again; meanwhile, Luan is forced to confront the deadly consequences of his actions.</desc>
+    <credits>
+      <actor>Sope Dirisu</actor>
+      <actor>Joe Cole</actor>
+      <actor>Colm Meaney</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dshm.tmsimg.com/assets/p18172419_b_h8_am.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260106084100 +0000" stop="20260106093800 +0000">
+    <title lang="en">Gangs of London</title>
+    <sub-title lang="en">Episode 9</sub-title>
+    <desc lang="en">With the stakes higher than ever, the Wallaces are forced to go into hiding; Luan risks his life to rid himself of Mosi; Elliot attempts to save the life of a colleague.</desc>
+    <credits>
+      <actor>Sope Dirisu</actor>
+      <actor>Joe Cole</actor>
+      <actor>Colm Meaney</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dshm.tmsimg.com/assets/p18172419_b_h8_am.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260106093800 +0000" stop="20260106103900 +0000">
+    <title lang="en">Gangs of London</title>
+    <sub-title lang="en">Episode 10</sub-title>
+    <desc lang="en">Elliot is forced to make a choice that will define his entire future; Sean makes a discovery about a traitor who has been in his midst all along.</desc>
+    <credits>
+      <actor>Sope Dirisu</actor>
+      <actor>Joe Cole</actor>
+      <actor>Colm Meaney</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dshm.tmsimg.com/assets/p18172419_b_h8_am.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260106103900 +0000" stop="20260106110000 +0000">
+    <title lang="en">Comic Book Men</title>
+    <sub-title lang="en">Return of the Mewes</sub-title>
+    <desc lang="en">Jason Mewes inserts himself into transactions involving a Deadshot statue and a vintage Death Star Space Station.</desc>
+    <credits>
+      <actor>Kevin Smith</actor>
+      <actor>Walt Flanagan</actor>
+      <actor>Bryan Johnson</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Collectibles</category>
+    <icon src="http://dshm.tmsimg.com/assets/p9009550_b_h10_ak.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S6 E11</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260106110000 +0000" stop="20260106114800 +0000">
+    <title lang="en">Dating Death</title>
+    <desc lang="en">Rodney Alcala flees Los Angeles in 1968 after the rape and attempted murder of an 8-year-old girl, but after moving to New York under an assumed name, he begins working at a New Hampshire arts camp for children.</desc>
+    <credits>
+      <director>David Harvey</director>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dshm.tmsimg.com/assets/p23237434_b_h10_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />  <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260106114800 +0000" stop="20260106123600 +0000">
+    <title lang="en">Dating Death</title>
+    <desc lang="en">After his early release in 1974 from prison, Rodney Alcala's victim count continues to rise as he uses his photography skills to prey on both young women and children.</desc>
+    <credits>
+      <director>David Harvey</director>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dshm.tmsimg.com/assets/p23237434_b_h10_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260106123600 +0000" stop="20260106132400 +0000">
+    <title lang="en">Dating Death</title>
+    <desc lang="en">In 1979 on Huntington Beach, Calif., a girl goes missing and is later found dead in a wooded area; the only lead is a sketch composite that resembles Alcala.</desc>
+    <credits>
+      <director>David Harvey</director>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dshm.tmsimg.com/assets/p23237434_b_h10_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown />  <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260106132400 +0000" stop="20260106141200 +0000">
+    <title lang="en">Dating Death</title>
+    <desc lang="en">Rodney Alcala flees Los Angeles in 1968 after the rape and attempted murder of an 8-year-old girl, but after moving to New York under an assumed name, he begins working at a New Hampshire arts camp for children.</desc>
+    <credits>
+      <director>David Harvey</director>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dshm.tmsimg.com/assets/p23237434_b_h10_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />  <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260106141200 +0000" stop="20260106150000 +0000">
+    <title lang="en">Dating Death</title>
+    <desc lang="en">After his early release in 1974 from prison, Rodney Alcala's victim count continues to rise as he uses his photography skills to prey on both young women and children.</desc>
+    <credits>
+      <director>David Harvey</director>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dshm.tmsimg.com/assets/p23237434_b_h10_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260106150000 +0000" stop="20260106154800 +0000">
+    <title lang="en">Dating Death</title>
+    <desc lang="en">In 1979 on Huntington Beach, Calif., a girl goes missing and is later found dead in a wooded area; the only lead is a sketch composite that resembles Alcala.</desc>
+    <credits>
+      <director>David Harvey</director>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dshm.tmsimg.com/assets/p23237434_b_h10_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown />  <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260106154800 +0000" stop="20260106163500 +0000">
+    <title lang="en">The Furry Detectives: Unmasking A Monster</title>
+    <sub-title lang="en">Welcome to the Jungle</sub-title>
+    <desc lang="en">When Patch O'Furr is tagged in a mysterious online post, he must face the fact that animal abusers are hiding in plain sight in the Furry Fandom; Furry Detectives comb through evidence and discover one popular Youtuber is a suspect.</desc>
+    <credits>
+      <director>Theo Love</director>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Miniseries</category>
+    <icon src="http://dshm.tmsimg.com/assets/p30300336_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260106163500 +0000" stop="20260106172300 +0000">
+    <title lang="en">The Furry Detectives: Unmasking A Monster</title>
+    <sub-title lang="en">Predator Becomes Prey</sub-title>
+    <desc lang="en">An online 3D printing group leads to a break in the case and The Furry Detectives get their first arrest; the Zoosadist ringleader, known as SnakeThing, is still out there.</desc>
+    <credits>
+      <director>Theo Love</director>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Miniseries</category>
+    <icon src="http://dshm.tmsimg.com/assets/p30300336_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260106172300 +0000" stop="20260106180900 +0000">
+    <title lang="en">The Furry Detectives: Unmasking A Monster</title>
+    <sub-title lang="en">Top of the Food Chain</sub-title>
+    <desc lang="en">It wasn't just animals, he was hurting people too; the self-proclaimed Furvengers must battle through legal obstacles and personal attacks as they hunt for SnakeThing.</desc>
+    <credits>
+      <director>Theo Love</director>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Miniseries</category>
+    <icon src="http://dshm.tmsimg.com/assets/p30300336_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260106180900 +0000" stop="20260106185600 +0000">
+    <title lang="en">The Furry Detectives: Unmasking A Monster</title>
+    <sub-title lang="en">The Animal Within</sub-title>
+    <desc lang="en">A video shared in the Furry community by a person named "Monster" causes a new level of vigilante detective work; clues lead to a remote shipping container in the outback of Australia owned by a well-respected celebrity.</desc>
+    <credits>
+      <director>Theo Love</director>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Miniseries</category>
+    <icon src="http://dshm.tmsimg.com/assets/p30300336_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260106185600 +0000" stop="20260106194300 +0000">
+    <title lang="en">The Furry Detectives: Unmasking A Monster</title>
+    <sub-title lang="en">Welcome to the Jungle</sub-title>
+    <desc lang="en">When Patch O'Furr is tagged in a mysterious online post, he must face the fact that animal abusers are hiding in plain sight in the Furry Fandom; Furry Detectives comb through evidence and discover one popular Youtuber is a suspect.</desc>
+    <credits>
+      <director>Theo Love</director>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Miniseries</category>
+    <icon src="http://dshm.tmsimg.com/assets/p30300336_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260106194300 +0000" stop="20260106202900 +0000">
+    <title lang="en">The Furry Detectives: Unmasking A Monster</title>
+    <sub-title lang="en">Predator Becomes Prey</sub-title>
+    <desc lang="en">An online 3D printing group leads to a break in the case and The Furry Detectives get their first arrest; the Zoosadist ringleader, known as SnakeThing, is still out there.</desc>
+    <credits>
+      <director>Theo Love</director>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Miniseries</category>
+    <icon src="http://dshm.tmsimg.com/assets/p30300336_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260106202900 +0000" stop="20260106211400 +0000">
+    <title lang="en">The Furry Detectives: Unmasking A Monster</title>
+    <sub-title lang="en">Top of the Food Chain</sub-title>
+    <desc lang="en">It wasn't just animals, he was hurting people too; the self-proclaimed Furvengers must battle through legal obstacles and personal attacks as they hunt for SnakeThing.</desc>
+    <credits>
+      <director>Theo Love</director>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Miniseries</category>
+    <icon src="http://dshm.tmsimg.com/assets/p30300336_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260106211400 +0000" stop="20260106220000 +0000">
+    <title lang="en">The Furry Detectives: Unmasking A Monster</title>
+    <sub-title lang="en">The Animal Within</sub-title>
+    <desc lang="en">A video shared in the Furry community by a person named "Monster" causes a new level of vigilante detective work; clues lead to a remote shipping container in the outback of Australia owned by a well-respected celebrity.</desc>
+    <credits>
+      <director>Theo Love</director>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Miniseries</category>
+    <icon src="http://dshm.tmsimg.com/assets/p30300336_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260106220000 +0000" stop="20260106224500 +0000">
+    <title lang="en">The Furry Detectives: Unmasking A Monster</title>
+    <sub-title lang="en">Welcome to the Jungle</sub-title>
+    <desc lang="en">When Patch O'Furr is tagged in a mysterious online post, he must face the fact that animal abusers are hiding in plain sight in the Furry Fandom; Furry Detectives comb through evidence and discover one popular Youtuber is a suspect.</desc>
+    <credits>
+      <director>Theo Love</director>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Miniseries</category>
+    <icon src="http://dshm.tmsimg.com/assets/p30300336_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260106224500 +0000" stop="20260106233000 +0000">
+    <title lang="en">The Furry Detectives: Unmasking A Monster</title>
+    <sub-title lang="en">Predator Becomes Prey</sub-title>
+    <desc lang="en">An online 3D printing group leads to a break in the case and The Furry Detectives get their first arrest; the Zoosadist ringleader, known as SnakeThing, is still out there.</desc>
+    <credits>
+      <director>Theo Love</director>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Miniseries</category>
+    <icon src="http://dshm.tmsimg.com/assets/p30300336_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260106233000 +0000" stop="20260107001500 +0000">
+    <title lang="en">The Furry Detectives: Unmasking A Monster</title>
+    <sub-title lang="en">Top of the Food Chain</sub-title>
+    <desc lang="en">It wasn't just animals, he was hurting people too; the self-proclaimed Furvengers must battle through legal obstacles and personal attacks as they hunt for SnakeThing.</desc>
+    <credits>
+      <director>Theo Love</director>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Miniseries</category>
+    <icon src="http://dshm.tmsimg.com/assets/p30300336_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260107001500 +0000" stop="20260107010000 +0000">
+    <title lang="en">The Furry Detectives: Unmasking A Monster</title>
+    <sub-title lang="en">The Animal Within</sub-title>
+    <desc lang="en">A video shared in the Furry community by a person named "Monster" causes a new level of vigilante detective work; clues lead to a remote shipping container in the outback of Australia owned by a well-respected celebrity.</desc>
+    <credits>
+      <director>Theo Love</director>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Miniseries</category>
+    <icon src="http://dshm.tmsimg.com/assets/p30300336_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260107010000 +0000" stop="20260107014800 +0000">
+    <title lang="en">Dating Death</title>
+    <desc lang="en">Rodney Alcala flees Los Angeles in 1968 after the rape and attempted murder of an 8-year-old girl, but after moving to New York under an assumed name, he begins working at a New Hampshire arts camp for children.</desc>
+    <credits>
+      <director>David Harvey</director>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dshm.tmsimg.com/assets/p23237434_b_h10_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />  <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260107014800 +0000" stop="20260107023600 +0000">
+    <title lang="en">Dating Death</title>
+    <desc lang="en">After his early release in 1974 from prison, Rodney Alcala's victim count continues to rise as he uses his photography skills to prey on both young women and children.</desc>
+    <credits>
+      <director>David Harvey</director>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dshm.tmsimg.com/assets/p23237434_b_h10_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260107023600 +0000" stop="20260107032400 +0000">
+    <title lang="en">Dating Death</title>
+    <desc lang="en">In 1979 on Huntington Beach, Calif., a girl goes missing and is later found dead in a wooded area; the only lead is a sketch composite that resembles Alcala.</desc>
+    <credits>
+      <director>David Harvey</director>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dshm.tmsimg.com/assets/p23237434_b_h10_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown />  <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260107032400 +0000" stop="20260107041200 +0000">
+    <title lang="en">Dating Death</title>
+    <desc lang="en">Rodney Alcala flees Los Angeles in 1968 after the rape and attempted murder of an 8-year-old girl, but after moving to New York under an assumed name, he begins working at a New Hampshire arts camp for children.</desc>
+    <credits>
+      <director>David Harvey</director>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dshm.tmsimg.com/assets/p23237434_b_h10_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />  <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260107041200 +0000" stop="20260107050000 +0000">
+    <title lang="en">Dating Death</title>
+    <desc lang="en">After his early release in 1974 from prison, Rodney Alcala's victim count continues to rise as he uses his photography skills to prey on both young women and children.</desc>
+    <credits>
+      <director>David Harvey</director>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dshm.tmsimg.com/assets/p23237434_b_h10_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260107050000 +0000" stop="20260107054600 +0000">
+    <title lang="en">Dating Death</title>
+    <desc lang="en">In 1979 on Huntington Beach, Calif., a girl goes missing and is later found dead in a wooded area; the only lead is a sketch composite that resembles Alcala.</desc>
+    <credits>
+      <director>David Harvey</director>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dshm.tmsimg.com/assets/p23237434_b_h10_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown />  <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260107054600 +0000" stop="20260107063100 +0000">
+    <title lang="en">The Furry Detectives: Unmasking A Monster</title>
+    <sub-title lang="en">Welcome to the Jungle</sub-title>
+    <desc lang="en">When Patch O'Furr is tagged in a mysterious online post, he must face the fact that animal abusers are hiding in plain sight in the Furry Fandom; Furry Detectives comb through evidence and discover one popular Youtuber is a suspect.</desc>
+    <credits>
+      <director>Theo Love</director>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Miniseries</category>
+    <icon src="http://dshm.tmsimg.com/assets/p30300336_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+  </programme>
   <programme channel="Tennis.Channel.HD.us2" start="20260103073000 +0000" stop="20260103150000 +0000">
     <title lang="en">Center Court Live</title>
     <sub-title lang="en">United Cup - Day 2 Group Stage: BEL vs. CHN, FRA vs. SUI, USA vs. ARG, &amp; AUS vs. NOR</sub-title>
