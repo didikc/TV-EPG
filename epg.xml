@@ -3574,1217 +3574,18 @@
     <icon src="https://wrc.enhance.diagnal.com/resources/static/logo/wrc.png" />
     <url>http://www.rally.tv</url>
   </channel>
-<channel id="Tennis.Channel.HD.us2">
-    <icon src="http://dshm.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dshm.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Tennis Channel HD</display-name>
-  </channel>
-  <channel id="AMC+.us2">
+<channel id="AMC+.us2">
     <icon src="http://dshm.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
     <icon src="http://dshm.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">AMC+</display-name>
   </channel>
-  <programme channel="AMC+.us2" start="20260104052200 +0000" stop="20260104061800 +0000">
-    <title lang="en">Fear the Walking Dead</title>
-    <sub-title lang="en">The Good Man</sub-title>
-    <desc lang="en">As civil unrest grows, and the dead take over, Travis and Madison try to devise ways to protect their families.</desc>
-    <credits>
-      <actor>Kim Dickens</actor>
-      <actor>Cliff Curtis</actor>
-      <actor>Frank Dillane</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B15</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>18</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>18</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260104061800 +0000" stop="20260104072500 +0000">
-    <title lang="en">Fear the Walking Dead</title>
-    <sub-title lang="en">Pilot</sub-title>
-    <desc lang="en">A dysfunctional blended family is forced together when they realize the onset of the undead apocalypse is upon them.</desc>
-    <credits>
-      <actor>Kim Dickens</actor>
-      <actor>Cliff Curtis</actor>
-      <actor>Frank Dillane</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B15</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>18</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>18</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-12</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260104072500 +0000" stop="20260104081100 +0000">
-    <title lang="en">Fear the Walking Dead</title>
-    <sub-title lang="en">So Close, Yet So Far</sub-title>
-    <desc lang="en">Madison tries to keep Nick from withdrawal; Travis sets out to locate his son before Los Angeles falls.</desc>
-    <credits>
-      <actor>Kim Dickens</actor>
-      <actor>Cliff Curtis</actor>
-      <actor>Frank Dillane</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B15</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>18</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>18</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-12</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260104081100 +0000" stop="20260104090200 +0000">
-    <title lang="en">Fear the Walking Dead</title>
-    <sub-title lang="en">The Dog</sub-title>
-    <desc lang="en">After they escape a riot, Travis, Liza and Chris seek refuge with the Salazars; Madison defends her home.</desc>
-    <credits>
-      <actor>Kim Dickens</actor>
-      <actor>Cliff Curtis</actor>
-      <actor>Frank Dillane</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B15</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>18</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>18</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260104090200 +0000" stop="20260104095100 +0000">
-    <title lang="en">Fear the Walking Dead</title>
-    <sub-title lang="en">Not Fade Away</sub-title>
-    <desc lang="en">Madison and Travis see different sides of the National Guard's occupation in their neighborhood; the family tries to adapt to the new world.</desc>
-    <credits>
-      <actor>Kim Dickens</actor>
-      <actor>Cliff Curtis</actor>
-      <actor>Frank Dillane</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-12</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B15</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>18</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>18</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260104095100 +0000" stop="20260104103900 +0000">
-    <title lang="en">Fear the Walking Dead</title>
-    <sub-title lang="en">Cobalt</sub-title>
-    <desc lang="en">The National Guard's plan for the neighborhood is revealed; Travis and Madison make a difficult decision.</desc>
-    <credits>
-      <actor>Kim Dickens</actor>
-      <actor>Cliff Curtis</actor>
-      <actor>Frank Dillane</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>18</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-12</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>18+</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B15</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>18</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260104103900 +0000" stop="20260104110000 +0000">
-    <title lang="en">Comic Book Men</title>
-    <sub-title lang="en">The Incredible Bulk</sub-title>
-    <desc lang="en">Lou Ferrigno gives Bryan a lesson on fitness; a customer wants to purchase a key comic by Frank Miller.</desc>
-    <credits>
-      <actor>Kevin Smith</actor>
-    </credits>
-    <date>2013</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Collectibles</category>
-    <icon src="http://dshm.tmsimg.com/assets/p10167271_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260104110000 +0000" stop="20260104114400 +0000">
-    <title lang="en">Mayfair Witches</title>
-    <sub-title lang="en">Tessa</sub-title>
-    <desc lang="en">Rowan makes a shocking discovery but has to deal with it alone; a tragic event brings Rowan closer to the Mayfairs -- and Lasher; Sip falls deeper down the rabbit hole of the key necklace.</desc>
-    <credits>
-      <actor>Alexandra Daddario</actor>
-      <actor>Jack Huston</actor>
-      <actor>Tongayi Chirisa</actor>
-      <director>Alexis Ostrander</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <icon src="http://dshm.tmsimg.com/assets/p23584602_b_h8_ap.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260104114400 +0000" stop="20260104123000 +0000">
-    <title lang="en">Mayfair Witches</title>
-    <sub-title lang="en">What Rough Beast</sub-title>
-    <desc lang="en">Rowan inadvertently discovers her role in a prophecy that's held the Mayfair family for generations; Sip's investigation reaches its conclusion, uncovering secrets that could tarnish both Rowan's family and his role in the Talamasca.</desc>
-    <credits>
-      <actor>Alexandra Daddario</actor>
-      <actor>Jack Huston</actor>
-      <actor>Tongayi Chirisa</actor>
-      <director>Alexis Ostrander</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <icon src="http://dshm.tmsimg.com/assets/p23584602_b_h8_ap.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260104123000 +0000" stop="20260104132500 +0000">
-    <title lang="en">Mayfair Witches</title>
-    <sub-title lang="en">The Witching Hour</sub-title>
-    <desc lang="en">Neurosurgeon Rowan Fielding has a problem -- when she gets mad, she kills with her mind; her search for answers sends her toward her secretive biological family; in New Orleans, Deirdre Mayfair is desperate to escape from her aunt's oppressive house.</desc>
-    <credits>
-      <actor>Alexandra Daddario</actor>
-      <actor>Jack Huston</actor>
-      <actor>Tongayi Chirisa</actor>
-      <director>Michael Uppendahl</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <icon src="http://dshm.tmsimg.com/assets/p23584602_b_h8_ap.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260104132500 +0000" stop="20260104141200 +0000">
-    <title lang="en">Mayfair Witches</title>
-    <sub-title lang="en">The Dark Place</sub-title>
-    <desc lang="en">Wracked with grief over Ellie's death, Rowan is out of control and unfit to perform surgeries; her paranoia that someone is following her is proven true; in New Orleans, Deirdre and her mysterious companion Lasher work together to draw Rowan home.</desc>
-    <credits>
-      <actor>Alexandra Daddario</actor>
-      <actor>Jack Huston</actor>
-      <actor>Tongayi Chirisa</actor>
-      <director>Michael Uppendahl</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <icon src="http://dshm.tmsimg.com/assets/p23584602_b_h8_ap.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260104141200 +0000" stop="20260104145500 +0000">
-    <title lang="en">Mayfair Witches</title>
-    <sub-title lang="en">Second Line</sub-title>
-    <desc lang="en">In the aftermath of Deirdre's grisly death, Rowan searches for safety in a strange city; Sip provides Rowan with a safe house while he investigates Deirdre's murder; Lasher makes contact with Rowan, but not in the way one might expect.</desc>
-    <credits>
-      <actor>Alexandra Daddario</actor>
-      <actor>Jack Huston</actor>
-      <actor>Tongayi Chirisa</actor>
-      <director>Axelle Carolyn</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <icon src="http://dshm.tmsimg.com/assets/p23584602_b_h8_ap.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260104145500 +0000" stop="20260104154000 +0000">
-    <title lang="en">Mayfair Witches</title>
-    <sub-title lang="en">Curiouser and Curiouser</sub-title>
-    <desc lang="en">At Deirdre's funeral, Rowan is plunged into the world of the infamous Mayfair family; Uncle Cortland and Aunt Carlotta present diverging views on Lasher; Rowan must choose whom to trust and face the dire consequences; Sip identifies Deirdre's killer.</desc>
-    <credits>
-      <actor>Alexandra Daddario</actor>
-      <actor>Jack Huston</actor>
-      <actor>Tongayi Chirisa</actor>
-      <director>Axelle Carolyn</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <icon src="http://dshm.tmsimg.com/assets/p23584602_b_h8_ap.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260104154000 +0000" stop="20260104162600 +0000">
-    <title lang="en">Mayfair Witches</title>
-    <sub-title lang="en">The Thrall</sub-title>
-    <desc lang="en">Trapped in the First Street House, Rowan and Sip must confront its many mysteries in order to escape; Rowan grapples with an inconceivable offer; Sip's sister Odette makes a horrifying discovery.</desc>
-    <credits>
-      <actor>Alexandra Daddario</actor>
-      <actor>Jack Huston</actor>
-      <actor>Tongayi Chirisa</actor>
-      <director>Haifaa Al-Mansour</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <icon src="http://dshm.tmsimg.com/assets/p23584602_b_h8_ap.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260104162600 +0000" stop="20260104171500 +0000">
-    <title lang="en">Mayfair Witches</title>
-    <sub-title lang="en">Transference</sub-title>
-    <desc lang="en">Desperate to relinquish Lasher, Rowan reaches out to her extended Mayfair family for help; Rowan must trust their unique process, a sacred ritual; Sip's search for answers takes him back to the Talamasca.</desc>
-    <credits>
-      <actor>Alexandra Daddario</actor>
-      <actor>Jack Huston</actor>
-      <actor>Tongayi Chirisa</actor>
-      <director>Haifaa Al-Mansour</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <icon src="http://dshm.tmsimg.com/assets/p23584602_b_h8_ap.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260104171500 +0000" stop="20260104180000 +0000">
-    <title lang="en">Mayfair Witches</title>
-    <sub-title lang="en">Tessa</sub-title>
-    <desc lang="en">Rowan makes a shocking discovery but has to deal with it alone; a tragic event brings Rowan closer to the Mayfairs -- and Lasher; Sip falls deeper down the rabbit hole of the key necklace.</desc>
-    <credits>
-      <actor>Alexandra Daddario</actor>
-      <actor>Jack Huston</actor>
-      <actor>Tongayi Chirisa</actor>
-      <director>Alexis Ostrander</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <icon src="http://dshm.tmsimg.com/assets/p23584602_b_h8_ap.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260104180000 +0000" stop="20260104184500 +0000">
-    <title lang="en">Mayfair Witches</title>
-    <sub-title lang="en">What Rough Beast</sub-title>
-    <desc lang="en">Rowan inadvertently discovers her role in a prophecy that's held the Mayfair family for generations; Sip's investigation reaches its conclusion, uncovering secrets that could tarnish both Rowan's family and his role in the Talamasca.</desc>
-    <credits>
-      <actor>Alexandra Daddario</actor>
-      <actor>Jack Huston</actor>
-      <actor>Tongayi Chirisa</actor>
-      <director>Alexis Ostrander</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <icon src="http://dshm.tmsimg.com/assets/p23584602_b_h8_ap.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260104184500 +0000" stop="20260104194100 +0000">
-    <title lang="en">Mayfair Witches</title>
-    <sub-title lang="en">The Witching Hour</sub-title>
-    <desc lang="en">Neurosurgeon Rowan Fielding has a problem -- when she gets mad, she kills with her mind; her search for answers sends her toward her secretive biological family; in New Orleans, Deirdre Mayfair is desperate to escape from her aunt's oppressive house.</desc>
-    <credits>
-      <actor>Alexandra Daddario</actor>
-      <actor>Jack Huston</actor>
-      <actor>Tongayi Chirisa</actor>
-      <director>Michael Uppendahl</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <icon src="http://dshm.tmsimg.com/assets/p23584602_b_h8_ap.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260104194100 +0000" stop="20260104202900 +0000">
-    <title lang="en">Mayfair Witches</title>
-    <sub-title lang="en">The Dark Place</sub-title>
-    <desc lang="en">Wracked with grief over Ellie's death, Rowan is out of control and unfit to perform surgeries; her paranoia that someone is following her is proven true; in New Orleans, Deirdre and her mysterious companion Lasher work together to draw Rowan home.</desc>
-    <credits>
-      <actor>Alexandra Daddario</actor>
-      <actor>Jack Huston</actor>
-      <actor>Tongayi Chirisa</actor>
-      <director>Michael Uppendahl</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <icon src="http://dshm.tmsimg.com/assets/p23584602_b_h8_ap.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260104202900 +0000" stop="20260104211200 +0000">
-    <title lang="en">Mayfair Witches</title>
-    <sub-title lang="en">Second Line</sub-title>
-    <desc lang="en">In the aftermath of Deirdre's grisly death, Rowan searches for safety in a strange city; Sip provides Rowan with a safe house while he investigates Deirdre's murder; Lasher makes contact with Rowan, but not in the way one might expect.</desc>
-    <credits>
-      <actor>Alexandra Daddario</actor>
-      <actor>Jack Huston</actor>
-      <actor>Tongayi Chirisa</actor>
-      <director>Axelle Carolyn</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <icon src="http://dshm.tmsimg.com/assets/p23584602_b_h8_ap.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260104211200 +0000" stop="20260104215700 +0000">
-    <title lang="en">Mayfair Witches</title>
-    <sub-title lang="en">Curiouser and Curiouser</sub-title>
-    <desc lang="en">At Deirdre's funeral, Rowan is plunged into the world of the infamous Mayfair family; Uncle Cortland and Aunt Carlotta present diverging views on Lasher; Rowan must choose whom to trust and face the dire consequences; Sip identifies Deirdre's killer.</desc>
-    <credits>
-      <actor>Alexandra Daddario</actor>
-      <actor>Jack Huston</actor>
-      <actor>Tongayi Chirisa</actor>
-      <director>Axelle Carolyn</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <icon src="http://dshm.tmsimg.com/assets/p23584602_b_h8_ap.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260104215700 +0000" stop="20260104224200 +0000">
-    <title lang="en">Mayfair Witches</title>
-    <sub-title lang="en">The Thrall</sub-title>
-    <desc lang="en">Trapped in the First Street House, Rowan and Sip must confront its many mysteries in order to escape; Rowan grapples with an inconceivable offer; Sip's sister Odette makes a horrifying discovery.</desc>
-    <credits>
-      <actor>Alexandra Daddario</actor>
-      <actor>Jack Huston</actor>
-      <actor>Tongayi Chirisa</actor>
-      <director>Haifaa Al-Mansour</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <icon src="http://dshm.tmsimg.com/assets/p23584602_b_h8_ap.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260104224200 +0000" stop="20260104233000 +0000">
-    <title lang="en">Mayfair Witches</title>
-    <sub-title lang="en">Transference</sub-title>
-    <desc lang="en">Desperate to relinquish Lasher, Rowan reaches out to her extended Mayfair family for help; Rowan must trust their unique process, a sacred ritual; Sip's search for answers takes him back to the Talamasca.</desc>
-    <credits>
-      <actor>Alexandra Daddario</actor>
-      <actor>Jack Huston</actor>
-      <actor>Tongayi Chirisa</actor>
-      <director>Haifaa Al-Mansour</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <icon src="http://dshm.tmsimg.com/assets/p23584602_b_h8_ap.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260104233000 +0000" stop="20260105001400 +0000">
-    <title lang="en">Mayfair Witches</title>
-    <sub-title lang="en">Tessa</sub-title>
-    <desc lang="en">Rowan makes a shocking discovery but has to deal with it alone; a tragic event brings Rowan closer to the Mayfairs -- and Lasher; Sip falls deeper down the rabbit hole of the key necklace.</desc>
-    <credits>
-      <actor>Alexandra Daddario</actor>
-      <actor>Jack Huston</actor>
-      <actor>Tongayi Chirisa</actor>
-      <director>Alexis Ostrander</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <icon src="http://dshm.tmsimg.com/assets/p23584602_b_h8_ap.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260105001400 +0000" stop="20260105010000 +0000">
-    <title lang="en">Mayfair Witches</title>
-    <sub-title lang="en">What Rough Beast</sub-title>
-    <desc lang="en">Rowan inadvertently discovers her role in a prophecy that's held the Mayfair family for generations; Sip's investigation reaches its conclusion, uncovering secrets that could tarnish both Rowan's family and his role in the Talamasca.</desc>
-    <credits>
-      <actor>Alexandra Daddario</actor>
-      <actor>Jack Huston</actor>
-      <actor>Tongayi Chirisa</actor>
-      <director>Alexis Ostrander</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <icon src="http://dshm.tmsimg.com/assets/p23584602_b_h8_ap.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260105010000 +0000" stop="20260105015500 +0000">
-    <title lang="en">Mayfair Witches</title>
-    <sub-title lang="en">The Witching Hour</sub-title>
-    <desc lang="en">Neurosurgeon Rowan Fielding has a problem -- when she gets mad, she kills with her mind; her search for answers sends her toward her secretive biological family; in New Orleans, Deirdre Mayfair is desperate to escape from her aunt's oppressive house.</desc>
-    <credits>
-      <actor>Alexandra Daddario</actor>
-      <actor>Jack Huston</actor>
-      <actor>Tongayi Chirisa</actor>
-      <director>Michael Uppendahl</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <icon src="http://dshm.tmsimg.com/assets/p23584602_b_h8_ap.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260105015500 +0000" stop="20260105024200 +0000">
-    <title lang="en">Mayfair Witches</title>
-    <sub-title lang="en">The Dark Place</sub-title>
-    <desc lang="en">Wracked with grief over Ellie's death, Rowan is out of control and unfit to perform surgeries; her paranoia that someone is following her is proven true; in New Orleans, Deirdre and her mysterious companion Lasher work together to draw Rowan home.</desc>
-    <credits>
-      <actor>Alexandra Daddario</actor>
-      <actor>Jack Huston</actor>
-      <actor>Tongayi Chirisa</actor>
-      <director>Michael Uppendahl</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <icon src="http://dshm.tmsimg.com/assets/p23584602_b_h8_ap.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260105024200 +0000" stop="20260105032500 +0000">
-    <title lang="en">Mayfair Witches</title>
-    <sub-title lang="en">Second Line</sub-title>
-    <desc lang="en">In the aftermath of Deirdre's grisly death, Rowan searches for safety in a strange city; Sip provides Rowan with a safe house while he investigates Deirdre's murder; Lasher makes contact with Rowan, but not in the way one might expect.</desc>
-    <credits>
-      <actor>Alexandra Daddario</actor>
-      <actor>Jack Huston</actor>
-      <actor>Tongayi Chirisa</actor>
-      <director>Axelle Carolyn</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <icon src="http://dshm.tmsimg.com/assets/p23584602_b_h8_ap.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260105032500 +0000" stop="20260105041000 +0000">
-    <title lang="en">Mayfair Witches</title>
-    <sub-title lang="en">Curiouser and Curiouser</sub-title>
-    <desc lang="en">At Deirdre's funeral, Rowan is plunged into the world of the infamous Mayfair family; Uncle Cortland and Aunt Carlotta present diverging views on Lasher; Rowan must choose whom to trust and face the dire consequences; Sip identifies Deirdre's killer.</desc>
-    <credits>
-      <actor>Alexandra Daddario</actor>
-      <actor>Jack Huston</actor>
-      <actor>Tongayi Chirisa</actor>
-      <director>Axelle Carolyn</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <icon src="http://dshm.tmsimg.com/assets/p23584602_b_h8_ap.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260105041000 +0000" stop="20260105045500 +0000">
-    <title lang="en">Mayfair Witches</title>
-    <sub-title lang="en">The Thrall</sub-title>
-    <desc lang="en">Trapped in the First Street House, Rowan and Sip must confront its many mysteries in order to escape; Rowan grapples with an inconceivable offer; Sip's sister Odette makes a horrifying discovery.</desc>
-    <credits>
-      <actor>Alexandra Daddario</actor>
-      <actor>Jack Huston</actor>
-      <actor>Tongayi Chirisa</actor>
-      <director>Haifaa Al-Mansour</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <icon src="http://dshm.tmsimg.com/assets/p23584602_b_h8_ap.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260105045500 +0000" stop="20260105054200 +0000">
-    <title lang="en">Mayfair Witches</title>
-    <sub-title lang="en">Transference</sub-title>
-    <desc lang="en">Desperate to relinquish Lasher, Rowan reaches out to her extended Mayfair family for help; Rowan must trust their unique process, a sacred ritual; Sip's search for answers takes him back to the Talamasca.</desc>
-    <credits>
-      <actor>Alexandra Daddario</actor>
-      <actor>Jack Huston</actor>
-      <actor>Tongayi Chirisa</actor>
-      <director>Haifaa Al-Mansour</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <icon src="http://dshm.tmsimg.com/assets/p23584602_b_h8_ap.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
+  <channel id="Tennis.Channel.HD.us2">
+    <icon src="http://dshm.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dshm.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Tennis Channel HD</display-name>
+  </channel>
   <programme channel="AMC+.us2" start="20260105054200 +0000" stop="20260105062400 +0000">
     <title lang="en">Mayfair Witches</title>
     <sub-title lang="en">Tessa</sub-title>
@@ -7044,45 +5845,1014 @@
       <value>15 år</value>
     </rating>
   </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260104073000 +0000" stop="20260104150000 +0000">
-    <title lang="en">Center Court Live</title>
-    <sub-title lang="en">United Cup - Day 3 Group Stage; Brisbane-ATP/WTA Early Rounds</sub-title>
-    <desc lang="en">Tennis action from around the world.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dshm.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E5</episode-num>
-    <premiere lang="en" />
+  <programme channel="AMC+.us2" start="20260108070300 +0000" stop="20260108084600 +0000">
+    <title lang="en">Black '47</title>
+    <desc lang="en">In 1847 an Irish mercenary fighting for the British army abandons his post to seek revenge on those responsible for the death of his family.</desc>
+    <credits>
+      <actor>Hugo Weaving</actor>
+      <actor>James Frecheville</actor>
+      <actor>Stephen Rea</actor>
+      <director>Lance Daly</director>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Historical drama</category>
+    <icon src="http://dshm.tmsimg.com/assets/p15828333_v_h8_ad.jpg?w=960&amp;h=540" />
+    <previously-shown />  <rating system="Motion Picture Association">
+      <value>R</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="영상물등급위원회">
+      <value>15+</value>
+    </rating>
+    <rating system="Alberta's Film Classification Board">
+      <value>14A</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+    <rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>18</value>
+    </rating>
   </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260104150000 +0000" stop="20260104230000 +0000">
-    <title lang="en">Center Court</title>
-    <sub-title lang="en">United Cup - Day 3 Group Stage; Brisbane-ATP/WTA Early Rounds</sub-title>
-    <desc lang="en">Tennis action from around the world.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dshm.tmsimg.com/assets/p615474_b_h10_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E6</episode-num>
-    <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260104230000 +0000" stop="20260104233000 +0000">
-    <title lang="en">Tennis Channel Live</title>
-    <desc lang="en">Tennis stories of the day, detailed analysis and more.</desc>
-    <date>2013</date>
-    <category lang="en">Tennis</category>
-    <icon src="http://dshm.tmsimg.com/assets/p10285580_b_h10_ae.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
+  <programme channel="AMC+.us2" start="20260108084600 +0000" stop="20260108101700 +0000">
+    <title lang="en">The Wind</title>
+    <desc lang="en">Lizzy is a tough, resourceful frontierswoman settling a remote stretch of land on the 19th-century American frontier. Isolated from civilization in a desolate wilderness where the wind never stops howling, she begins to sense a sinister presence that seems to be borne of the land itself, an overwhelming dread that her husband dismisses as superstition. When a newlywed couple arrives on a nearby homestead, their presence amplifies Lizzy's fears, setting into motion a shocking chain of events.</desc>
+    <credits>
+      <actor>Caitlin Gerard</actor>
+      <actor>Julia Goldani Telles</actor>
+      <actor>Ashley Zukerman</actor>
+      <director>Emma Tammi</director>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Western</category>
+    <icon src="http://dshm.tmsimg.com/assets/p15955559_v_h8_af.jpg?w=960&amp;h=540" />
+    <previously-shown />  <rating system="Motion Picture Association">
+      <value>R</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="영상물등급위원회">
+      <value>12+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
   </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260104233000 +0000" stop="20260105073000 +0000">
-    <title lang="en">Center Court Live</title>
-    <sub-title lang="en">United Cup - Day 4 Group Stage; Brisbane-ATP/WTA, Auckland-WTA &amp; Hong Kong-ATP Early Rounds</sub-title>
-    <desc lang="en">Tennis action from around the world.</desc>
-    <date>2026</date>
+  <programme channel="AMC+.us2" start="20260108101700 +0000" stop="20260108103900 +0000">
+    <title lang="en">Comic Book Men</title>
+    <sub-title lang="en">The Sidewalk Stash</sub-title>
+    <desc lang="en">Ming arranges for the Stash to join in on the local sidewalk sale; Walt sells some early "Teenage Mutant Ninja Turtles" comics.</desc>
+    <credits>
+      <actor>Kevin Smith</actor>
+    </credits>
+    <date>2012</date>
     <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dshm.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E6</episode-num>
-    <premiere lang="en" />
+    <category lang="en">Reality</category>
+    <category lang="en">Collectibles</category>
+    <icon src="http://dshm.tmsimg.com/assets/p9179962_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260108103900 +0000" stop="20260108110000 +0000">
+    <title lang="en">Comic Book Men</title>
+    <sub-title lang="en">The Running Dead</sub-title>
+    <desc lang="en">Mike and Ming participate in a 5K zombie run for Kevin's charity; Walt buys an unusual item.</desc>
+    <credits>
+      <actor>Kevin Smith</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Collectibles</category>
+    <icon src="http://dshm.tmsimg.com/assets/p9179962_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260108110000 +0000" stop="20260108114700 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">Infamy: Gaman</sub-title>
+    <desc lang="en">As the Terminal Islanders adjust to their new surroundings, Chester tries to provide for his family, while fending off the evil that follows him; Henry reels from the trauma of his imprisonment; Asako sees bad omens; Amy takes up a new job.</desc>
+    <credits>
+      <actor>Derek Mio</actor>
+      <actor>Shingo Usami</actor>
+      <actor>Naoko Mori</actor>
+      <director>Michael Lehmann</director>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260108114700 +0000" stop="20260108123400 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">Infamy: The Weak Are Meat</sub-title>
+    <desc lang="en">Chester, in search of a better life, is treated with hostility by his fellow Americans; Luz hopes to be accepted by Henry and Asako in their new home as the Japanese American community celebrates Obon, a festival to commemorate the dead.</desc>
+    <credits>
+      <actor>Derek Mio</actor>
+      <actor>Shingo Usami</actor>
+      <actor>Naoko Mori</actor>
+      <director>Michael Lehmann</director>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260108123400 +0000" stop="20260108132100 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">Infamy: Shatter Like a Pearl</sub-title>
+    <desc lang="en">The Japanese Americans are forced to undertake a humiliating exercise that divides the community; Chester comes face to face with a man who forces him to question his very nature; Luz, stricken by grief, is forced to make an important choice.</desc>
+    <credits>
+      <actor>Derek Mio</actor>
+      <actor>Shingo Usami</actor>
+      <actor>Naoko Mori</actor>
+      <director>Lily Mariye</director>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260108132100 +0000" stop="20260108140800 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">Infamy: Taizo</sub-title>
+    <desc lang="en">A story of the past provides insight into the present evil that stalks the Terminal Islanders; Chester returns home to his family; Henry and Asako are faced with a difficult decision.</desc>
+    <credits>
+      <actor>Derek Mio</actor>
+      <actor>Shingo Usami</actor>
+      <actor>Naoko Mori</actor>
+      <director>Everardo Gout</director>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260108140800 +0000" stop="20260108145500 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">Infamy: My Perfect World</sub-title>
+    <desc lang="en">The Nakayamas have been torn apart; Chester searches for the person he believes can help, by any means necessary; an outbreak in the community forces Amy to act, though she's caught between doing what she's told and doing what's right.</desc>
+    <credits>
+      <actor>Derek Mio</actor>
+      <actor>Shingo Usami</actor>
+      <actor>Naoko Mori</actor>
+      <director>Meera Menon</director>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260108145500 +0000" stop="20260108154100 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">Infamy: My Sweet Boy</sub-title>
+    <desc lang="en">Chester and Luz have reached a turning point in their relationship; Amy must take matters into her own hands as she's tormented by a powerful nemesis; Chester meets a boy who gives him answers.</desc>
+    <credits>
+      <actor>Derek Mio</actor>
+      <actor>Shingo Usami</actor>
+      <actor>Naoko Mori</actor>
+      <director>Toa Fraser</director>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260108154100 +0000" stop="20260108162400 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">Infamy: Come and Get Me</sub-title>
+    <desc lang="en">The Terminal Islanders return home to find that things have changed since they left; the Nakayamas, still tense from the pain they've inflicted on one another, must come together to battle the spirit that threatens their future.</desc>
+    <credits>
+      <actor>Derek Mio</actor>
+      <actor>Shingo Usami</actor>
+      <actor>Naoko Mori</actor>
+      <director>Frederick E.O. Toye</director>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E9</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260108162400 +0000" stop="20260108171500 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">Infamy: Into the Afterlife</sub-title>
+    <desc lang="en">Henry and Asako look to the past to provide answers to their current turmoil; Chester and Luz grapple with their identities in hopes of saving those who are dearest to them; Amy and Yamato-san struggle to once again assimilate into American life.</desc>
+    <credits>
+      <actor>Derek Mio</actor>
+      <actor>Shingo Usami</actor>
+      <actor>Naoko Mori</actor>
+      <director>Frederick E.O. Toye</director>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E10</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260108171500 +0000" stop="20260108180900 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">Infamy: A Sparrow in a Swallow's Nest</sub-title>
+    <desc lang="en">In 1941, Chester Nakayama is caught between his insular Japanese-American neighborhood on Terminal Island and his current all-American life; extreme circumstances push his community and personal life to the brink, all while someone watches closely.</desc>
+    <credits>
+      <actor>Derek Mio</actor>
+      <actor>Shingo Usami</actor>
+      <actor>Naoko Mori</actor>
+      <director>Josef Kubota Wladyka</director>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260108180900 +0000" stop="20260108185500 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">Infamy: All the Demons Are Still in Hell</sub-title>
+    <desc lang="en">After Pearl Harbor, the Terminal Islanders are evicted from their homes and must find shelter elsewhere; while Henry, separated from his family, faces injustice at the hands of the government, Chester engages in a paranoid search for answers.</desc>
+    <credits>
+      <actor>Derek Mio</actor>
+      <actor>Shingo Usami</actor>
+      <actor>Naoko Mori</actor>
+      <director>Josef Kubota Wladyka</director>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260108185500 +0000" stop="20260108194100 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">Infamy: Gaman</sub-title>
+    <desc lang="en">As the Terminal Islanders adjust to their new surroundings, Chester tries to provide for his family, while fending off the evil that follows him; Henry reels from the trauma of his imprisonment; Asako sees bad omens; Amy takes up a new job.</desc>
+    <credits>
+      <actor>Derek Mio</actor>
+      <actor>Shingo Usami</actor>
+      <actor>Naoko Mori</actor>
+      <director>Michael Lehmann</director>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260108194100 +0000" stop="20260108202700 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">Infamy: The Weak Are Meat</sub-title>
+    <desc lang="en">Chester, in search of a better life, is treated with hostility by his fellow Americans; Luz hopes to be accepted by Henry and Asako in their new home as the Japanese American community celebrates Obon, a festival to commemorate the dead.</desc>
+    <credits>
+      <actor>Derek Mio</actor>
+      <actor>Shingo Usami</actor>
+      <actor>Naoko Mori</actor>
+      <director>Michael Lehmann</director>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260108202700 +0000" stop="20260108211200 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">Infamy: Shatter Like a Pearl</sub-title>
+    <desc lang="en">The Japanese Americans are forced to undertake a humiliating exercise that divides the community; Chester comes face to face with a man who forces him to question his very nature; Luz, stricken by grief, is forced to make an important choice.</desc>
+    <credits>
+      <actor>Derek Mio</actor>
+      <actor>Shingo Usami</actor>
+      <actor>Naoko Mori</actor>
+      <director>Lily Mariye</director>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260108211200 +0000" stop="20260108215700 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">Infamy: Taizo</sub-title>
+    <desc lang="en">A story of the past provides insight into the present evil that stalks the Terminal Islanders; Chester returns home to his family; Henry and Asako are faced with a difficult decision.</desc>
+    <credits>
+      <actor>Derek Mio</actor>
+      <actor>Shingo Usami</actor>
+      <actor>Naoko Mori</actor>
+      <director>Everardo Gout</director>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260108215700 +0000" stop="20260108224200 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">Infamy: My Perfect World</sub-title>
+    <desc lang="en">The Nakayamas have been torn apart; Chester searches for the person he believes can help, by any means necessary; an outbreak in the community forces Amy to act, though she's caught between doing what she's told and doing what's right.</desc>
+    <credits>
+      <actor>Derek Mio</actor>
+      <actor>Shingo Usami</actor>
+      <actor>Naoko Mori</actor>
+      <director>Meera Menon</director>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260108224200 +0000" stop="20260108232700 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">Infamy: My Sweet Boy</sub-title>
+    <desc lang="en">Chester and Luz have reached a turning point in their relationship; Amy must take matters into her own hands as she's tormented by a powerful nemesis; Chester meets a boy who gives him answers.</desc>
+    <credits>
+      <actor>Derek Mio</actor>
+      <actor>Shingo Usami</actor>
+      <actor>Naoko Mori</actor>
+      <director>Toa Fraser</director>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260108232700 +0000" stop="20260109000900 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">Infamy: Come and Get Me</sub-title>
+    <desc lang="en">The Terminal Islanders return home to find that things have changed since they left; the Nakayamas, still tense from the pain they've inflicted on one another, must come together to battle the spirit that threatens their future.</desc>
+    <credits>
+      <actor>Derek Mio</actor>
+      <actor>Shingo Usami</actor>
+      <actor>Naoko Mori</actor>
+      <director>Frederick E.O. Toye</director>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E9</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260109000900 +0000" stop="20260109010000 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">Infamy: Into the Afterlife</sub-title>
+    <desc lang="en">Henry and Asako look to the past to provide answers to their current turmoil; Chester and Luz grapple with their identities in hopes of saving those who are dearest to them; Amy and Yamato-san struggle to once again assimilate into American life.</desc>
+    <credits>
+      <actor>Derek Mio</actor>
+      <actor>Shingo Usami</actor>
+      <actor>Naoko Mori</actor>
+      <director>Frederick E.O. Toye</director>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E10</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260109010000 +0000" stop="20260109015300 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">Infamy: A Sparrow in a Swallow's Nest</sub-title>
+    <desc lang="en">In 1941, Chester Nakayama is caught between his insular Japanese-American neighborhood on Terminal Island and his current all-American life; extreme circumstances push his community and personal life to the brink, all while someone watches closely.</desc>
+    <credits>
+      <actor>Derek Mio</actor>
+      <actor>Shingo Usami</actor>
+      <actor>Naoko Mori</actor>
+      <director>Josef Kubota Wladyka</director>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260109015300 +0000" stop="20260109023800 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">Infamy: All the Demons Are Still in Hell</sub-title>
+    <desc lang="en">After Pearl Harbor, the Terminal Islanders are evicted from their homes and must find shelter elsewhere; while Henry, separated from his family, faces injustice at the hands of the government, Chester engages in a paranoid search for answers.</desc>
+    <credits>
+      <actor>Derek Mio</actor>
+      <actor>Shingo Usami</actor>
+      <actor>Naoko Mori</actor>
+      <director>Josef Kubota Wladyka</director>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260109023800 +0000" stop="20260109032300 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">Infamy: Gaman</sub-title>
+    <desc lang="en">As the Terminal Islanders adjust to their new surroundings, Chester tries to provide for his family, while fending off the evil that follows him; Henry reels from the trauma of his imprisonment; Asako sees bad omens; Amy takes up a new job.</desc>
+    <credits>
+      <actor>Derek Mio</actor>
+      <actor>Shingo Usami</actor>
+      <actor>Naoko Mori</actor>
+      <director>Michael Lehmann</director>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260109032300 +0000" stop="20260109040800 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">Infamy: The Weak Are Meat</sub-title>
+    <desc lang="en">Chester, in search of a better life, is treated with hostility by his fellow Americans; Luz hopes to be accepted by Henry and Asako in their new home as the Japanese American community celebrates Obon, a festival to commemorate the dead.</desc>
+    <credits>
+      <actor>Derek Mio</actor>
+      <actor>Shingo Usami</actor>
+      <actor>Naoko Mori</actor>
+      <director>Michael Lehmann</director>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260109040800 +0000" stop="20260109045300 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">Infamy: Shatter Like a Pearl</sub-title>
+    <desc lang="en">The Japanese Americans are forced to undertake a humiliating exercise that divides the community; Chester comes face to face with a man who forces him to question his very nature; Luz, stricken by grief, is forced to make an important choice.</desc>
+    <credits>
+      <actor>Derek Mio</actor>
+      <actor>Shingo Usami</actor>
+      <actor>Naoko Mori</actor>
+      <director>Lily Mariye</director>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260109045300 +0000" stop="20260109053800 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">Infamy: Taizo</sub-title>
+    <desc lang="en">A story of the past provides insight into the present evil that stalks the Terminal Islanders; Chester returns home to his family; Henry and Asako are faced with a difficult decision.</desc>
+    <credits>
+      <actor>Derek Mio</actor>
+      <actor>Shingo Usami</actor>
+      <actor>Naoko Mori</actor>
+      <director>Everardo Gout</director>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260109053800 +0000" stop="20260109062300 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">Infamy: My Perfect World</sub-title>
+    <desc lang="en">The Nakayamas have been torn apart; Chester searches for the person he believes can help, by any means necessary; an outbreak in the community forces Amy to act, though she's caught between doing what she's told and doing what's right.</desc>
+    <credits>
+      <actor>Derek Mio</actor>
+      <actor>Shingo Usami</actor>
+      <actor>Naoko Mori</actor>
+      <director>Meera Menon</director>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
   </programme>
   <programme channel="Tennis.Channel.HD.us2" start="20260105073000 +0000" stop="20260105150000 +0000">
     <title lang="en">Center Court Live</title>
@@ -7222,6 +6992,56 @@
     <category lang="en">Tennis</category>
     <icon src="http://dshm.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">E9</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260108080000 +0000" stop="20260108123000 +0000">
+    <title lang="en">Center Court Live</title>
+    <sub-title lang="en">United Cup - Day 7 Quarterfinal 3; Brisbane-ATP/WTA, Auckland-WTA &amp; Hong Kong-ATP Early Rounds</sub-title>
+    <desc lang="en">Tennis action from around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dshm.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E9</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260108123000 +0000" stop="20260108203000 +0000">
+    <title lang="en">Center Court</title>
+    <sub-title lang="en">United Cup - Day 7 Quarterfinal 3; Brisbane-ATP/WTA, Auckland-WTA &amp; Hong Kong-ATP Early Rounds</sub-title>
+    <desc lang="en">Tennis action from around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dshm.tmsimg.com/assets/p615474_b_h10_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E10</episode-num>
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260108203000 +0000" stop="20260108220000 +0000">
+    <title lang="en">Center Court</title>
+    <sub-title lang="en">United Cup - Day 7 Quarterfinal 3; Brisbane-ATP/WTA, Auckland-WTA &amp; Hong Kong-ATP Early Rounds</sub-title>
+    <desc lang="en">Tennis action from around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dshm.tmsimg.com/assets/p615474_b_h10_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E10</episode-num>
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260108220000 +0000" stop="20260108223000 +0000">
+    <title lang="en">Tennis Channel Live</title>
+    <desc lang="en">Tennis stories of the day, detailed analysis and more.</desc>
+    <date>2013</date>
+    <category lang="en">Tennis</category>
+    <icon src="http://dshm.tmsimg.com/assets/p10285580_b_h10_ae.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260108223000 +0000" stop="20260109063000 +0000">
+    <title lang="en">Center Court Live</title>
+    <sub-title lang="en">United Cup - Day 8 Quarterfinal 4; Brisbane-ATP/WTA, Auckland-WTA &amp; Hong Kong-ATP Quarterfinals</sub-title>
+    <desc lang="en">Tennis action from around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dshm.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E10</episode-num>
     <premiere lang="en" />
   </programme>
   <channel id="MotorRacing.distro">
