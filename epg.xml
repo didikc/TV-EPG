@@ -3583,1013 +3583,18 @@
     <icon src="https://wrc.enhance.diagnal.com/resources/static/logo/wrc.png" />
     <url>http://www.rally.tv</url>
   </channel>
-<channel id="AMC+.us2">
-    <icon src="http://dshm.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dshm.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">AMC+</display-name>
-  </channel>
-  <channel id="Tennis.Channel.HD.us2">
+<channel id="Tennis.Channel.HD.us2">
     <icon src="http://dshm.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
     <icon src="http://dshm.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">Tennis Channel HD</display-name>
   </channel>
-  <programme channel="AMC+.us2" start="20260105054200 +0000" stop="20260105062400 +0000">
-    <title lang="en">Mayfair Witches</title>
-    <sub-title lang="en">Tessa</sub-title>
-    <desc lang="en">Rowan makes a shocking discovery but has to deal with it alone; a tragic event brings Rowan closer to the Mayfairs -- and Lasher; Sip falls deeper down the rabbit hole of the key necklace.</desc>
-    <credits>
-      <actor>Alexandra Daddario</actor>
-      <actor>Jack Huston</actor>
-      <actor>Tongayi Chirisa</actor>
-      <director>Alexis Ostrander</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <icon src="http://dshm.tmsimg.com/assets/p23584602_b_h8_ap.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260105062400 +0000" stop="20260105070800 +0000">
-    <title lang="en">Mayfair Witches</title>
-    <sub-title lang="en">What Rough Beast</sub-title>
-    <desc lang="en">Rowan inadvertently discovers her role in a prophecy that's held the Mayfair family for generations; Sip's investigation reaches its conclusion, uncovering secrets that could tarnish both Rowan's family and his role in the Talamasca.</desc>
-    <credits>
-      <actor>Alexandra Daddario</actor>
-      <actor>Jack Huston</actor>
-      <actor>Tongayi Chirisa</actor>
-      <director>Alexis Ostrander</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <icon src="http://dshm.tmsimg.com/assets/p23584602_b_h8_ap.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260105070800 +0000" stop="20260105080300 +0000">
-    <title lang="en">Mayfair Witches</title>
-    <sub-title lang="en">The Witching Hour</sub-title>
-    <desc lang="en">Neurosurgeon Rowan Fielding has a problem -- when she gets mad, she kills with her mind; her search for answers sends her toward her secretive biological family; in New Orleans, Deirdre Mayfair is desperate to escape from her aunt's oppressive house.</desc>
-    <credits>
-      <actor>Alexandra Daddario</actor>
-      <actor>Jack Huston</actor>
-      <actor>Tongayi Chirisa</actor>
-      <director>Michael Uppendahl</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <icon src="http://dshm.tmsimg.com/assets/p23584602_b_h8_ap.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260105080300 +0000" stop="20260105085000 +0000">
-    <title lang="en">Mayfair Witches</title>
-    <sub-title lang="en">The Dark Place</sub-title>
-    <desc lang="en">Wracked with grief over Ellie's death, Rowan is out of control and unfit to perform surgeries; her paranoia that someone is following her is proven true; in New Orleans, Deirdre and her mysterious companion Lasher work together to draw Rowan home.</desc>
-    <credits>
-      <actor>Alexandra Daddario</actor>
-      <actor>Jack Huston</actor>
-      <actor>Tongayi Chirisa</actor>
-      <director>Michael Uppendahl</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <icon src="http://dshm.tmsimg.com/assets/p23584602_b_h8_ap.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260105085000 +0000" stop="20260105093300 +0000">
-    <title lang="en">Mayfair Witches</title>
-    <sub-title lang="en">Second Line</sub-title>
-    <desc lang="en">In the aftermath of Deirdre's grisly death, Rowan searches for safety in a strange city; Sip provides Rowan with a safe house while he investigates Deirdre's murder; Lasher makes contact with Rowan, but not in the way one might expect.</desc>
-    <credits>
-      <actor>Alexandra Daddario</actor>
-      <actor>Jack Huston</actor>
-      <actor>Tongayi Chirisa</actor>
-      <director>Axelle Carolyn</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <icon src="http://dshm.tmsimg.com/assets/p23584602_b_h8_ap.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260105093300 +0000" stop="20260105101700 +0000">
-    <title lang="en">Mayfair Witches</title>
-    <sub-title lang="en">Curiouser and Curiouser</sub-title>
-    <desc lang="en">At Deirdre's funeral, Rowan is plunged into the world of the infamous Mayfair family; Uncle Cortland and Aunt Carlotta present diverging views on Lasher; Rowan must choose whom to trust and face the dire consequences; Sip identifies Deirdre's killer.</desc>
-    <credits>
-      <actor>Alexandra Daddario</actor>
-      <actor>Jack Huston</actor>
-      <actor>Tongayi Chirisa</actor>
-      <director>Axelle Carolyn</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <icon src="http://dshm.tmsimg.com/assets/p23584602_b_h8_ap.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260105101700 +0000" stop="20260105110000 +0000">
-    <title lang="en">Mayfair Witches</title>
-    <sub-title lang="en">The Thrall</sub-title>
-    <desc lang="en">Trapped in the First Street House, Rowan and Sip must confront its many mysteries in order to escape; Rowan grapples with an inconceivable offer; Sip's sister Odette makes a horrifying discovery.</desc>
-    <credits>
-      <actor>Alexandra Daddario</actor>
-      <actor>Jack Huston</actor>
-      <actor>Tongayi Chirisa</actor>
-      <director>Haifaa Al-Mansour</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <icon src="http://dshm.tmsimg.com/assets/p23584602_b_h8_ap.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260105110000 +0000" stop="20260105115600 +0000">
-    <title lang="en">Gangs of London</title>
-    <sub-title lang="en">Episode 6</sub-title>
-    <desc lang="en">Hidden away in a farmhouse in the middle of nowhere, Darren wrestles with the chaos he's unleashed.</desc>
-    <credits>
-      <actor>Sope Dirisu</actor>
-      <actor>Joe Cole</actor>
-      <actor>Colm Meaney</actor>
-    </credits>
-    <date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <icon src="http://dshm.tmsimg.com/assets/p18172419_b_h8_am.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>19</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260105115600 +0000" stop="20260105125300 +0000">
-    <title lang="en">Gangs of London</title>
-    <sub-title lang="en">Episode 7</sub-title>
-    <desc lang="en">With the Wallaces retreating to a safehouse, Marian puts pressure on Sean to uncover Finn's killer; meanwhile, Elliot's recuperation is interrupted by a new danger.</desc>
-    <credits>
-      <actor>Sope Dirisu</actor>
-      <actor>Joe Cole</actor>
-      <actor>Colm Meaney</actor>
-    </credits>
-    <date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <icon src="http://dshm.tmsimg.com/assets/p18172419_b_h8_am.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>19</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260105125300 +0000" stop="20260105134600 +0000">
-    <title lang="en">Gangs of London</title>
-    <sub-title lang="en">Episode 8</sub-title>
-    <desc lang="en">With the truth about Finn's murder revealed, the Wallaces and the Dumanis will never be the same again; meanwhile, Luan is forced to confront the deadly consequences of his actions.</desc>
-    <credits>
-      <actor>Sope Dirisu</actor>
-      <actor>Joe Cole</actor>
-      <actor>Colm Meaney</actor>
-    </credits>
-    <date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <icon src="http://dshm.tmsimg.com/assets/p18172419_b_h8_am.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>19</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260105134600 +0000" stop="20260105144000 +0000">
-    <title lang="en">Gangs of London</title>
-    <sub-title lang="en">Episode 9</sub-title>
-    <desc lang="en">With the stakes higher than ever, the Wallaces are forced to go into hiding; Luan risks his life to rid himself of Mosi; Elliot attempts to save the life of a colleague.</desc>
-    <credits>
-      <actor>Sope Dirisu</actor>
-      <actor>Joe Cole</actor>
-      <actor>Colm Meaney</actor>
-    </credits>
-    <date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <icon src="http://dshm.tmsimg.com/assets/p18172419_b_h8_am.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>19</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260105144000 +0000" stop="20260105154000 +0000">
-    <title lang="en">Gangs of London</title>
-    <sub-title lang="en">Episode 10</sub-title>
-    <desc lang="en">Elliot is forced to make a choice that will define his entire future; Sean makes a discovery about a traitor who has been in his midst all along.</desc>
-    <credits>
-      <actor>Sope Dirisu</actor>
-      <actor>Joe Cole</actor>
-      <actor>Colm Meaney</actor>
-    </credits>
-    <date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <icon src="http://dshm.tmsimg.com/assets/p18172419_b_h8_am.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>19</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260105154000 +0000" stop="20260105163100 +0000">
-    <title lang="en">Gangs of London</title>
-    <sub-title lang="en">Episode 1</sub-title>
-    <desc lang="en">London's most powerful criminal is found dead and nobody knows who ordered the hit; Sean Wallace puts a stop to all criminal business in London until he finds his father's killer.</desc>
-    <credits>
-      <actor>Sope Dirisu</actor>
-      <actor>Joe Cole</actor>
-      <actor>Colm Meaney</actor>
-      <director>Gareth Evans</director>
-    </credits>
-    <date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <icon src="http://dshm.tmsimg.com/assets/p18172419_b_h8_am.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>19</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260105163100 +0000" stop="20260105171800 +0000">
-    <title lang="en">Gangs of London</title>
-    <sub-title lang="en">Episode 2</sub-title>
-    <desc lang="en">Tensions continue to grow on the morning of Finn's funeral; creating as much chaos as he prevents, Elliot Finch goes deeper and deeper into London's murky underworld.</desc>
-    <credits>
-      <actor>Sope Dirisu</actor>
-      <actor>Joe Cole</actor>
-      <actor>Colm Meaney</actor>
-    </credits>
-    <date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <icon src="http://dshm.tmsimg.com/assets/p18172419_b_h8_am.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>19</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260105171800 +0000" stop="20260105181600 +0000">
-    <title lang="en">Gangs of London</title>
-    <sub-title lang="en">Episode 3</sub-title>
-    <desc lang="en">Elliot establishes a connection with a key member of the Dumani family; meanwhile, Sean unleashes his fury after making a discovery about his father's murder.</desc>
-    <credits>
-      <actor>Sope Dirisu</actor>
-      <actor>Joe Cole</actor>
-      <actor>Colm Meaney</actor>
-      <director>Corin Hardy</director>
-    </credits>
-    <date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <icon src="http://dshm.tmsimg.com/assets/p18172419_b_h8_am.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>19</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260105181600 +0000" stop="20260105191500 +0000">
-    <title lang="en">Gangs of London</title>
-    <sub-title lang="en">Episode 4</sub-title>
-    <desc lang="en">Lale is asked to make an impossible decision; Sean enacts a dangerous plan; Elliot takes on a new foe.</desc>
-    <credits>
-      <actor>Sope Dirisu</actor>
-      <actor>Joe Cole</actor>
-      <actor>Colm Meaney</actor>
-      <director>Corin Hardy</director>
-    </credits>
-    <date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <icon src="http://dshm.tmsimg.com/assets/p18172419_b_h8_am.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>19</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260105191500 +0000" stop="20260105201500 +0000">
-    <title lang="en">Gangs of London</title>
-    <sub-title lang="en">Episode 5</sub-title>
-    <desc lang="en">Elliot's loyalty is tested by an increasingly suspicious Ed Dumani; Sean throws a dinner in an attempt to unite the two families; Alexander is asked to meet with an old contact.</desc>
-    <credits>
-      <actor>Sope Dirisu</actor>
-      <actor>Joe Cole</actor>
-      <actor>Colm Meaney</actor>
-    </credits>
-    <date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <icon src="http://dshm.tmsimg.com/assets/p18172419_b_h8_am.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>19</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260105201500 +0000" stop="20260105211200 +0000">
-    <title lang="en">Gangs of London</title>
-    <sub-title lang="en">Episode 6</sub-title>
-    <desc lang="en">Hidden away in a farmhouse in the middle of nowhere, Darren wrestles with the chaos he's unleashed.</desc>
-    <credits>
-      <actor>Sope Dirisu</actor>
-      <actor>Joe Cole</actor>
-      <actor>Colm Meaney</actor>
-    </credits>
-    <date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <icon src="http://dshm.tmsimg.com/assets/p18172419_b_h8_am.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>19</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260105211200 +0000" stop="20260105221000 +0000">
-    <title lang="en">Gangs of London</title>
-    <sub-title lang="en">Episode 7</sub-title>
-    <desc lang="en">With the Wallaces retreating to a safehouse, Marian puts pressure on Sean to uncover Finn's killer; meanwhile, Elliot's recuperation is interrupted by a new danger.</desc>
-    <credits>
-      <actor>Sope Dirisu</actor>
-      <actor>Joe Cole</actor>
-      <actor>Colm Meaney</actor>
-    </credits>
-    <date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <icon src="http://dshm.tmsimg.com/assets/p18172419_b_h8_am.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>19</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260105221000 +0000" stop="20260105230400 +0000">
-    <title lang="en">Gangs of London</title>
-    <sub-title lang="en">Episode 8</sub-title>
-    <desc lang="en">With the truth about Finn's murder revealed, the Wallaces and the Dumanis will never be the same again; meanwhile, Luan is forced to confront the deadly consequences of his actions.</desc>
-    <credits>
-      <actor>Sope Dirisu</actor>
-      <actor>Joe Cole</actor>
-      <actor>Colm Meaney</actor>
-    </credits>
-    <date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <icon src="http://dshm.tmsimg.com/assets/p18172419_b_h8_am.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>19</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260105230400 +0000" stop="20260105235900 +0000">
-    <title lang="en">Gangs of London</title>
-    <sub-title lang="en">Episode 9</sub-title>
-    <desc lang="en">With the stakes higher than ever, the Wallaces are forced to go into hiding; Luan risks his life to rid himself of Mosi; Elliot attempts to save the life of a colleague.</desc>
-    <credits>
-      <actor>Sope Dirisu</actor>
-      <actor>Joe Cole</actor>
-      <actor>Colm Meaney</actor>
-    </credits>
-    <date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <icon src="http://dshm.tmsimg.com/assets/p18172419_b_h8_am.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>19</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260105235900 +0000" stop="20260106010000 +0000">
-    <title lang="en">Gangs of London</title>
-    <sub-title lang="en">Episode 10</sub-title>
-    <desc lang="en">Elliot is forced to make a choice that will define his entire future; Sean makes a discovery about a traitor who has been in his midst all along.</desc>
-    <credits>
-      <actor>Sope Dirisu</actor>
-      <actor>Joe Cole</actor>
-      <actor>Colm Meaney</actor>
-    </credits>
-    <date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <icon src="http://dshm.tmsimg.com/assets/p18172419_b_h8_am.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>19</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260106010000 +0000" stop="20260106015300 +0000">
-    <title lang="en">Gangs of London</title>
-    <sub-title lang="en">Episode 1</sub-title>
-    <desc lang="en">London's most powerful criminal is found dead and nobody knows who ordered the hit; Sean Wallace puts a stop to all criminal business in London until he finds his father's killer.</desc>
-    <credits>
-      <actor>Sope Dirisu</actor>
-      <actor>Joe Cole</actor>
-      <actor>Colm Meaney</actor>
-      <director>Gareth Evans</director>
-    </credits>
-    <date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <icon src="http://dshm.tmsimg.com/assets/p18172419_b_h8_am.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>19</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260106015300 +0000" stop="20260106024100 +0000">
-    <title lang="en">Gangs of London</title>
-    <sub-title lang="en">Episode 2</sub-title>
-    <desc lang="en">Tensions continue to grow on the morning of Finn's funeral; creating as much chaos as he prevents, Elliot Finch goes deeper and deeper into London's murky underworld.</desc>
-    <credits>
-      <actor>Sope Dirisu</actor>
-      <actor>Joe Cole</actor>
-      <actor>Colm Meaney</actor>
-    </credits>
-    <date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <icon src="http://dshm.tmsimg.com/assets/p18172419_b_h8_am.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>19</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260106024100 +0000" stop="20260106034000 +0000">
-    <title lang="en">Gangs of London</title>
-    <sub-title lang="en">Episode 3</sub-title>
-    <desc lang="en">Elliot establishes a connection with a key member of the Dumani family; meanwhile, Sean unleashes his fury after making a discovery about his father's murder.</desc>
-    <credits>
-      <actor>Sope Dirisu</actor>
-      <actor>Joe Cole</actor>
-      <actor>Colm Meaney</actor>
-      <director>Corin Hardy</director>
-    </credits>
-    <date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <icon src="http://dshm.tmsimg.com/assets/p18172419_b_h8_am.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>19</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260106034000 +0000" stop="20260106044000 +0000">
-    <title lang="en">Gangs of London</title>
-    <sub-title lang="en">Episode 4</sub-title>
-    <desc lang="en">Lale is asked to make an impossible decision; Sean enacts a dangerous plan; Elliot takes on a new foe.</desc>
-    <credits>
-      <actor>Sope Dirisu</actor>
-      <actor>Joe Cole</actor>
-      <actor>Colm Meaney</actor>
-      <director>Corin Hardy</director>
-    </credits>
-    <date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <icon src="http://dshm.tmsimg.com/assets/p18172419_b_h8_am.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>19</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260106044000 +0000" stop="20260106054300 +0000">
-    <title lang="en">Gangs of London</title>
-    <sub-title lang="en">Episode 5</sub-title>
-    <desc lang="en">Elliot's loyalty is tested by an increasingly suspicious Ed Dumani; Sean throws a dinner in an attempt to unite the two families; Alexander is asked to meet with an old contact.</desc>
-    <credits>
-      <actor>Sope Dirisu</actor>
-      <actor>Joe Cole</actor>
-      <actor>Colm Meaney</actor>
-    </credits>
-    <date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <icon src="http://dshm.tmsimg.com/assets/p18172419_b_h8_am.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>19</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-  </programme>
+  <channel id="AMC+.us2">
+    <icon src="http://dshm.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dshm.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">AMC+</display-name>
+  </channel>
   <programme channel="AMC+.us2" start="20260106054300 +0000" stop="20260106064300 +0000">
     <title lang="en">Gangs of London</title>
     <sub-title lang="en">Episode 6</sub-title>
@@ -6863,45 +5868,560 @@
       <value>-16</value>
     </rating>
   </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260105073000 +0000" stop="20260105150000 +0000">
-    <title lang="en">Center Court Live</title>
-    <sub-title lang="en">United Cup - Day 4 Group Stage; Brisbane-ATP/WTA, Auckland-WTA &amp; Hong Kong-ATP Early Rounds</sub-title>
-    <desc lang="en">Tennis action from around the world.</desc>
-    <date>2026</date>
+  <programme channel="AMC+.us2" start="20260109062300 +0000" stop="20260109070800 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">Infamy: My Sweet Boy</sub-title>
+    <desc lang="en">Chester and Luz have reached a turning point in their relationship; Amy must take matters into her own hands as she's tormented by a powerful nemesis; Chester meets a boy who gives him answers.</desc>
+    <credits>
+      <actor>Derek Mio</actor>
+      <actor>Shingo Usami</actor>
+      <actor>Naoko Mori</actor>
+      <director>Toa Fraser</director>
+    </credits>
+    <date>2019</date>
     <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dshm.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E6</episode-num>
-    <premiere lang="en" />
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
   </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260105150000 +0000" stop="20260105230000 +0000">
-    <title lang="en">Center Court</title>
-    <sub-title lang="en">United Cup - Day 4 Group Stage; Brisbane-ATP/WTA, Auckland-WTA &amp; Hong Kong-ATP Early Rounds</sub-title>
-    <desc lang="en">Tennis action from around the world.</desc>
-    <date>2026</date>
+  <programme channel="AMC+.us2" start="20260109070800 +0000" stop="20260109075000 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">Infamy: Come and Get Me</sub-title>
+    <desc lang="en">The Terminal Islanders return home to find that things have changed since they left; the Nakayamas, still tense from the pain they've inflicted on one another, must come together to battle the spirit that threatens their future.</desc>
+    <credits>
+      <actor>Derek Mio</actor>
+      <actor>Shingo Usami</actor>
+      <actor>Naoko Mori</actor>
+      <director>Frederick E.O. Toye</director>
+    </credits>
+    <date>2019</date>
     <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dshm.tmsimg.com/assets/p615474_b_h10_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E7</episode-num>
-    <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260105230000 +0000" stop="20260105233000 +0000">
-    <title lang="en">Tennis Channel Live</title>
-    <desc lang="en">Tennis stories of the day, detailed analysis and more.</desc>
-    <date>2013</date>
-    <category lang="en">Tennis</category>
-    <icon src="http://dshm.tmsimg.com/assets/p10285580_b_h10_ae.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E9</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
   </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260105233000 +0000" stop="20260106073000 +0000">
-    <title lang="en">Center Court Live</title>
-    <sub-title lang="en">United Cup - Day 5 Group Stage; Brisbane-ATP/WTA, Auckland-WTA &amp; Hong Kong-ATP Early Rounds</sub-title>
-    <desc lang="en">Tennis action from around the world.</desc>
-    <date>2026</date>
+  <programme channel="AMC+.us2" start="20260109075000 +0000" stop="20260109083900 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">Infamy: Into the Afterlife</sub-title>
+    <desc lang="en">Henry and Asako look to the past to provide answers to their current turmoil; Chester and Luz grapple with their identities in hopes of saving those who are dearest to them; Amy and Yamato-san struggle to once again assimilate into American life.</desc>
+    <credits>
+      <actor>Derek Mio</actor>
+      <actor>Shingo Usami</actor>
+      <actor>Naoko Mori</actor>
+      <director>Frederick E.O. Toye</director>
+    </credits>
+    <date>2019</date>
     <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dshm.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E7</episode-num>
-    <premiere lang="en" />
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E10</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260109083900 +0000" stop="20260109093200 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">Infamy: A Sparrow in a Swallow's Nest</sub-title>
+    <desc lang="en">In 1941, Chester Nakayama is caught between his insular Japanese-American neighborhood on Terminal Island and his current all-American life; extreme circumstances push his community and personal life to the brink, all while someone watches closely.</desc>
+    <credits>
+      <actor>Derek Mio</actor>
+      <actor>Shingo Usami</actor>
+      <actor>Naoko Mori</actor>
+      <director>Josef Kubota Wladyka</director>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260109093200 +0000" stop="20260109101700 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">Infamy: All the Demons Are Still in Hell</sub-title>
+    <desc lang="en">After Pearl Harbor, the Terminal Islanders are evicted from their homes and must find shelter elsewhere; while Henry, separated from his family, faces injustice at the hands of the government, Chester engages in a paranoid search for answers.</desc>
+    <credits>
+      <actor>Derek Mio</actor>
+      <actor>Shingo Usami</actor>
+      <actor>Naoko Mori</actor>
+      <director>Josef Kubota Wladyka</director>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260109101700 +0000" stop="20260109110000 +0000">
+    <title lang="en">The Terror</title>
+    <sub-title lang="en">Infamy: Gaman</sub-title>
+    <desc lang="en">As the Terminal Islanders adjust to their new surroundings, Chester tries to provide for his family, while fending off the evil that follows him; Henry reels from the trauma of his imprisonment; Asako sees bad omens; Amy takes up a new job.</desc>
+    <credits>
+      <actor>Derek Mio</actor>
+      <actor>Shingo Usami</actor>
+      <actor>Naoko Mori</actor>
+      <director>Michael Lehmann</director>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <previously-shown />  <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260109110000 +0000" stop="20260109124500 +0000">
+    <title lang="en">Skinamarink</title>
+    <desc lang="en">Two children wake up in the middle of the night to find their father is missing, and all the windows and doors in their home have vanished.</desc>
+    <credits>
+      <actor>Lucas Paul</actor>
+      <actor>Dali Rose Tetreault</actor>
+      <actor>Ross Paul</actor>
+      <director>Kyle Edward Ball</director>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dshm.tmsimg.com/assets/p23640184_v_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />  <rating system="Alberta's Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="映倫">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <star-rating system="TMS">
+      <value>5.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260109124500 +0000" stop="20260109142900 +0000">
+    <title lang="en">Birth/Rebirth</title>
+    <desc lang="en">A morgue technician successfully reanimates the body of a little girl, but she must harvest biological materials from pregnant women to keep the child breathing. When the girl's mother, a nurse, discovers her baby is alive, the two enter into a deal that forces them both down a dark path.</desc>
+    <credits>
+      <actor>Judy Reyes</actor>
+      <actor>Marin Ireland</actor>
+      <actor>Breeda Wool</actor>
+      <director>Laura Moss</director>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p24687717_v_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />  <rating system="Motion Picture Association">
+      <value>R</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="영상물등급위원회">
+      <value>All</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260109142900 +0000" stop="20260109160800 +0000">
+    <title lang="en">In a Violent Nature</title>
+    <desc lang="en">When a group of teens takes a locket from a collapsed fire tower in the woods, they unwittingly resurrect the rotting corpse of Johnny, a vengeful spirit spurred on by a horrific 60-year-old crime. The undead killer soon embarks on a bloody rampage to retrieve the stolen locket, methodically slaughtering anyone who gets in his way.</desc>
+    <credits>
+      <actor>Ry Barrett</actor>
+      <actor>Andrea Pavlovic</actor>
+      <actor>Cameron Love</actor>
+      <director>Chris Nash</director>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p26881855_v_h8_ag.jpg?w=960&amp;h=540" />
+    <previously-shown />  <rating system="Alberta's Film Classification Board">
+      <value>18A</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>18</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Consejo de Calificación Cinematográfica">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A18</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>C</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+    <rating system="映倫">
+      <value>R18+</value>
+    </rating>
+    <star-rating system="TMS">
+      <value>5.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260109160800 +0000" stop="20260109180500 +0000">
+    <title lang="en">V/H/S/85</title>
+    <desc lang="en">A heart-pounding journey into the grim underbelly of the forgotten '80s through five tales of terror on a taped-over made-for-TV documentary.</desc>
+    <credits>
+      <actor>Jordan Belfi</actor>
+      <actor>Freddy Rodriguez</actor>
+      <actor>James Ransone</actor>
+      <director>David Bruckner</director>
+      <director>Scott Derrickson</director>
+      <director>Gigi Saul Guerrero</director>
+      <director>Natasha Kermani</director>
+      <director>Mike P. Nelson</director>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p25660621_v_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />  <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>C</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K18</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="映倫">
+      <value>R15+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260109180500 +0000" stop="20260109193700 +0000">
+    <title lang="en">Christmas Bloody Christmas</title>
+    <desc lang="en">It's Christmas Eve and fiery record store owner Tori Tooms just wants to get drunk and party, until the robotic Santa Claus at a nearby toy store goes haywire and makes her night more than a little complicated. Santa embarks on a rampant killing spree through the neon-drenched snowscape, ultimately forcing Tori into a blood-splattered battle for survival.</desc>
+    <credits>
+      <actor>Riley Dandy</actor>
+      <actor>Sam Delich</actor>
+      <actor>Jonah Ray</actor>
+      <director>Joe Begos</director>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Holiday</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p23094870_v_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />  <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A18</value>
+    </rating>
+    <rating system="Consejo de Calificación Cinematográfica">
+      <value>18</value>
+    </rating>
+    <rating system="영상물등급위원회">
+      <value>15+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260109193700 +0000" stop="20260109210800 +0000">
+    <title lang="en">Christmas Presence</title>
+    <desc lang="en">A Christmas gathering between friends quickly becomes a violent fight for survival.</desc>
+    <credits>
+      <actor>Charlotte Atkinson</actor>
+      <actor>Elsie Bennett</actor>
+      <actor>Lorna Brown</actor>
+      <director>James Edward Cook</director>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Holiday</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dshm.tmsimg.com/assets/p16728739_v_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />  <rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260109210800 +0000" stop="20260109224800 +0000">
+    <title lang="en">Anything for Jackson</title>
+    <desc lang="en">A sinister couple hatch a supernatural scheme to resurrect their dead grandson through a pregnant woman.</desc>
+    <credits>
+      <actor>Sheila McCarthy</actor>
+      <actor>Julian Richings</actor>
+      <actor>Konstantina Mantelos</actor>
+      <director>Justin G. Dyck</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dshm.tmsimg.com/assets/p18902999_v_h8_ac.jpg?w=960&amp;h=540" />
+    <previously-shown />  <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="영상물등급위원회">
+      <value>18+</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260109224800 +0000" stop="20260110003000 +0000">
+    <title lang="en">The Sacrifice Game</title>
+    <desc lang="en">In the 1970s, boarding school students Samantha and Clara stay behind during Christmas break. Things take a deadly turn when a murderous gang arrives at their doorstep, intent on summoning a demon.</desc>
+    <credits>
+      <actor>Mena Massoud</actor>
+      <actor>Olivia Scott Welch</actor>
+      <actor>Chloe Levine</actor>
+      <director>Jenn Wexler</director>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Holiday</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dshm.tmsimg.com/assets/p25763002_v_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />  <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260110003000 +0000" stop="20260110020000 +0000">
+    <title lang="en">Get Away</title>
+    <desc lang="en">A remote getaway takes an unexpected turn when a family discovers the island that they're on is inhabited by a serial killer.</desc>
+    <credits>
+      <actor>Nick Frost</actor>
+      <actor>Aisling Bea</actor>
+      <actor>Sebastian Croft</actor>
+      <director>Steffen Haars</director>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dshm.tmsimg.com/assets/p28272635_v_h8_ac.jpg?w=960&amp;h=540" />
+    <previously-shown />  <rating system="Motion Picture Association">
+      <value>R</value>
+    </rating>
+    <rating system="Alberta's Film Classification Board">
+      <value>18A</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>18</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>18</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A18</value>
+    </rating>
+    <rating system="영상물등급위원회">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260110020000 +0000" stop="20260110043400 +0000">
+    <title lang="en">The Last Drive-in With Joe Bob Briggs</title>
+    <desc lang="en">Joe Bob Briggs offers up an eclectic pairing of films, from horror classics to cult favorites.</desc>
+    <credits>
+      <actor>John Bloom</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Science fiction</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p29551244_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260110043400 +0000" stop="20260110063900 +0000">
+    <title lang="en">The Last Drive-in With Joe Bob Briggs</title>
+    <desc lang="en">Joe Bob Briggs offers up an eclectic pairing of films, from horror classics to cult favorites.</desc>
+    <credits>
+      <actor>John Bloom</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Science fiction</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p29551244_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
   </programme>
   <programme channel="Tennis.Channel.HD.us2" start="20260106073000 +0000" stop="20260106123000 +0000">
     <title lang="en">Center Court Live</title>
@@ -7051,6 +6571,56 @@
     <category lang="en">Tennis</category>
     <icon src="http://dshm.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">E10</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260109063000 +0000" stop="20260109123000 +0000">
+    <title lang="en">Center Court Live</title>
+    <sub-title lang="en">United Cup - Day 8 Quarterfinal 4; Brisbane-ATP/WTA, Auckland-WTA &amp; Hong Kong-ATP Quarterfinals</sub-title>
+    <desc lang="en">Tennis action from around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dshm.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E10</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260109123000 +0000" stop="20260109203000 +0000">
+    <title lang="en">Center Court</title>
+    <sub-title lang="en">United Cup - Day 8 Quarterfinal 4; Brisbane-ATP/WTA, Auckland-WTA &amp; Hong Kong-ATP Quarterfinals</sub-title>
+    <desc lang="en">Tennis action from around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dshm.tmsimg.com/assets/p615474_b_h10_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E11</episode-num>
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260109203000 +0000" stop="20260109230000 +0000">
+    <title lang="en">Center Court</title>
+    <sub-title lang="en">United Cup - Day 8 Quarterfinal 4; Brisbane-ATP/WTA, Auckland-WTA &amp; Hong Kong-ATP Quarterfinals</sub-title>
+    <desc lang="en">Tennis action from around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dshm.tmsimg.com/assets/p615474_b_h10_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E11</episode-num>
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260109230000 +0000" stop="20260109233000 +0000">
+    <title lang="en">Tennis Channel Live</title>
+    <desc lang="en">Tennis stories of the day, detailed analysis and more.</desc>
+    <date>2013</date>
+    <category lang="en">Tennis</category>
+    <icon src="http://dshm.tmsimg.com/assets/p10285580_b_h10_ae.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260109233000 +0000" stop="20260110073000 +0000">
+    <title lang="en">Center Court Live</title>
+    <sub-title lang="en">United Cup - Day 9 Semifinals; Brisbane-ATP/WTA, Auckland-WTA &amp; Hong Kong-ATP Semifinals</sub-title>
+    <desc lang="en">Tennis action from around the world.</desc>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dshm.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E6</episode-num>
     <premiere lang="en" />
   </programme>
   <channel id="Horizon.Sports.distro">
