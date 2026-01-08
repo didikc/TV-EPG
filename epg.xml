@@ -3465,730 +3465,18 @@
     <icon src="https://wrc.enhance.diagnal.com/resources/static/logo/wrc.png" />
     <url>http://www.rally.tv</url>
   </channel>
-<channel id="Tennis.Channel.HD.us2">
-    <icon src="http://dshm.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dshm.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Tennis Channel HD</display-name>
-  </channel>
-  <channel id="AMC+.us2">
+<channel id="AMC+.us2">
     <icon src="http://dshm.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
     <icon src="http://dshm.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">AMC+</display-name>
   </channel>
-  <programme channel="AMC+.us2" start="20260106054300 +0000" stop="20260106064300 +0000">
-    <title lang="en">Gangs of London</title>
-    <sub-title lang="en">Episode 6</sub-title>
-    <desc lang="en">Hidden away in a farmhouse in the middle of nowhere, Darren wrestles with the chaos he's unleashed.</desc>
-    <credits>
-      <actor>Sope Dirisu</actor>
-      <actor>Joe Cole</actor>
-      <actor>Colm Meaney</actor>
-    </credits>
-    <date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <icon src="http://dshm.tmsimg.com/assets/p18172419_b_h8_am.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>19</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260106064300 +0000" stop="20260106074400 +0000">
-    <title lang="en">Gangs of London</title>
-    <sub-title lang="en">Episode 7</sub-title>
-    <desc lang="en">With the Wallaces retreating to a safehouse, Marian puts pressure on Sean to uncover Finn's killer; meanwhile, Elliot's recuperation is interrupted by a new danger.</desc>
-    <credits>
-      <actor>Sope Dirisu</actor>
-      <actor>Joe Cole</actor>
-      <actor>Colm Meaney</actor>
-    </credits>
-    <date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <icon src="http://dshm.tmsimg.com/assets/p18172419_b_h8_am.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>19</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260106074400 +0000" stop="20260106084100 +0000">
-    <title lang="en">Gangs of London</title>
-    <sub-title lang="en">Episode 8</sub-title>
-    <desc lang="en">With the truth about Finn's murder revealed, the Wallaces and the Dumanis will never be the same again; meanwhile, Luan is forced to confront the deadly consequences of his actions.</desc>
-    <credits>
-      <actor>Sope Dirisu</actor>
-      <actor>Joe Cole</actor>
-      <actor>Colm Meaney</actor>
-    </credits>
-    <date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <icon src="http://dshm.tmsimg.com/assets/p18172419_b_h8_am.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>19</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260106084100 +0000" stop="20260106093800 +0000">
-    <title lang="en">Gangs of London</title>
-    <sub-title lang="en">Episode 9</sub-title>
-    <desc lang="en">With the stakes higher than ever, the Wallaces are forced to go into hiding; Luan risks his life to rid himself of Mosi; Elliot attempts to save the life of a colleague.</desc>
-    <credits>
-      <actor>Sope Dirisu</actor>
-      <actor>Joe Cole</actor>
-      <actor>Colm Meaney</actor>
-    </credits>
-    <date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <icon src="http://dshm.tmsimg.com/assets/p18172419_b_h8_am.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>19</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260106093800 +0000" stop="20260106103900 +0000">
-    <title lang="en">Gangs of London</title>
-    <sub-title lang="en">Episode 10</sub-title>
-    <desc lang="en">Elliot is forced to make a choice that will define his entire future; Sean makes a discovery about a traitor who has been in his midst all along.</desc>
-    <credits>
-      <actor>Sope Dirisu</actor>
-      <actor>Joe Cole</actor>
-      <actor>Colm Meaney</actor>
-    </credits>
-    <date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <icon src="http://dshm.tmsimg.com/assets/p18172419_b_h8_am.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>19</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260106103900 +0000" stop="20260106110000 +0000">
-    <title lang="en">Comic Book Men</title>
-    <sub-title lang="en">Return of the Mewes</sub-title>
-    <desc lang="en">Jason Mewes inserts himself into transactions involving a Deadshot statue and a vintage Death Star Space Station.</desc>
-    <credits>
-      <actor>Kevin Smith</actor>
-      <actor>Walt Flanagan</actor>
-      <actor>Bryan Johnson</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Collectibles</category>
-    <icon src="http://dshm.tmsimg.com/assets/p9009550_b_h10_ak.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S6 E11</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260106110000 +0000" stop="20260106114800 +0000">
-    <title lang="en">Dating Death</title>
-    <desc lang="en">Rodney Alcala flees Los Angeles in 1968 after the rape and attempted murder of an 8-year-old girl, but after moving to New York under an assumed name, he begins working at a New Hampshire arts camp for children.</desc>
-    <credits>
-      <director>David Harvey</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <icon src="http://dshm.tmsimg.com/assets/p23237434_b_h10_ad.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <previously-shown />  <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260106114800 +0000" stop="20260106123600 +0000">
-    <title lang="en">Dating Death</title>
-    <desc lang="en">After his early release in 1974 from prison, Rodney Alcala's victim count continues to rise as he uses his photography skills to prey on both young women and children.</desc>
-    <credits>
-      <director>David Harvey</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <icon src="http://dshm.tmsimg.com/assets/p23237434_b_h10_ad.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <previously-shown />  <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260106123600 +0000" stop="20260106132400 +0000">
-    <title lang="en">Dating Death</title>
-    <desc lang="en">In 1979 on Huntington Beach, Calif., a girl goes missing and is later found dead in a wooded area; the only lead is a sketch composite that resembles Alcala.</desc>
-    <credits>
-      <director>David Harvey</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <icon src="http://dshm.tmsimg.com/assets/p23237434_b_h10_ad.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <previously-shown />  <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260106132400 +0000" stop="20260106141200 +0000">
-    <title lang="en">Dating Death</title>
-    <desc lang="en">Rodney Alcala flees Los Angeles in 1968 after the rape and attempted murder of an 8-year-old girl, but after moving to New York under an assumed name, he begins working at a New Hampshire arts camp for children.</desc>
-    <credits>
-      <director>David Harvey</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <icon src="http://dshm.tmsimg.com/assets/p23237434_b_h10_ad.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <previously-shown />  <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260106141200 +0000" stop="20260106150000 +0000">
-    <title lang="en">Dating Death</title>
-    <desc lang="en">After his early release in 1974 from prison, Rodney Alcala's victim count continues to rise as he uses his photography skills to prey on both young women and children.</desc>
-    <credits>
-      <director>David Harvey</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <icon src="http://dshm.tmsimg.com/assets/p23237434_b_h10_ad.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <previously-shown />  <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260106150000 +0000" stop="20260106154800 +0000">
-    <title lang="en">Dating Death</title>
-    <desc lang="en">In 1979 on Huntington Beach, Calif., a girl goes missing and is later found dead in a wooded area; the only lead is a sketch composite that resembles Alcala.</desc>
-    <credits>
-      <director>David Harvey</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <icon src="http://dshm.tmsimg.com/assets/p23237434_b_h10_ad.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <previously-shown />  <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260106154800 +0000" stop="20260106163500 +0000">
-    <title lang="en">The Furry Detectives: Unmasking A Monster</title>
-    <sub-title lang="en">Welcome to the Jungle</sub-title>
-    <desc lang="en">When Patch O'Furr is tagged in a mysterious online post, he must face the fact that animal abusers are hiding in plain sight in the Furry Fandom; Furry Detectives comb through evidence and discover one popular Youtuber is a suspect.</desc>
-    <credits>
-      <director>Theo Love</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Miniseries</category>
-    <icon src="http://dshm.tmsimg.com/assets/p30300336_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260106163500 +0000" stop="20260106172300 +0000">
-    <title lang="en">The Furry Detectives: Unmasking A Monster</title>
-    <sub-title lang="en">Predator Becomes Prey</sub-title>
-    <desc lang="en">An online 3D printing group leads to a break in the case and The Furry Detectives get their first arrest; the Zoosadist ringleader, known as SnakeThing, is still out there.</desc>
-    <credits>
-      <director>Theo Love</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Miniseries</category>
-    <icon src="http://dshm.tmsimg.com/assets/p30300336_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260106172300 +0000" stop="20260106180900 +0000">
-    <title lang="en">The Furry Detectives: Unmasking A Monster</title>
-    <sub-title lang="en">Top of the Food Chain</sub-title>
-    <desc lang="en">It wasn't just animals, he was hurting people too; the self-proclaimed Furvengers must battle through legal obstacles and personal attacks as they hunt for SnakeThing.</desc>
-    <credits>
-      <director>Theo Love</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Miniseries</category>
-    <icon src="http://dshm.tmsimg.com/assets/p30300336_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260106180900 +0000" stop="20260106185600 +0000">
-    <title lang="en">The Furry Detectives: Unmasking A Monster</title>
-    <sub-title lang="en">The Animal Within</sub-title>
-    <desc lang="en">A video shared in the Furry community by a person named "Monster" causes a new level of vigilante detective work; clues lead to a remote shipping container in the outback of Australia owned by a well-respected celebrity.</desc>
-    <credits>
-      <director>Theo Love</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Miniseries</category>
-    <icon src="http://dshm.tmsimg.com/assets/p30300336_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260106185600 +0000" stop="20260106194300 +0000">
-    <title lang="en">The Furry Detectives: Unmasking A Monster</title>
-    <sub-title lang="en">Welcome to the Jungle</sub-title>
-    <desc lang="en">When Patch O'Furr is tagged in a mysterious online post, he must face the fact that animal abusers are hiding in plain sight in the Furry Fandom; Furry Detectives comb through evidence and discover one popular Youtuber is a suspect.</desc>
-    <credits>
-      <director>Theo Love</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Miniseries</category>
-    <icon src="http://dshm.tmsimg.com/assets/p30300336_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260106194300 +0000" stop="20260106202900 +0000">
-    <title lang="en">The Furry Detectives: Unmasking A Monster</title>
-    <sub-title lang="en">Predator Becomes Prey</sub-title>
-    <desc lang="en">An online 3D printing group leads to a break in the case and The Furry Detectives get their first arrest; the Zoosadist ringleader, known as SnakeThing, is still out there.</desc>
-    <credits>
-      <director>Theo Love</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Miniseries</category>
-    <icon src="http://dshm.tmsimg.com/assets/p30300336_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260106202900 +0000" stop="20260106211400 +0000">
-    <title lang="en">The Furry Detectives: Unmasking A Monster</title>
-    <sub-title lang="en">Top of the Food Chain</sub-title>
-    <desc lang="en">It wasn't just animals, he was hurting people too; the self-proclaimed Furvengers must battle through legal obstacles and personal attacks as they hunt for SnakeThing.</desc>
-    <credits>
-      <director>Theo Love</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Miniseries</category>
-    <icon src="http://dshm.tmsimg.com/assets/p30300336_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260106211400 +0000" stop="20260106220000 +0000">
-    <title lang="en">The Furry Detectives: Unmasking A Monster</title>
-    <sub-title lang="en">The Animal Within</sub-title>
-    <desc lang="en">A video shared in the Furry community by a person named "Monster" causes a new level of vigilante detective work; clues lead to a remote shipping container in the outback of Australia owned by a well-respected celebrity.</desc>
-    <credits>
-      <director>Theo Love</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Miniseries</category>
-    <icon src="http://dshm.tmsimg.com/assets/p30300336_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260106220000 +0000" stop="20260106224500 +0000">
-    <title lang="en">The Furry Detectives: Unmasking A Monster</title>
-    <sub-title lang="en">Welcome to the Jungle</sub-title>
-    <desc lang="en">When Patch O'Furr is tagged in a mysterious online post, he must face the fact that animal abusers are hiding in plain sight in the Furry Fandom; Furry Detectives comb through evidence and discover one popular Youtuber is a suspect.</desc>
-    <credits>
-      <director>Theo Love</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Miniseries</category>
-    <icon src="http://dshm.tmsimg.com/assets/p30300336_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260106224500 +0000" stop="20260106233000 +0000">
-    <title lang="en">The Furry Detectives: Unmasking A Monster</title>
-    <sub-title lang="en">Predator Becomes Prey</sub-title>
-    <desc lang="en">An online 3D printing group leads to a break in the case and The Furry Detectives get their first arrest; the Zoosadist ringleader, known as SnakeThing, is still out there.</desc>
-    <credits>
-      <director>Theo Love</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Miniseries</category>
-    <icon src="http://dshm.tmsimg.com/assets/p30300336_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260106233000 +0000" stop="20260107001500 +0000">
-    <title lang="en">The Furry Detectives: Unmasking A Monster</title>
-    <sub-title lang="en">Top of the Food Chain</sub-title>
-    <desc lang="en">It wasn't just animals, he was hurting people too; the self-proclaimed Furvengers must battle through legal obstacles and personal attacks as they hunt for SnakeThing.</desc>
-    <credits>
-      <director>Theo Love</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Miniseries</category>
-    <icon src="http://dshm.tmsimg.com/assets/p30300336_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260107001500 +0000" stop="20260107010000 +0000">
-    <title lang="en">The Furry Detectives: Unmasking A Monster</title>
-    <sub-title lang="en">The Animal Within</sub-title>
-    <desc lang="en">A video shared in the Furry community by a person named "Monster" causes a new level of vigilante detective work; clues lead to a remote shipping container in the outback of Australia owned by a well-respected celebrity.</desc>
-    <credits>
-      <director>Theo Love</director>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Miniseries</category>
-    <icon src="http://dshm.tmsimg.com/assets/p30300336_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260107010000 +0000" stop="20260107014800 +0000">
-    <title lang="en">Dating Death</title>
-    <desc lang="en">Rodney Alcala flees Los Angeles in 1968 after the rape and attempted murder of an 8-year-old girl, but after moving to New York under an assumed name, he begins working at a New Hampshire arts camp for children.</desc>
-    <credits>
-      <director>David Harvey</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <icon src="http://dshm.tmsimg.com/assets/p23237434_b_h10_ad.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <previously-shown />  <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260107014800 +0000" stop="20260107023600 +0000">
-    <title lang="en">Dating Death</title>
-    <desc lang="en">After his early release in 1974 from prison, Rodney Alcala's victim count continues to rise as he uses his photography skills to prey on both young women and children.</desc>
-    <credits>
-      <director>David Harvey</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <icon src="http://dshm.tmsimg.com/assets/p23237434_b_h10_ad.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <previously-shown />  <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260107023600 +0000" stop="20260107032400 +0000">
-    <title lang="en">Dating Death</title>
-    <desc lang="en">In 1979 on Huntington Beach, Calif., a girl goes missing and is later found dead in a wooded area; the only lead is a sketch composite that resembles Alcala.</desc>
-    <credits>
-      <director>David Harvey</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <icon src="http://dshm.tmsimg.com/assets/p23237434_b_h10_ad.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <previously-shown />  <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260107032400 +0000" stop="20260107041200 +0000">
-    <title lang="en">Dating Death</title>
-    <desc lang="en">Rodney Alcala flees Los Angeles in 1968 after the rape and attempted murder of an 8-year-old girl, but after moving to New York under an assumed name, he begins working at a New Hampshire arts camp for children.</desc>
-    <credits>
-      <director>David Harvey</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <icon src="http://dshm.tmsimg.com/assets/p23237434_b_h10_ad.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <previously-shown />  <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260107041200 +0000" stop="20260107050000 +0000">
-    <title lang="en">Dating Death</title>
-    <desc lang="en">After his early release in 1974 from prison, Rodney Alcala's victim count continues to rise as he uses his photography skills to prey on both young women and children.</desc>
-    <credits>
-      <director>David Harvey</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <icon src="http://dshm.tmsimg.com/assets/p23237434_b_h10_ad.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <previously-shown />  <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260107050000 +0000" stop="20260107054600 +0000">
-    <title lang="en">Dating Death</title>
-    <desc lang="en">In 1979 on Huntington Beach, Calif., a girl goes missing and is later found dead in a wooded area; the only lead is a sketch composite that resembles Alcala.</desc>
-    <credits>
-      <director>David Harvey</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <icon src="http://dshm.tmsimg.com/assets/p23237434_b_h10_ad.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <previously-shown />  <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-  </programme>
+  <channel id="Tennis.Channel.HD.us2">
+    <icon src="http://dshm.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dshm.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Tennis Channel HD</display-name>
+  </channel>
   <programme channel="AMC+.us2" start="20260107054600 +0000" stop="20260107063100 +0000">
     <title lang="en">The Furry Detectives: Unmasking A Monster</title>
     <sub-title lang="en">Welcome to the Jungle</sub-title>
@@ -6305,55 +5593,1378 @@
       <value>18+</value>
     </rating>
   </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260106073000 +0000" stop="20260106123000 +0000">
-    <title lang="en">Center Court Live</title>
-    <sub-title lang="en">United Cup - Day 5 Group Stage; Brisbane-ATP/WTA, Auckland-WTA &amp; Hong Kong-ATP Early Rounds</sub-title>
-    <desc lang="en">Tennis action from around the world.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dshm.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E7</episode-num>
-    <premiere lang="en" />
+  <programme channel="AMC+.us2" start="20260110063900 +0000" stop="20260110091100 +0000">
+    <title lang="en">The Last Drive-in With Joe Bob Briggs</title>
+    <desc lang="en">Joe Bob Briggs offers up an eclectic pairing of films, from horror classics to cult favorites.</desc>
+    <credits>
+      <actor>John Bloom</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Science fiction</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dshm.tmsimg.com/assets/p29551244_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
   </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260106123000 +0000" stop="20260106203000 +0000">
-    <title lang="en">Center Court</title>
-    <sub-title lang="en">United Cup - Day 5 Group Stage; Brisbane-ATP/WTA, Auckland-WTA &amp; Hong Kong-ATP Early Rounds</sub-title>
-    <desc lang="en">Tennis action from around the world.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dshm.tmsimg.com/assets/p615474_b_h10_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E8</episode-num>
-    <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260106203000 +0000" stop="20260106230000 +0000">
-    <title lang="en">Center Court</title>
-    <sub-title lang="en">United Cup - Day 5 Group Stage; Brisbane-ATP/WTA, Auckland-WTA &amp; Hong Kong-ATP Early Rounds</sub-title>
-    <desc lang="en">Tennis action from around the world.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dshm.tmsimg.com/assets/p615474_b_h10_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E8</episode-num>
-    <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260106230000 +0000" stop="20260106233000 +0000">
-    <title lang="en">Tennis Channel Live</title>
-    <desc lang="en">Tennis stories of the day, detailed analysis and more.</desc>
-    <date>2013</date>
-    <category lang="en">Tennis</category>
-    <icon src="http://dshm.tmsimg.com/assets/p10285580_b_h10_ae.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
+  <programme channel="AMC+.us2" start="20260110091100 +0000" stop="20260110110000 +0000">
+    <title lang="en">V/H/S/99</title>
+    <desc lang="en">A teen's home videos lead to a series of horrifying revelations.</desc>
+    <credits>
+      <actor>Kim Abunuwara</actor>
+      <actor>Duncan Anderson</actor>
+      <actor>Kyle Bales</actor>
+      <director>Flying Lotus</director>
+      <director>Maggie Levin</director>
+      <director>Tyler MacIntyre</director>
+      <director>Johannes Roberts</director>
+      <director>Joseph Winter</director>
+      <director>Vanessa Winter</director>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Horror</category>
+    <icon src="http://dshm.tmsimg.com/assets/p23062376_v_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />  <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A18</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K18</value>
+    </rating>
+    <rating system="映倫">
+      <value>G</value>
+    </rating>
   </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260106233000 +0000" stop="20260107073000 +0000">
-    <title lang="en">Center Court Live</title>
-    <sub-title lang="en">United Cup - Day 6 Quarterfinals &amp; Group Stage; Brisbane-ATP/WTA, Auckland-WTA &amp; Hong Kong-ATP Early Rounds</sub-title>
-    <desc lang="en">Tennis action from around the world.</desc>
-    <date>2026</date>
+  <programme channel="AMC+.us2" start="20260110110000 +0000" stop="20260110114600 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">Date of Death</sub-title>
+    <desc lang="en">Madison struggles to cope as a large number of refugees flood into the hotel, including someone familiar but unexpected.</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+      <director>Christoph Schrewe</director>
+    </credits>
+    <date>2016</date>
     <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dshm.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E8</episode-num>
-    <premiere lang="en" />
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E13</episode-num>
+    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260110114600 +0000" stop="20260110123000 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">Wrath</sub-title>
+    <desc lang="en">New refugees throw off Travis; Nick must decide if he should stay at the Colonia with Luciana or leave.</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+      <director>Stefan Schwartz</director>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E14</episode-num>
+    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K18</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260110123000 +0000" stop="20260110131900 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">North</sub-title>
+    <desc lang="en">When Travis' rage causes unrest at the hotel, Madison has to choose whether or not she will stand by him; Nick becomes leader of the Colonia as Narcos close in.</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+      <director>Andrew Bernstein</director>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E15</episode-num>
+    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260110131900 +0000" stop="20260110140500 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">Monster</sub-title>
+    <desc lang="en">The families flee Los Angeles on Strand's yacht and find yet more danger at sea.</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260110140500 +0000" stop="20260110145200 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">We All Fall Down</sub-title>
+    <desc lang="en">The group seeks shelter with a survivalist family; Madison searches for the family's true motives while Salazar tries to uncover Strand's.</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260110145200 +0000" stop="20260110153800 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">Ouroboros</sub-title>
+    <desc lang="en">Madison confronts Strand about his undisclosed destination; Nick, Alicia and others inspect a plane crash site.</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260110153800 +0000" stop="20260110162500 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">Blood in the Streets</sub-title>
+    <desc lang="en">The group lets a family in distress board the Abigail; Strand's past begins to come to light; Nick looks for an associate of Strand's.</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260110162500 +0000" stop="20260110171000 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">Captive</sub-title>
+    <desc lang="en">Alicia works toward reuniting with her family; Travis comes across a familiar face; Madison and Nick try to save their family against all odds.</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260110171000 +0000" stop="20260110175800 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">Sicut Cervus</sub-title>
+    <desc lang="en">Conflict arises as the Abigail approaches its destination; Chris makes a staggering decision; Nick meets a new maternal figure.</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260110175800 +0000" stop="20260110184400 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">Shiva</sub-title>
+    <desc lang="en">The family faces their biggest test yet; Nick, Madison, Travis and others try to stay close to each other.</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260110184400 +0000" stop="20260110193200 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">Grotesque</sub-title>
+    <desc lang="en">Nick's search for answers leads him into deadly terrain; a dark part of his past is revealed.</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260110193200 +0000" stop="20260110201900 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">Los Muertos</sub-title>
+    <desc lang="en">Madison, Strand and others move forward after the compound falls; Nick gets picked for a dangerous assignment.</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+      <director>Deborah Chow</director>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E9</episode-num>
+    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260110201900 +0000" stop="20260110210500 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">Do Not Disturb</sub-title>
+    <desc lang="en">Travis has a hard time connecting with Chris while looking for shelter; Alicia meets a woman with a bloody past.</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E10</episode-num>
+    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260110210500 +0000" stop="20260110215100 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">Pablo &amp; Jessica</sub-title>
+    <desc lang="en">Alicia and Madison try to bring two competing factions together; Nick uses skills from his past for his new role.</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E11</episode-num>
+    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260110215100 +0000" stop="20260110223700 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">Pillar of Salt</sub-title>
+    <desc lang="en">At the Colonia, Alejandro reveals his darker side; a hotel resident becomes violent and Madison springs into action.</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+      <director>Gerardo Naranjo</director>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E12</episode-num>
+    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260110223700 +0000" stop="20260110232400 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">Date of Death</sub-title>
+    <desc lang="en">Madison struggles to cope as a large number of refugees flood into the hotel, including someone familiar but unexpected.</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+      <director>Christoph Schrewe</director>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E13</episode-num>
+    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260110232400 +0000" stop="20260111001100 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">Wrath</sub-title>
+    <desc lang="en">New refugees throw off Travis; Nick must decide if he should stay at the Colonia with Luciana or leave.</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+      <director>Stefan Schwartz</director>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E14</episode-num>
+    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K18</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260111001100 +0000" stop="20260111010000 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">North</sub-title>
+    <desc lang="en">When Travis' rage causes unrest at the hotel, Madison has to choose whether or not she will stand by him; Nick becomes leader of the Colonia as Narcos close in.</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+      <director>Andrew Bernstein</director>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E15</episode-num>
+    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260111010000 +0000" stop="20260111014600 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">Monster</sub-title>
+    <desc lang="en">The families flee Los Angeles on Strand's yacht and find yet more danger at sea.</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260111014600 +0000" stop="20260111023300 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">We All Fall Down</sub-title>
+    <desc lang="en">The group seeks shelter with a survivalist family; Madison searches for the family's true motives while Salazar tries to uncover Strand's.</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260111023300 +0000" stop="20260111031900 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">Ouroboros</sub-title>
+    <desc lang="en">Madison confronts Strand about his undisclosed destination; Nick, Alicia and others inspect a plane crash site.</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260111031900 +0000" stop="20260111040600 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">Blood in the Streets</sub-title>
+    <desc lang="en">The group lets a family in distress board the Abigail; Strand's past begins to come to light; Nick looks for an associate of Strand's.</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260111040600 +0000" stop="20260111045100 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">Captive</sub-title>
+    <desc lang="en">Alicia works toward reuniting with her family; Travis comes across a familiar face; Madison and Nick try to save their family against all odds.</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260111045100 +0000" stop="20260111053900 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">Sicut Cervus</sub-title>
+    <desc lang="en">Conflict arises as the Abigail approaches its destination; Chris makes a staggering decision; Nick meets a new maternal figure.</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260111053900 +0000" stop="20260111062500 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">Shiva</sub-title>
+    <desc lang="en">The family faces their biggest test yet; Nick, Madison, Travis and others try to stay close to each other.</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dshm.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <previously-shown />  <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
   </programme>
   <programme channel="Tennis.Channel.HD.us2" start="20260107073000 +0000" stop="20260107150000 +0000">
     <title lang="en">Center Court Live</title>
@@ -6503,6 +7114,57 @@
     <category lang="en">Tennis</category>
     <icon src="http://dshm.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">E6</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260110073000 +0000" stop="20260110123000 +0000">
+    <title lang="en">Center Court Live</title>
+    <sub-title lang="en">United Cup - Day 9 Semifinals; Brisbane-ATP/WTA, Auckland-WTA &amp; Hong Kong-ATP Semifinals</sub-title>
+    <desc lang="en">Tennis action from around the world.</desc>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dshm.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E6</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260110123000 +0000" stop="20260110203000 +0000">
+    <title lang="en">Center Court</title>
+    <sub-title lang="en">United Cup - Day 9 Semfinals; Brisbane-ATP/WTA, Auckland-WTA &amp; Hong Kong-ATP Semifinals</sub-title>
+    <desc lang="en">Tennis action from around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dshm.tmsimg.com/assets/p615474_b_h10_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E12</episode-num>
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260110203000 +0000" stop="20260111033000 +0000">
+    <title lang="en">Center Court</title>
+    <sub-title lang="en">United Cup - Day 9 Semfinals; Brisbane-ATP/WTA, Auckland-WTA &amp; Hong Kong-ATP Semifinals</sub-title>
+    <desc lang="en">Tennis action from around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dshm.tmsimg.com/assets/p615474_b_h10_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E12</episode-num>
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260111033000 +0000" stop="20260111040000 +0000">
+    <title lang="en">Tennis Channel Live</title>
+    <desc lang="en">Tennis stories of the day, detailed analysis and more.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dshm.tmsimg.com/assets/p10285580_b_h10_ae.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260111040000 +0000" stop="20260111060000 +0000">
+    <title lang="en">Center Court Live</title>
+    <sub-title lang="en">Auckland-WTA Singles Final</sub-title>
+    <desc lang="en">Tennis action from around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dshm.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E11</episode-num>
     <premiere lang="en" />
   </programme>
   <channel id="MotorRacing.distro">
