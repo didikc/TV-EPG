@@ -5384,587 +5384,18 @@
     <icon src="https://wrc.enhance.diagnal.com/resources/static/logo/wrc.png" />
     <url>http://www.rally.tv</url>
   </channel>
-<channel id="AMC+.us2">
-    <icon src="http://dshm.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dshm.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">AMC+</display-name>
-  </channel>
-  <channel id="Tennis.Channel.HD.us2">
+<channel id="Tennis.Channel.HD.us2">
     <icon src="http://dshm.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
     <icon src="http://dshm.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">Tennis Channel HD</display-name>
   </channel>
-  <programme channel="AMC+.us2" start="20260109053800 +0000" stop="20260109062300 +0000">
-    <title lang="en">The Terror</title>
-    <sub-title lang="en">Infamy: My Perfect World</sub-title>
-    <desc lang="en">The Nakayamas have been torn apart; Chester searches for the person he believes can help, by any means necessary; an outbreak in the community forces Amy to act, though she's caught between doing what she's told and doing what's right.</desc>
-    <credits>
-      <actor>Derek Mio</actor>
-      <actor>Shingo Usami</actor>
-      <actor>Naoko Mori</actor>
-      <director>Meera Menon</director>
-    </credits>
-    <date>2019</date>
-    <category lang="en">Series</category>
-    <category lang="en">Historical drama</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dshm.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E7</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260109062300 +0000" stop="20260109070800 +0000">
-    <title lang="en">The Terror</title>
-    <sub-title lang="en">Infamy: My Sweet Boy</sub-title>
-    <desc lang="en">Chester and Luz have reached a turning point in their relationship; Amy must take matters into her own hands as she's tormented by a powerful nemesis; Chester meets a boy who gives him answers.</desc>
-    <credits>
-      <actor>Derek Mio</actor>
-      <actor>Shingo Usami</actor>
-      <actor>Naoko Mori</actor>
-      <director>Toa Fraser</director>
-    </credits>
-    <date>2019</date>
-    <category lang="en">Series</category>
-    <category lang="en">Historical drama</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dshm.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E8</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260109070800 +0000" stop="20260109075000 +0000">
-    <title lang="en">The Terror</title>
-    <sub-title lang="en">Infamy: Come and Get Me</sub-title>
-    <desc lang="en">The Terminal Islanders return home to find that things have changed since they left; the Nakayamas, still tense from the pain they've inflicted on one another, must come together to battle the spirit that threatens their future.</desc>
-    <credits>
-      <actor>Derek Mio</actor>
-      <actor>Shingo Usami</actor>
-      <actor>Naoko Mori</actor>
-      <director>Frederick E.O. Toye</director>
-    </credits>
-    <date>2019</date>
-    <category lang="en">Series</category>
-    <category lang="en">Historical drama</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dshm.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E9</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260109075000 +0000" stop="20260109083900 +0000">
-    <title lang="en">The Terror</title>
-    <sub-title lang="en">Infamy: Into the Afterlife</sub-title>
-    <desc lang="en">Henry and Asako look to the past to provide answers to their current turmoil; Chester and Luz grapple with their identities in hopes of saving those who are dearest to them; Amy and Yamato-san struggle to once again assimilate into American life.</desc>
-    <credits>
-      <actor>Derek Mio</actor>
-      <actor>Shingo Usami</actor>
-      <actor>Naoko Mori</actor>
-      <director>Frederick E.O. Toye</director>
-    </credits>
-    <date>2019</date>
-    <category lang="en">Series</category>
-    <category lang="en">Historical drama</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dshm.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E10</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260109083900 +0000" stop="20260109093200 +0000">
-    <title lang="en">The Terror</title>
-    <sub-title lang="en">Infamy: A Sparrow in a Swallow's Nest</sub-title>
-    <desc lang="en">In 1941, Chester Nakayama is caught between his insular Japanese-American neighborhood on Terminal Island and his current all-American life; extreme circumstances push his community and personal life to the brink, all while someone watches closely.</desc>
-    <credits>
-      <actor>Derek Mio</actor>
-      <actor>Shingo Usami</actor>
-      <actor>Naoko Mori</actor>
-      <director>Josef Kubota Wladyka</director>
-    </credits>
-    <date>2019</date>
-    <category lang="en">Series</category>
-    <category lang="en">Historical drama</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dshm.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E1</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260109093200 +0000" stop="20260109101700 +0000">
-    <title lang="en">The Terror</title>
-    <sub-title lang="en">Infamy: All the Demons Are Still in Hell</sub-title>
-    <desc lang="en">After Pearl Harbor, the Terminal Islanders are evicted from their homes and must find shelter elsewhere; while Henry, separated from his family, faces injustice at the hands of the government, Chester engages in a paranoid search for answers.</desc>
-    <credits>
-      <actor>Derek Mio</actor>
-      <actor>Shingo Usami</actor>
-      <actor>Naoko Mori</actor>
-      <director>Josef Kubota Wladyka</director>
-    </credits>
-    <date>2019</date>
-    <category lang="en">Series</category>
-    <category lang="en">Historical drama</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dshm.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E2</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260109101700 +0000" stop="20260109110000 +0000">
-    <title lang="en">The Terror</title>
-    <sub-title lang="en">Infamy: Gaman</sub-title>
-    <desc lang="en">As the Terminal Islanders adjust to their new surroundings, Chester tries to provide for his family, while fending off the evil that follows him; Henry reels from the trauma of his imprisonment; Asako sees bad omens; Amy takes up a new job.</desc>
-    <credits>
-      <actor>Derek Mio</actor>
-      <actor>Shingo Usami</actor>
-      <actor>Naoko Mori</actor>
-      <director>Michael Lehmann</director>
-    </credits>
-    <date>2019</date>
-    <category lang="en">Series</category>
-    <category lang="en">Historical drama</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dshm.tmsimg.com/assets/p15107294_b_h8_ad.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E3</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>16</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260109110000 +0000" stop="20260109124500 +0000">
-    <title lang="en">Skinamarink</title>
-    <desc lang="en">Two children wake up in the middle of the night to find their father is missing, and all the windows and doors in their home have vanished.</desc>
-    <credits>
-      <actor>Lucas Paul</actor>
-      <actor>Dali Rose Tetreault</actor>
-      <actor>Ross Paul</actor>
-      <director>Kyle Edward Ball</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Horror</category>
-    <icon src="http://dshm.tmsimg.com/assets/p23640184_v_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="Alberta's Film Classification Board">
-      <value>PG</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="映倫">
-      <value>G</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <star-rating system="TMS">
-      <value>5.0/10</value>
-    </star-rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260109124500 +0000" stop="20260109142900 +0000">
-    <title lang="en">Birth/Rebirth</title>
-    <desc lang="en">A morgue technician successfully reanimates the body of a little girl, but she must harvest biological materials from pregnant women to keep the child breathing. When the girl's mother, a nurse, discovers her baby is alive, the two enter into a deal that forces them both down a dark path.</desc>
-    <credits>
-      <actor>Judy Reyes</actor>
-      <actor>Marin Ireland</actor>
-      <actor>Breeda Wool</actor>
-      <director>Laura Moss</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dshm.tmsimg.com/assets/p24687717_v_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="Motion Picture Association">
-      <value>R</value>
-    </rating>
-    <rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="영상물등급위원회">
-      <value>All</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260109142900 +0000" stop="20260109160800 +0000">
-    <title lang="en">In a Violent Nature</title>
-    <desc lang="en">When a group of teens takes a locket from a collapsed fire tower in the woods, they unwittingly resurrect the rotting corpse of Johnny, a vengeful spirit spurred on by a horrific 60-year-old crime. The undead killer soon embarks on a bloody rampage to retrieve the stolen locket, methodically slaughtering anyone who gets in his way.</desc>
-    <credits>
-      <actor>Ry Barrett</actor>
-      <actor>Andrea Pavlovic</actor>
-      <actor>Cameron Love</actor>
-      <director>Chris Nash</director>
-    </credits>
-    <date>2024</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dshm.tmsimg.com/assets/p26881855_v_h8_ag.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="Alberta's Film Classification Board">
-      <value>18A</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="British Board of Film Classification">
-      <value>18</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>18</value>
-    </rating>
-    <rating system="Consejo de Calificación Cinematográfica">
-      <value>18</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>C</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-    <rating system="映倫">
-      <value>R18+</value>
-    </rating>
-    <star-rating system="TMS">
-      <value>5.0/10</value>
-    </star-rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260109160800 +0000" stop="20260109180500 +0000">
-    <title lang="en">V/H/S/85</title>
-    <desc lang="en">A heart-pounding journey into the grim underbelly of the forgotten '80s through five tales of terror on a taped-over made-for-TV documentary.</desc>
-    <credits>
-      <actor>Jordan Belfi</actor>
-      <actor>Freddy Rodriguez</actor>
-      <actor>James Ransone</actor>
-      <director>David Bruckner</director>
-      <director>Scott Derrickson</director>
-      <director>Gigi Saul Guerrero</director>
-      <director>Natasha Kermani</director>
-      <director>Mike P. Nelson</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dshm.tmsimg.com/assets/p25660621_v_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>C</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K18</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="映倫">
-      <value>R15+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260109180500 +0000" stop="20260109193700 +0000">
-    <title lang="en">Christmas Bloody Christmas</title>
-    <desc lang="en">It's Christmas Eve and fiery record store owner Tori Tooms just wants to get drunk and party, until the robotic Santa Claus at a nearby toy store goes haywire and makes her night more than a little complicated. Santa embarks on a rampant killing spree through the neon-drenched snowscape, ultimately forcing Tori into a blood-splattered battle for survival.</desc>
-    <credits>
-      <actor>Riley Dandy</actor>
-      <actor>Sam Delich</actor>
-      <actor>Jonah Ray</actor>
-      <director>Joe Begos</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Holiday</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dshm.tmsimg.com/assets/p23094870_v_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>18</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Consejo de Calificación Cinematográfica">
-      <value>18</value>
-    </rating>
-    <rating system="영상물등급위원회">
-      <value>15+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260109193700 +0000" stop="20260109210800 +0000">
-    <title lang="en">Christmas Presence</title>
-    <desc lang="en">A Christmas gathering between friends quickly becomes a violent fight for survival.</desc>
-    <credits>
-      <actor>Charlotte Atkinson</actor>
-      <actor>Elsie Bennett</actor>
-      <actor>Lorna Brown</actor>
-      <director>James Edward Cook</director>
-    </credits>
-    <date>2018</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Holiday</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Horror</category>
-    <icon src="http://dshm.tmsimg.com/assets/p16728739_v_h10_aa.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260109210800 +0000" stop="20260109224800 +0000">
-    <title lang="en">Anything for Jackson</title>
-    <desc lang="en">A sinister couple hatch a supernatural scheme to resurrect their dead grandson through a pregnant woman.</desc>
-    <credits>
-      <actor>Sheila McCarthy</actor>
-      <actor>Julian Richings</actor>
-      <actor>Konstantina Mantelos</actor>
-      <director>Justin G. Dyck</director>
-    </credits>
-    <date>2020</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Horror</category>
-    <icon src="http://dshm.tmsimg.com/assets/p18902999_v_h8_ac.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="영상물등급위원회">
-      <value>18+</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260109224800 +0000" stop="20260110003000 +0000">
-    <title lang="en">The Sacrifice Game</title>
-    <desc lang="en">In the 1970s, boarding school students Samantha and Clara stay behind during Christmas break. Things take a deadly turn when a murderous gang arrives at their doorstep, intent on summoning a demon.</desc>
-    <credits>
-      <actor>Mena Massoud</actor>
-      <actor>Olivia Scott Welch</actor>
-      <actor>Chloe Levine</actor>
-      <director>Jenn Wexler</director>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Holiday</category>
-    <category lang="en">Horror</category>
-    <icon src="http://dshm.tmsimg.com/assets/p25763002_v_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260110003000 +0000" stop="20260110020000 +0000">
-    <title lang="en">Get Away</title>
-    <desc lang="en">A remote getaway takes an unexpected turn when a family discovers the island that they're on is inhabited by a serial killer.</desc>
-    <credits>
-      <actor>Nick Frost</actor>
-      <actor>Aisling Bea</actor>
-      <actor>Sebastian Croft</actor>
-      <director>Steffen Haars</director>
-    </credits>
-    <date>2024</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Horror</category>
-    <icon src="http://dshm.tmsimg.com/assets/p28272635_v_h8_ac.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="Motion Picture Association">
-      <value>R</value>
-    </rating>
-    <rating system="Alberta's Film Classification Board">
-      <value>18A</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>18</value>
-    </rating>
-    <rating system="British Board of Film Classification">
-      <value>18</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>18</value>
-    </rating>
-    <rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>18</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="영상물등급위원회">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260110020000 +0000" stop="20260110043400 +0000">
-    <title lang="en">The Last Drive-in With Joe Bob Briggs</title>
-    <desc lang="en">Joe Bob Briggs offers up an eclectic pairing of films, from horror classics to cult favorites.</desc>
-    <credits>
-      <actor>John Bloom</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Science fiction</category>
-    <category lang="en">Thriller</category>
-    <icon src="http://dshm.tmsimg.com/assets/p29551244_b_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-  </programme>
+  <channel id="AMC+.us2">
+    <icon src="http://dshm.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dshm.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">AMC+</display-name>
+  </channel>
   <programme channel="AMC+.us2" start="20260110043400 +0000" stop="20260110063900 +0000">
     <title lang="en">The Last Drive-in With Joe Bob Briggs</title>
     <desc lang="en">Joe Bob Briggs offers up an eclectic pairing of films, from horror classics to cult favorites.</desc>
@@ -9743,55 +9174,555 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260109063000 +0000" stop="20260109123000 +0000">
-    <title lang="en">Center Court Live</title>
-    <sub-title lang="en">United Cup - Day 8 Quarterfinal 4; Brisbane-ATP/WTA, Auckland-WTA &amp; Hong Kong-ATP Quarterfinals</sub-title>
-    <desc lang="en">Tennis action from around the world.</desc>
-    <date>2026</date>
+  <programme channel="AMC+.us2" start="20260113065100 +0000" stop="20260113075200 +0000">
+    <title lang="en">Gangs of London</title>
+    <desc lang="en">Elliot goes after those who have wronged him, but his plan dangerously unravels; Billy makes a shocking discovery.</desc>
+    <credits>
+      <actor>Sope Dirisu</actor>
+      <actor>Joe Cole</actor>
+      <actor>Colm Meaney</actor>
+      <director>Corin Hardy</director>
+    </credits>
+    <date>2022</date>
     <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dshm.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E10</episode-num>
-    <premiere lang="en" />
+    <category lang="en">Crime drama</category>
+    <icon src="http://dshm.tmsimg.com/assets/p18172419_b_h8_am.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>R 18+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>18</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>18</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
   </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260109123000 +0000" stop="20260109203000 +0000">
-    <title lang="en">Center Court</title>
-    <sub-title lang="en">United Cup - Day 8 Quarterfinal 4; Brisbane-ATP/WTA, Auckland-WTA &amp; Hong Kong-ATP Quarterfinals</sub-title>
-    <desc lang="en">Tennis action from around the world.</desc>
-    <date>2026</date>
+  <programme channel="AMC+.us2" start="20260113075200 +0000" stop="20260113085400 +0000">
+    <title lang="en">Gangs of London</title>
+    <desc lang="en">Elliot's conflict reaches an exhilarating dénouement; Shannon makes a grasp for power; Marian stands to lose everything; Koba faces his biggest threat yet as parties battle for control of London.</desc>
+    <credits>
+      <actor>Sope Dirisu</actor>
+      <actor>Joe Cole</actor>
+      <actor>Colm Meaney</actor>
+      <director>Corin Hardy</director>
+    </credits>
+    <date>2022</date>
     <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dshm.tmsimg.com/assets/p615474_b_h10_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E11</episode-num>
-    <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260109203000 +0000" stop="20260109230000 +0000">
-    <title lang="en">Center Court</title>
-    <sub-title lang="en">United Cup - Day 8 Quarterfinal 4; Brisbane-ATP/WTA, Auckland-WTA &amp; Hong Kong-ATP Quarterfinals</sub-title>
-    <desc lang="en">Tennis action from around the world.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dshm.tmsimg.com/assets/p615474_b_h10_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E11</episode-num>
-    <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260109230000 +0000" stop="20260109233000 +0000">
-    <title lang="en">Tennis Channel Live</title>
-    <desc lang="en">Tennis stories of the day, detailed analysis and more.</desc>
-    <date>2013</date>
-    <category lang="en">Tennis</category>
-    <icon src="http://dshm.tmsimg.com/assets/p10285580_b_h10_ae.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
+    <category lang="en">Crime drama</category>
+    <icon src="http://dshm.tmsimg.com/assets/p18172419_b_h8_am.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>R 18+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>18</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>18</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
   </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260109233000 +0000" stop="20260110073000 +0000">
-    <title lang="en">Center Court Live</title>
-    <sub-title lang="en">United Cup - Day 9 Semifinals; Brisbane-ATP/WTA, Auckland-WTA &amp; Hong Kong-ATP Semifinals</sub-title>
-    <desc lang="en">Tennis action from around the world.</desc>
+  <programme channel="AMC+.us2" start="20260113085400 +0000" stop="20260113100200 +0000">
+    <title lang="en">Gangs of London</title>
+    <desc lang="en">One year after the death of Sean Wallace, the map of London has been redrawn and there is a new brutal ruling force in power.</desc>
+    <credits>
+      <actor>Sope Dirisu</actor>
+      <actor>Joe Cole</actor>
+      <actor>Colm Meaney</actor>
+      <director>Corin Hardy</director>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dshm.tmsimg.com/assets/p18172419_b_h8_am.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>R 18+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>18</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>18</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260113100200 +0000" stop="20260113110000 +0000">
+    <title lang="en">Gangs of London</title>
+    <desc lang="en">Billy Wallace is lured back to London to seek revenge on Elliot; as more of Koba's associates are killed, he tightens the screws to stamp out rebellion.</desc>
+    <credits>
+      <actor>Sope Dirisu</actor>
+      <actor>Joe Cole</actor>
+      <actor>Colm Meaney</actor>
+      <director>Corin Hardy</director>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dshm.tmsimg.com/assets/p18172419_b_h8_am.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>R 18+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>18</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>18</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260113110000 +0000" stop="20260113114500 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">Citizen Detective: The Mays Family</sub-title>
+    <desc lang="en">A young mother is found unresponsive in bed, and her cause of death is determined to be an accidental heroin overdose; but her family questions everything about the circumstances around her death, so they launch their own investigation.</desc>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dshm.tmsimg.com/assets/p20427808_b_h8_ao.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E31</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260113114500 +0000" stop="20260113123000 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">Citizen Detective: Rebekah Heath</sub-title>
+    <desc lang="en">A mystery that plagued law enforcement for over twenty years: four unidentified bodies found inside barrels in the woods; one woman searching for answers from her own troubled past sets herself on a journey to give the victims back their names.</desc>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dshm.tmsimg.com/assets/p20427808_b_h8_ao.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E32</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260113123000 +0000" stop="20260113131500 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">Citizen Detective: Deb &amp; Judy</sub-title>
+    <desc lang="en">A young man leaves home for the corner store, but dies on a rainy sidewalk just down the street; bystanders claim that he fell off of his bike, but his mom and sister don't buy it. They hit the streets to find answers.</desc>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dshm.tmsimg.com/assets/p20427808_b_h8_ao.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E33</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260113131500 +0000" stop="20260113140000 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">Citizen Detective: John Allore</sub-title>
+    <desc lang="en">When a college student was found dead in rural Quebec, police refused to call it a murder; but years later, her brother continues his own investigation into her death; on the eve of a trip to return to the scene of the crime, tragedy strikes again.</desc>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Documentary</category>
+    <icon src="http://dshm.tmsimg.com/assets/p20427808_b_h8_ao.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E34</episode-num>
+    <previously-shown /></programme>
+  <programme channel="AMC+.us2" start="20260113140000 +0000" stop="20260113144500 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">Citizen Detective: Lisa Coppel</sub-title>
+    <desc lang="en">A young girl's life was thrown into chaos when her single mother died by a gunshot wound in their remote mountain home; the journey for the truth would be long and arduous, and it would be thirty years until justice was finally served.</desc>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Documentary</category>
+    <icon src="http://dshm.tmsimg.com/assets/p20427808_b_h8_ao.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E35</episode-num>
+    <previously-shown /></programme>
+  <programme channel="AMC+.us2" start="20260113144500 +0000" stop="20260113153000 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">Citizen Detective: Josh Hallmark</sub-title>
+    <desc lang="en">A young man whose childhood was marked by tragedy learns of a relatively unknown serial killer, and finds himself thinking about unidentified victims; it isn't long before that pursuit becomes a full-time job... and identifying victims an obsession.</desc>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Documentary</category>
+    <icon src="http://dshm.tmsimg.com/assets/p20427808_b_h8_ao.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E36</episode-num>
+    <previously-shown /></programme>
+  <programme channel="AMC+.us2" start="20260113153000 +0000" stop="20260113161500 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">Citizen Detective: The Mays Family</sub-title>
+    <desc lang="en">A young mother is found unresponsive in bed, and her cause of death is determined to be an accidental heroin overdose; but her family questions everything about the circumstances around her death, so they launch their own investigation.</desc>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dshm.tmsimg.com/assets/p20427808_b_h8_ao.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E31</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260113161500 +0000" stop="20260113170000 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">Citizen Detective: Rebekah Heath</sub-title>
+    <desc lang="en">A mystery that plagued law enforcement for over twenty years: four unidentified bodies found inside barrels in the woods; one woman searching for answers from her own troubled past sets herself on a journey to give the victims back their names.</desc>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dshm.tmsimg.com/assets/p20427808_b_h8_ao.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E32</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260113170000 +0000" stop="20260113174500 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">Citizen Detective: Deb &amp; Judy</sub-title>
+    <desc lang="en">A young man leaves home for the corner store, but dies on a rainy sidewalk just down the street; bystanders claim that he fell off of his bike, but his mom and sister don't buy it. They hit the streets to find answers.</desc>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dshm.tmsimg.com/assets/p20427808_b_h8_ao.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E33</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260113174500 +0000" stop="20260113183000 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">Citizen Detective: John Allore</sub-title>
+    <desc lang="en">When a college student was found dead in rural Quebec, police refused to call it a murder; but years later, her brother continues his own investigation into her death; on the eve of a trip to return to the scene of the crime, tragedy strikes again.</desc>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Documentary</category>
+    <icon src="http://dshm.tmsimg.com/assets/p20427808_b_h8_ao.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E34</episode-num>
+    <previously-shown /></programme>
+  <programme channel="AMC+.us2" start="20260113183000 +0000" stop="20260113191500 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">Citizen Detective: Lisa Coppel</sub-title>
+    <desc lang="en">A young girl's life was thrown into chaos when her single mother died by a gunshot wound in their remote mountain home; the journey for the truth would be long and arduous, and it would be thirty years until justice was finally served.</desc>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Documentary</category>
+    <icon src="http://dshm.tmsimg.com/assets/p20427808_b_h8_ao.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E35</episode-num>
+    <previously-shown /></programme>
+  <programme channel="AMC+.us2" start="20260113191500 +0000" stop="20260113200000 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">Citizen Detective: Josh Hallmark</sub-title>
+    <desc lang="en">A young man whose childhood was marked by tragedy learns of a relatively unknown serial killer, and finds himself thinking about unidentified victims; it isn't long before that pursuit becomes a full-time job... and identifying victims an obsession.</desc>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Documentary</category>
+    <icon src="http://dshm.tmsimg.com/assets/p20427808_b_h8_ao.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E36</episode-num>
+    <previously-shown /></programme>
+  <programme channel="AMC+.us2" start="20260113200000 +0000" stop="20260113205000 +0000">
+    <title lang="en">The Hunt For the Chameleon Killer</title>
+    <desc lang="en">The global hunt for 'The Chameleon Killer,' Elaine Parent, wanted for the 1990 murder of 34-year-old Beverly McGowan; when a body is discovered in a Florida canal, law enforcement pieces together a timeline of the victim's final days.</desc>
     <date>2024</date>
     <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dshm.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E6</episode-num>
-    <premiere lang="en" />
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Miniseries</category>
+    <icon src="http://dshm.tmsimg.com/assets/p28106388_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />  <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260113205000 +0000" stop="20260113214000 +0000">
+    <title lang="en">The Hunt For the Chameleon Killer</title>
+    <desc lang="en">A case of mistaken identity leads to the wrong woman being summoned to court; law enforcement begins to piece together the back story of the Chameleon Killer and uncover a string of stolen identities.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Miniseries</category>
+    <icon src="http://dshm.tmsimg.com/assets/p28106388_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260113214000 +0000" stop="20260113223000 +0000">
+    <title lang="en">The Hunt For the Chameleon Killer</title>
+    <desc lang="en">When the police follow up on a tip-off, the Chameleon Killer manages to slip through their grasp; it isn't long before another tip-off leads the police right to her doorstep.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Miniseries</category>
+    <icon src="http://dshm.tmsimg.com/assets/p28106388_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown />  <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260113223000 +0000" stop="20260113232000 +0000">
+    <title lang="en">The Hunt For the Chameleon Killer</title>
+    <desc lang="en">The global hunt for 'The Chameleon Killer,' Elaine Parent, wanted for the 1990 murder of 34-year-old Beverly McGowan; when a body is discovered in a Florida canal, law enforcement pieces together a timeline of the victim's final days.</desc>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Miniseries</category>
+    <icon src="http://dshm.tmsimg.com/assets/p28106388_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />  <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260113232000 +0000" stop="20260114001000 +0000">
+    <title lang="en">The Hunt For the Chameleon Killer</title>
+    <desc lang="en">A case of mistaken identity leads to the wrong woman being summoned to court; law enforcement begins to piece together the back story of the Chameleon Killer and uncover a string of stolen identities.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Miniseries</category>
+    <icon src="http://dshm.tmsimg.com/assets/p28106388_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <previously-shown />  <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260114001000 +0000" stop="20260114010000 +0000">
+    <title lang="en">The Hunt For the Chameleon Killer</title>
+    <desc lang="en">When the police follow up on a tip-off, the Chameleon Killer manages to slip through their grasp; it isn't long before another tip-off leads the police right to her doorstep.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Miniseries</category>
+    <icon src="http://dshm.tmsimg.com/assets/p28106388_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown />  <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260114010000 +0000" stop="20260114014600 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">Citizen Detective: The Mays Family</sub-title>
+    <desc lang="en">A young mother is found unresponsive in bed, and her cause of death is determined to be an accidental heroin overdose; but her family questions everything about the circumstances around her death, so they launch their own investigation.</desc>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dshm.tmsimg.com/assets/p20427808_b_h8_ao.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E31</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260114014600 +0000" stop="20260114023100 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">Citizen Detective: Rebekah Heath</sub-title>
+    <desc lang="en">A mystery that plagued law enforcement for over twenty years: four unidentified bodies found inside barrels in the woods; one woman searching for answers from her own troubled past sets herself on a journey to give the victims back their names.</desc>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dshm.tmsimg.com/assets/p20427808_b_h8_ao.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E32</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260114023100 +0000" stop="20260114031700 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">Citizen Detective: Deb &amp; Judy</sub-title>
+    <desc lang="en">A young man leaves home for the corner store, but dies on a rainy sidewalk just down the street; bystanders claim that he fell off of his bike, but his mom and sister don't buy it. They hit the streets to find answers.</desc>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <icon src="http://dshm.tmsimg.com/assets/p20427808_b_h8_ao.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E33</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260114031700 +0000" stop="20260114040300 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">Citizen Detective: John Allore</sub-title>
+    <desc lang="en">When a college student was found dead in rural Quebec, police refused to call it a murder; but years later, her brother continues his own investigation into her death; on the eve of a trip to return to the scene of the crime, tragedy strikes again.</desc>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Documentary</category>
+    <icon src="http://dshm.tmsimg.com/assets/p20427808_b_h8_ao.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E34</episode-num>
+    <previously-shown /></programme>
+  <programme channel="AMC+.us2" start="20260114040300 +0000" stop="20260114044900 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">Citizen Detective: Lisa Coppel</sub-title>
+    <desc lang="en">A young girl's life was thrown into chaos when her single mother died by a gunshot wound in their remote mountain home; the journey for the truth would be long and arduous, and it would be thirty years until justice was finally served.</desc>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Documentary</category>
+    <icon src="http://dshm.tmsimg.com/assets/p20427808_b_h8_ao.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E35</episode-num>
+    <previously-shown /></programme>
+  <programme channel="AMC+.us2" start="20260114044900 +0000" stop="20260114053700 +0000">
+    <title lang="en">True Crime Story</title>
+    <sub-title lang="en">Citizen Detective: Josh Hallmark</sub-title>
+    <desc lang="en">A young man whose childhood was marked by tragedy learns of a relatively unknown serial killer, and finds himself thinking about unidentified victims; it isn't long before that pursuit becomes a full-time job... and identifying victims an obsession.</desc>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Documentary</category>
+    <icon src="http://dshm.tmsimg.com/assets/p20427808_b_h8_ao.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E36</episode-num>
+    <previously-shown /></programme>
+  <programme channel="AMC+.us2" start="20260114053700 +0000" stop="20260114062700 +0000">
+    <title lang="en">The Hunt For the Chameleon Killer</title>
+    <desc lang="en">The global hunt for 'The Chameleon Killer,' Elaine Parent, wanted for the 1990 murder of 34-year-old Beverly McGowan; when a body is discovered in a Florida canal, law enforcement pieces together a timeline of the victim's final days.</desc>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Miniseries</category>
+    <icon src="http://dshm.tmsimg.com/assets/p28106388_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <previously-shown />  <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>PG</value>
+    </rating>
   </programme>
   <programme channel="Tennis.Channel.HD.us2" start="20260110073000 +0000" stop="20260110123000 +0000">
     <title lang="en">Center Court Live</title>
@@ -9952,6 +9883,56 @@
     <category lang="en">Tennis</category>
     <icon src="http://dshm.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">E14</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260113063000 +0000" stop="20260113120000 +0000">
+    <title lang="en">Center Court Live</title>
+    <sub-title lang="en">Adelaide-ATP/WTA, Auckland-ATP &amp; Hobart-WTA Early Rounds</sub-title>
+    <desc lang="en">Tennis action from around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dshm.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E14</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260113120000 +0000" stop="20260113200000 +0000">
+    <title lang="en">Center Court</title>
+    <sub-title lang="en">Adelaide-ATP/WTA, Auckland-ATP &amp; Hobart-WTA Early Rounds</sub-title>
+    <desc lang="en">Tennis action from around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dshm.tmsimg.com/assets/p615474_b_h10_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E15</episode-num>
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260113200000 +0000" stop="20260113220000 +0000">
+    <title lang="en">Center Court</title>
+    <sub-title lang="en">Adelaide-ATP/WTA, Auckland-ATP &amp; Hobart-WTA Early Rounds</sub-title>
+    <desc lang="en">Tennis action from around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dshm.tmsimg.com/assets/p615474_b_h10_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E15</episode-num>
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260113220000 +0000" stop="20260113223000 +0000">
+    <title lang="en">Tennis Channel Live</title>
+    <desc lang="en">Tennis stories of the day, detailed analysis and more.</desc>
+    <date>2013</date>
+    <category lang="en">Tennis</category>
+    <icon src="http://dshm.tmsimg.com/assets/p10285580_b_h10_ae.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260113223000 +0000" stop="20260114063000 +0000">
+    <title lang="en">Center Court Live</title>
+    <sub-title lang="en">Adelaide-ATP/WTA, Auckland-ATP &amp; Hobart-WTA Early Rounds</sub-title>
+    <desc lang="en">Tennis action from around the world.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dshm.tmsimg.com/assets/p21676880_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E15</episode-num>
     <premiere lang="en" />
   </programme>
   <channel id="MotorRacing.distro">
