@@ -3373,797 +3373,18 @@
     <icon src="https://wrc.enhance.diagnal.com/resources/static/logo/wrc.png" />
     <url>http://www.rally.tv</url>
   </channel>
-<channel id="AMC+.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">AMC+</display-name>
-  </channel>
-  <channel id="Tennis.Channel.HD.us2">
+<channel id="Tennis.Channel.HD.us2">
     <icon src="http://dtil.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
     <icon src="http://dtil.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">Tennis Channel HD</display-name>
   </channel>
-  <programme channel="AMC+.us2" start="20260908045600 +0000" stop="20260908054700 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Genesis</sub-title>
-    <desc lang="en">Maggie and Negan find themselves in different circumstances, wrestling with their purposes.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-      <director>Lauren Wolkstein</director>
-      <director>Michael E. Satrazemis</director>
-      <director>Gandja Monteiro</director>
-      <director>Sharat Raju</director>
-      <director>Sylvain White</director>
-      <director>Daisy von Scherler Mayer</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E6</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260908054700 +0000" stop="20260908063400 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Hourglass</sub-title>
-    <desc lang="en">As Negan faces his fate, Maggie pleads with him to save the community.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E7</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260908063400 +0000" stop="20260908072700 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Trillium</sub-title>
-    <desc lang="en">Maggie and Negan are caught in a treacherous situation that challenges their newfound alliance.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-      <director>Sharat Raju</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E1</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260908072700 +0000" stop="20260908081600 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Haven</sub-title>
-    <desc lang="en">Maggie and Negan deal with old enemies and confront new challenges.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-      <director>Sharat Raju</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E2</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260908081600 +0000" stop="20260908085900 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Emigrants</sub-title>
-    <desc lang="en">Maggie, Negan and their new community receive an unexpected overflow of survivors.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-      <director>Daisy von Scherler Mayer</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E3</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260908085900 +0000" stop="20260908094300 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Found/Lost</sub-title>
-    <desc lang="en">Maggie and Luis look for valuable resources, while Negan and Renata protect the city.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E4</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260908094300 +0000" stop="20260908102700 +0000">
-    <title lang="en">The Walking Dead: Dead City</title>
-    <sub-title lang="en">Imperialis</sub-title>
-    <desc lang="en">Maggie, Negan, Dillard and Renata go on a hunt to resupply their dwindling resources.</desc>
-    <credits>
-      <actor>Lauren Cohan</actor>
-      <actor>Jeffrey Dean Morgan</actor>
-      <actor>Gaius Charles</actor>
-      <director>Sylvain White</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E5</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-16</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260908102700 +0000" stop="20260908111100 +0000">
-    <title lang="en">True Crime Story</title>
-    <sub-title lang="en">Smugshot: Aussie Abduction</sub-title>
-    <desc lang="en">A romantic picnic quickly turns into a nightmare when a young couple goes missing; clues point to a satanic cult, but an even more absurd motive is revealed, leaving them naked and wandering the Australian outback with a slim chance of survival.</desc>
-    <credits>
-      <actor>Hilarie Burton Morgan</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <icon src="http://dtil.tmsimg.com/assets/p20427808_b_h8_aq.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E7</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260908111100 +0000" stop="20260908115500 +0000">
-    <title lang="en">True Crime Story</title>
-    <sub-title lang="en">Smugshot: The Dali Heist</sub-title>
-    <desc lang="en">Gifting a priceless piece of artwork to a notorious island full of criminals sounds like just another one of Salvador Dalí's infamous stunts, but four decades later, someone finally got up the nerve to steal it from New York's Rikers Island.</desc>
-    <credits>
-      <actor>Hilarie Burton Morgan</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <icon src="http://dtil.tmsimg.com/assets/p20427808_b_h8_aq.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E8</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260908115500 +0000" stop="20260908123900 +0000">
-    <title lang="en">True Crime Story: Smugshot</title>
-    <sub-title lang="en">The Getaway</sub-title>
-    <desc lang="en">When Anthony Cursio decided to rob a bank, he knew he could get away with it; his meticulous planning and surprising getaway confound police, but there is one thing he couldn't account for.</desc>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Documentary</category>
-    <icon src="http://dtil.tmsimg.com/assets/p30722291_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E3</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260908123900 +0000" stop="20260908132300 +0000">
-    <title lang="en">True Crime Story: Smugshot</title>
-    <sub-title lang="en">Swagg Man</sub-title>
-    <desc lang="en">Rapper, entrepreneur, or just another social media scammer?; depends who you ask; French-Tunisian internet celebrity Swagg Man has made his way in and out of headlines and prisons on multiple continents, but his enemies are about to catch up to him.</desc>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Documentary</category>
-    <icon src="http://dtil.tmsimg.com/assets/p30722291_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E4</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260908132300 +0000" stop="20260908140700 +0000">
-    <title lang="en">True Crime Story: Smugshot</title>
-    <sub-title lang="en">Only in Malibu</sub-title>
-    <desc lang="en">A young couple and a retired doctor randomly meet, quickly bonding over spirituality and wellness; they move in together within a week, each of them having something to gain; within a year, one of them is dead and millions of dollars are at stake.</desc>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Documentary</category>
-    <icon src="http://dtil.tmsimg.com/assets/p30722291_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E5</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260908140700 +0000" stop="20260908145100 +0000">
-    <title lang="en">True Crime Story: Smugshot</title>
-    <sub-title lang="en">Bad Habit</sub-title>
-    <desc lang="en">A true-crime, documentary, comedy MUSICAL about a Catholic school that never seems to raise enough money; the cash just keeps disappearing until the parents take things into their own hands, discovering a cover-up by the most unlikely criminal.</desc>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Documentary</category>
-    <icon src="http://dtil.tmsimg.com/assets/p30722291_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E6</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260908145100 +0000" stop="20260908153500 +0000">
-    <title lang="en">True Crime Story</title>
-    <sub-title lang="en">Smugshot: Aussie Abduction</sub-title>
-    <desc lang="en">A romantic picnic quickly turns into a nightmare when a young couple goes missing; clues point to a satanic cult, but an even more absurd motive is revealed, leaving them naked and wandering the Australian outback with a slim chance of survival.</desc>
-    <credits>
-      <actor>Hilarie Burton Morgan</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <icon src="http://dtil.tmsimg.com/assets/p20427808_b_h8_aq.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E7</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260908153500 +0000" stop="20260908161900 +0000">
-    <title lang="en">True Crime Story</title>
-    <sub-title lang="en">Smugshot: The Dali Heist</sub-title>
-    <desc lang="en">Gifting a priceless piece of artwork to a notorious island full of criminals sounds like just another one of Salvador Dalí's infamous stunts, but four decades later, someone finally got up the nerve to steal it from New York's Rikers Island.</desc>
-    <credits>
-      <actor>Hilarie Burton Morgan</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <icon src="http://dtil.tmsimg.com/assets/p20427808_b_h8_aq.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E8</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260908161900 +0000" stop="20260908170300 +0000">
-    <title lang="en">True Crime Story: Smugshot</title>
-    <sub-title lang="en">The Getaway</sub-title>
-    <desc lang="en">When Anthony Cursio decided to rob a bank, he knew he could get away with it; his meticulous planning and surprising getaway confound police, but there is one thing he couldn't account for.</desc>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Documentary</category>
-    <icon src="http://dtil.tmsimg.com/assets/p30722291_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E3</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260908170300 +0000" stop="20260908174700 +0000">
-    <title lang="en">True Crime Story: Smugshot</title>
-    <sub-title lang="en">Swagg Man</sub-title>
-    <desc lang="en">Rapper, entrepreneur, or just another social media scammer?; depends who you ask; French-Tunisian internet celebrity Swagg Man has made his way in and out of headlines and prisons on multiple continents, but his enemies are about to catch up to him.</desc>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Documentary</category>
-    <icon src="http://dtil.tmsimg.com/assets/p30722291_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E4</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260908174700 +0000" stop="20260908183100 +0000">
-    <title lang="en">True Crime Story: Smugshot</title>
-    <sub-title lang="en">Only in Malibu</sub-title>
-    <desc lang="en">A young couple and a retired doctor randomly meet, quickly bonding over spirituality and wellness; they move in together within a week, each of them having something to gain; within a year, one of them is dead and millions of dollars are at stake.</desc>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Documentary</category>
-    <icon src="http://dtil.tmsimg.com/assets/p30722291_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E5</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260908183100 +0000" stop="20260908191500 +0000">
-    <title lang="en">True Crime Story: Smugshot</title>
-    <sub-title lang="en">Bad Habit</sub-title>
-    <desc lang="en">A true-crime, documentary, comedy MUSICAL about a Catholic school that never seems to raise enough money; the cash just keeps disappearing until the parents take things into their own hands, discovering a cover-up by the most unlikely criminal.</desc>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Documentary</category>
-    <icon src="http://dtil.tmsimg.com/assets/p30722291_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E6</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260908191500 +0000" stop="20260908195900 +0000">
-    <title lang="en">True Crime Story</title>
-    <sub-title lang="en">Smugshot: Aussie Abduction</sub-title>
-    <desc lang="en">A romantic picnic quickly turns into a nightmare when a young couple goes missing; clues point to a satanic cult, but an even more absurd motive is revealed, leaving them naked and wandering the Australian outback with a slim chance of survival.</desc>
-    <credits>
-      <actor>Hilarie Burton Morgan</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <icon src="http://dtil.tmsimg.com/assets/p20427808_b_h8_aq.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E7</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260908195900 +0000" stop="20260908204300 +0000">
-    <title lang="en">True Crime Story</title>
-    <sub-title lang="en">Smugshot: The Dali Heist</sub-title>
-    <desc lang="en">Gifting a priceless piece of artwork to a notorious island full of criminals sounds like just another one of Salvador Dalí's infamous stunts, but four decades later, someone finally got up the nerve to steal it from New York's Rikers Island.</desc>
-    <credits>
-      <actor>Hilarie Burton Morgan</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <icon src="http://dtil.tmsimg.com/assets/p20427808_b_h8_aq.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E8</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260908204300 +0000" stop="20260908212700 +0000">
-    <title lang="en">True Crime Story: Smugshot</title>
-    <sub-title lang="en">The Getaway</sub-title>
-    <desc lang="en">When Anthony Cursio decided to rob a bank, he knew he could get away with it; his meticulous planning and surprising getaway confound police, but there is one thing he couldn't account for.</desc>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Documentary</category>
-    <icon src="http://dtil.tmsimg.com/assets/p30722291_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E3</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260908212700 +0000" stop="20260908221100 +0000">
-    <title lang="en">True Crime Story: Smugshot</title>
-    <sub-title lang="en">Swagg Man</sub-title>
-    <desc lang="en">Rapper, entrepreneur, or just another social media scammer?; depends who you ask; French-Tunisian internet celebrity Swagg Man has made his way in and out of headlines and prisons on multiple continents, but his enemies are about to catch up to him.</desc>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Documentary</category>
-    <icon src="http://dtil.tmsimg.com/assets/p30722291_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E4</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260908221100 +0000" stop="20260908225500 +0000">
-    <title lang="en">True Crime Story: Smugshot</title>
-    <sub-title lang="en">Only in Malibu</sub-title>
-    <desc lang="en">A young couple and a retired doctor randomly meet, quickly bonding over spirituality and wellness; they move in together within a week, each of them having something to gain; within a year, one of them is dead and millions of dollars are at stake.</desc>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Documentary</category>
-    <icon src="http://dtil.tmsimg.com/assets/p30722291_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E5</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260908225500 +0000" stop="20260908233900 +0000">
-    <title lang="en">True Crime Story: Smugshot</title>
-    <sub-title lang="en">Bad Habit</sub-title>
-    <desc lang="en">A true-crime, documentary, comedy MUSICAL about a Catholic school that never seems to raise enough money; the cash just keeps disappearing until the parents take things into their own hands, discovering a cover-up by the most unlikely criminal.</desc>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Documentary</category>
-    <icon src="http://dtil.tmsimg.com/assets/p30722291_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E6</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260908233900 +0000" stop="20260909002300 +0000">
-    <title lang="en">True Crime Story</title>
-    <sub-title lang="en">Smugshot: Aussie Abduction</sub-title>
-    <desc lang="en">A romantic picnic quickly turns into a nightmare when a young couple goes missing; clues point to a satanic cult, but an even more absurd motive is revealed, leaving them naked and wandering the Australian outback with a slim chance of survival.</desc>
-    <credits>
-      <actor>Hilarie Burton Morgan</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <icon src="http://dtil.tmsimg.com/assets/p20427808_b_h8_aq.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E7</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260909002300 +0000" stop="20260909010700 +0000">
-    <title lang="en">True Crime Story</title>
-    <sub-title lang="en">Smugshot: The Dali Heist</sub-title>
-    <desc lang="en">Gifting a priceless piece of artwork to a notorious island full of criminals sounds like just another one of Salvador Dalí's infamous stunts, but four decades later, someone finally got up the nerve to steal it from New York's Rikers Island.</desc>
-    <credits>
-      <actor>Hilarie Burton Morgan</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <icon src="http://dtil.tmsimg.com/assets/p20427808_b_h8_aq.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E8</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260909010700 +0000" stop="20260909015100 +0000">
-    <title lang="en">True Crime Story: Smugshot</title>
-    <sub-title lang="en">The Getaway</sub-title>
-    <desc lang="en">When Anthony Cursio decided to rob a bank, he knew he could get away with it; his meticulous planning and surprising getaway confound police, but there is one thing he couldn't account for.</desc>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Documentary</category>
-    <icon src="http://dtil.tmsimg.com/assets/p30722291_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E3</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260909015100 +0000" stop="20260909023500 +0000">
-    <title lang="en">True Crime Story: Smugshot</title>
-    <sub-title lang="en">Swagg Man</sub-title>
-    <desc lang="en">Rapper, entrepreneur, or just another social media scammer?; depends who you ask; French-Tunisian internet celebrity Swagg Man has made his way in and out of headlines and prisons on multiple continents, but his enemies are about to catch up to him.</desc>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Documentary</category>
-    <icon src="http://dtil.tmsimg.com/assets/p30722291_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E4</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260909023500 +0000" stop="20260909031900 +0000">
-    <title lang="en">True Crime Story: Smugshot</title>
-    <sub-title lang="en">Only in Malibu</sub-title>
-    <desc lang="en">A young couple and a retired doctor randomly meet, quickly bonding over spirituality and wellness; they move in together within a week, each of them having something to gain; within a year, one of them is dead and millions of dollars are at stake.</desc>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Documentary</category>
-    <icon src="http://dtil.tmsimg.com/assets/p30722291_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E5</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260909031900 +0000" stop="20260909040300 +0000">
-    <title lang="en">True Crime Story: Smugshot</title>
-    <sub-title lang="en">Bad Habit</sub-title>
-    <desc lang="en">A true-crime, documentary, comedy MUSICAL about a Catholic school that never seems to raise enough money; the cash just keeps disappearing until the parents take things into their own hands, discovering a cover-up by the most unlikely criminal.</desc>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Documentary</category>
-    <icon src="http://dtil.tmsimg.com/assets/p30722291_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E6</episode-num>
-    <previously-shown />  <rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="AMC+.us2" start="20260909040300 +0000" stop="20260909044700 +0000">
-    <title lang="en">True Crime Story</title>
-    <sub-title lang="en">Smugshot: Aussie Abduction</sub-title>
-    <desc lang="en">A romantic picnic quickly turns into a nightmare when a young couple goes missing; clues point to a satanic cult, but an even more absurd motive is revealed, leaving them naked and wandering the Australian outback with a slim chance of survival.</desc>
-    <credits>
-      <actor>Hilarie Burton Morgan</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <icon src="http://dtil.tmsimg.com/assets/p20427808_b_h8_aq.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E7</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-  </programme>
+  <channel id="AMC+.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">AMC+</display-name>
+  </channel>
   <programme channel="AMC+.us2" start="20260909044700 +0000" stop="20260909053100 +0000">
     <title lang="en">True Crime Story</title>
     <sub-title lang="en">Smugshot: The Dali Heist</sub-title>
@@ -5784,90 +5005,1125 @@
       <value>15</value>
     </rating>
   </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260908040000 +0000" stop="20260908100000 +0000">
-    <title lang="en">US Open ENCORE</title>
-    <desc lang="en">Revisit action from the U.S. Open tennis tournament.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-    <category lang="en">Classic Sport Event</category>
-    <icon src="http://dtil.tmsimg.com/assets/p21247676_b_h8_ab.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260908100000 +0000" stop="20260908130000 +0000">
-    <title lang="en">US Open ENCORE</title>
-    <desc lang="en">Revisit action from the U.S. Open tennis tournament.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-    <category lang="en">Classic Sport Event</category>
-    <icon src="http://dtil.tmsimg.com/assets/p21247676_b_h8_ab.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260908130000 +0000" stop="20260908153000 +0000">
-    <title lang="en">Tennis Channel Live at the US Open</title>
-    <desc lang="en">Coverage of the U.S. Open with highlights, analysis and interviews.</desc>
-    <date>2016</date>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p13186720_b_h10_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260908153000 +0000" stop="20260908180000 +0000">
-    <title lang="en">Miami-ATP</title>
-    <sub-title lang="en">2026 3rd Round</sub-title>
-    <desc lang="en">Carlos Alcaraz vs. Sebastian Korda.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p28548441_b_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260908180000 +0000" stop="20260908183000 +0000">
-    <title lang="en">ATP Tour This Week</title>
-    <date>2026</date>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33986332_b_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260908183000 +0000" stop="20260908213000 +0000">
-    <title lang="en">ATP Encore</title>
-    <desc lang="en">Jakub Mensik vs. Frances Tiafoe.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-    <category lang="en">Classic Sport Event</category>
-    <icon src="http://dtil.tmsimg.com/assets/p13385194_b_h8_ad.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E16</episode-num>
-    <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260908213000 +0000" stop="20260908230000 +0000">
-    <title lang="en">Miami-WTA</title>
-    <sub-title lang="en">2026 Quarterfinal 4</sub-title>
-    <desc lang="en">Hailey Baptiste vs. Aryna Sabalenka.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p29499864_b_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260908230000 +0000" stop="20260909020000 +0000">
-    <title lang="en">ATP Encore</title>
-    <desc lang="en">Arthur Fils (FRA) vs. Tommy Paul (USA).</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-    <category lang="en">Classic Sport Event</category>
-    <icon src="http://dtil.tmsimg.com/assets/p13385194_b_h8_ad.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E34</episode-num>
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVG</value>
+  <programme channel="AMC+.us2" start="20260912054500 +0000" stop="20260912071600 +0000">
+    <title lang="en">Sympathy for the Devil</title>
+    <desc lang="en">Forced to drive a mysterious passenger at gunpoint, a man finds himself in a high-stakes game of cat and mouse where nothing is as it seems.</desc>
+    <credits>
+      <actor>Nicolas Cage</actor>
+      <actor>Joel Kinnaman</actor>
+      <actor>Kaiwi Lyman</actor>
+      <director>Yuval Adler</director>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dtil.tmsimg.com/assets/p24534318_v_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />  <rating system="Alberta's Film Classification Board">
+      <value>14A</value>
     </rating>
-    <rating system="Canadian Parental Rating">
+    <rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="映倫">
       <value>G</value>
     </rating>
     <rating system="Régie du cinéma">
-      <value>G</value>
+      <value>13+</value>
     </rating>
   </programme>
-  <programme channel="Tennis.Channel.HD.us2" start="20260909020000 +0000" stop="20260909040000 +0000">
-    <title lang="en">Miami-ATP</title>
-    <sub-title lang="en">2026 Singles Final</sub-title>
-    <desc lang="en">Jiri Lehecka vs. Jannik Sinner.</desc>
+  <programme channel="AMC+.us2" start="20260912071600 +0000" stop="20260912085200 +0000">
+    <title lang="en">Neighborhood Watch</title>
+    <desc lang="en">Believing he witnessed an abduction, a young man turns to his next-door neighbor, a retired security guard, to help him find the missing woman.</desc>
+    <credits>
+      <actor>Jeffrey Dean Morgan</actor>
+      <actor>Jack Quaid</actor>
+      <actor>Malin Akerman</actor>
+      <director>Duncan Skiles</director>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dtil.tmsimg.com/assets/p28644600_v_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />  <rating system="Motion Picture Association">
+      <value>R</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260912085200 +0000" stop="20260912103000 +0000">
+    <title lang="en">Section 8</title>
+    <desc lang="en">A good kid in an awful situation and two cops near the bust of their careers cross paths when the kid falls witness to his father's death.</desc>
+    <credits>
+      <actor>Tavares Walker</actor>
+      <actor>Joe W Nowland</actor>
+      <actor>Rich Pintello</actor>
+      <director>Chad Hendricks</director>
+      <director>Tavares Walker</director>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p22513678_v_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="AMC+.us2" start="20260912103000 +0000" stop="20260912111300 +0000">
+    <title lang="en">The Walking Dead: Dead City</title>
+    <sub-title lang="en">Emigrants</sub-title>
+    <desc lang="en">Maggie, Negan and their new community receive an unexpected overflow of survivors.</desc>
+    <credits>
+      <actor>Lauren Cohan</actor>
+      <actor>Jeffrey Dean Morgan</actor>
+      <actor>Gaius Charles</actor>
+      <director>Daisy von Scherler Mayer</director>
+    </credits>
     <date>2026</date>
     <category lang="en">Series</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p28548441_b_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A18</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260912111300 +0000" stop="20260912115700 +0000">
+    <title lang="en">The Walking Dead: Dead City</title>
+    <sub-title lang="en">Found/Lost</sub-title>
+    <desc lang="en">Maggie and Luis look for valuable resources, while Negan and Renata protect the city.</desc>
+    <credits>
+      <actor>Lauren Cohan</actor>
+      <actor>Jeffrey Dean Morgan</actor>
+      <actor>Gaius Charles</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A18</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260912115700 +0000" stop="20260912124200 +0000">
+    <title lang="en">The Walking Dead: Dead City</title>
+    <sub-title lang="en">Imperialis</sub-title>
+    <desc lang="en">Maggie, Negan, Dillard and Renata go on a hunt to resupply their dwindling resources.</desc>
+    <credits>
+      <actor>Lauren Cohan</actor>
+      <actor>Jeffrey Dean Morgan</actor>
+      <actor>Gaius Charles</actor>
+      <director>Sylvain White</director>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E5</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A18</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260912124200 +0000" stop="20260912133300 +0000">
+    <title lang="en">The Walking Dead: Dead City</title>
+    <sub-title lang="en">Genesis</sub-title>
+    <desc lang="en">Maggie and Negan find themselves in different circumstances, wrestling with their purposes.</desc>
+    <credits>
+      <actor>Lauren Cohan</actor>
+      <actor>Jeffrey Dean Morgan</actor>
+      <actor>Gaius Charles</actor>
+      <director>Lauren Wolkstein</director>
+      <director>Michael E. Satrazemis</director>
+      <director>Gandja Monteiro</director>
+      <director>Sharat Raju</director>
+      <director>Sylvain White</director>
+      <director>Daisy von Scherler Mayer</director>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E6</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A18</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260912133300 +0000" stop="20260912141900 +0000">
+    <title lang="en">The Walking Dead: Dead City</title>
+    <sub-title lang="en">Hourglass</sub-title>
+    <desc lang="en">As Negan faces his fate, Maggie pleads with him to save the community.</desc>
+    <credits>
+      <actor>Lauren Cohan</actor>
+      <actor>Jeffrey Dean Morgan</actor>
+      <actor>Gaius Charles</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E7</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A18</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260912141900 +0000" stop="20260912151200 +0000">
+    <title lang="en">The Walking Dead: Dead City</title>
+    <sub-title lang="en">Trillium</sub-title>
+    <desc lang="en">Maggie and Negan are caught in a treacherous situation that challenges their newfound alliance.</desc>
+    <credits>
+      <actor>Lauren Cohan</actor>
+      <actor>Jeffrey Dean Morgan</actor>
+      <actor>Gaius Charles</actor>
+      <director>Sharat Raju</director>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A18</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260912151200 +0000" stop="20260912160100 +0000">
+    <title lang="en">The Walking Dead: Dead City</title>
+    <sub-title lang="en">Haven</sub-title>
+    <desc lang="en">Maggie and Negan deal with old enemies and confront new challenges.</desc>
+    <credits>
+      <actor>Lauren Cohan</actor>
+      <actor>Jeffrey Dean Morgan</actor>
+      <actor>Gaius Charles</actor>
+      <director>Sharat Raju</director>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A18</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260912160100 +0000" stop="20260912164400 +0000">
+    <title lang="en">The Walking Dead: Dead City</title>
+    <sub-title lang="en">Emigrants</sub-title>
+    <desc lang="en">Maggie, Negan and their new community receive an unexpected overflow of survivors.</desc>
+    <credits>
+      <actor>Lauren Cohan</actor>
+      <actor>Jeffrey Dean Morgan</actor>
+      <actor>Gaius Charles</actor>
+      <director>Daisy von Scherler Mayer</director>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A18</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260912164400 +0000" stop="20260912172800 +0000">
+    <title lang="en">The Walking Dead: Dead City</title>
+    <sub-title lang="en">Found/Lost</sub-title>
+    <desc lang="en">Maggie and Luis look for valuable resources, while Negan and Renata protect the city.</desc>
+    <credits>
+      <actor>Lauren Cohan</actor>
+      <actor>Jeffrey Dean Morgan</actor>
+      <actor>Gaius Charles</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A18</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260912172800 +0000" stop="20260912181300 +0000">
+    <title lang="en">The Walking Dead: Dead City</title>
+    <sub-title lang="en">Imperialis</sub-title>
+    <desc lang="en">Maggie, Negan, Dillard and Renata go on a hunt to resupply their dwindling resources.</desc>
+    <credits>
+      <actor>Lauren Cohan</actor>
+      <actor>Jeffrey Dean Morgan</actor>
+      <actor>Gaius Charles</actor>
+      <director>Sylvain White</director>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E5</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A18</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260912181300 +0000" stop="20260912190400 +0000">
+    <title lang="en">The Walking Dead: Dead City</title>
+    <sub-title lang="en">Genesis</sub-title>
+    <desc lang="en">Maggie and Negan find themselves in different circumstances, wrestling with their purposes.</desc>
+    <credits>
+      <actor>Lauren Cohan</actor>
+      <actor>Jeffrey Dean Morgan</actor>
+      <actor>Gaius Charles</actor>
+      <director>Lauren Wolkstein</director>
+      <director>Michael E. Satrazemis</director>
+      <director>Gandja Monteiro</director>
+      <director>Sharat Raju</director>
+      <director>Sylvain White</director>
+      <director>Daisy von Scherler Mayer</director>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E6</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A18</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260912190400 +0000" stop="20260912195000 +0000">
+    <title lang="en">The Walking Dead: Dead City</title>
+    <sub-title lang="en">Hourglass</sub-title>
+    <desc lang="en">As Negan faces his fate, Maggie pleads with him to save the community.</desc>
+    <credits>
+      <actor>Lauren Cohan</actor>
+      <actor>Jeffrey Dean Morgan</actor>
+      <actor>Gaius Charles</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E7</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A18</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260912195000 +0000" stop="20260912204300 +0000">
+    <title lang="en">The Walking Dead: Dead City</title>
+    <sub-title lang="en">Trillium</sub-title>
+    <desc lang="en">Maggie and Negan are caught in a treacherous situation that challenges their newfound alliance.</desc>
+    <credits>
+      <actor>Lauren Cohan</actor>
+      <actor>Jeffrey Dean Morgan</actor>
+      <actor>Gaius Charles</actor>
+      <director>Sharat Raju</director>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A18</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260912204300 +0000" stop="20260912213200 +0000">
+    <title lang="en">The Walking Dead: Dead City</title>
+    <sub-title lang="en">Haven</sub-title>
+    <desc lang="en">Maggie and Negan deal with old enemies and confront new challenges.</desc>
+    <credits>
+      <actor>Lauren Cohan</actor>
+      <actor>Jeffrey Dean Morgan</actor>
+      <actor>Gaius Charles</actor>
+      <director>Sharat Raju</director>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A18</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260912213200 +0000" stop="20260912221500 +0000">
+    <title lang="en">The Walking Dead: Dead City</title>
+    <sub-title lang="en">Emigrants</sub-title>
+    <desc lang="en">Maggie, Negan and their new community receive an unexpected overflow of survivors.</desc>
+    <credits>
+      <actor>Lauren Cohan</actor>
+      <actor>Jeffrey Dean Morgan</actor>
+      <actor>Gaius Charles</actor>
+      <director>Daisy von Scherler Mayer</director>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A18</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260912221500 +0000" stop="20260912225900 +0000">
+    <title lang="en">The Walking Dead: Dead City</title>
+    <sub-title lang="en">Found/Lost</sub-title>
+    <desc lang="en">Maggie and Luis look for valuable resources, while Negan and Renata protect the city.</desc>
+    <credits>
+      <actor>Lauren Cohan</actor>
+      <actor>Jeffrey Dean Morgan</actor>
+      <actor>Gaius Charles</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A18</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260912225900 +0000" stop="20260912234400 +0000">
+    <title lang="en">The Walking Dead: Dead City</title>
+    <sub-title lang="en">Imperialis</sub-title>
+    <desc lang="en">Maggie, Negan, Dillard and Renata go on a hunt to resupply their dwindling resources.</desc>
+    <credits>
+      <actor>Lauren Cohan</actor>
+      <actor>Jeffrey Dean Morgan</actor>
+      <actor>Gaius Charles</actor>
+      <director>Sylvain White</director>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E5</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A18</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260912234400 +0000" stop="20260913003500 +0000">
+    <title lang="en">The Walking Dead: Dead City</title>
+    <sub-title lang="en">Genesis</sub-title>
+    <desc lang="en">Maggie and Negan find themselves in different circumstances, wrestling with their purposes.</desc>
+    <credits>
+      <actor>Lauren Cohan</actor>
+      <actor>Jeffrey Dean Morgan</actor>
+      <actor>Gaius Charles</actor>
+      <director>Lauren Wolkstein</director>
+      <director>Michael E. Satrazemis</director>
+      <director>Gandja Monteiro</director>
+      <director>Sharat Raju</director>
+      <director>Sylvain White</director>
+      <director>Daisy von Scherler Mayer</director>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E6</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A18</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260913003500 +0000" stop="20260913012100 +0000">
+    <title lang="en">The Walking Dead: Dead City</title>
+    <sub-title lang="en">Hourglass</sub-title>
+    <desc lang="en">As Negan faces his fate, Maggie pleads with him to save the community.</desc>
+    <credits>
+      <actor>Lauren Cohan</actor>
+      <actor>Jeffrey Dean Morgan</actor>
+      <actor>Gaius Charles</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E7</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A18</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260913012100 +0000" stop="20260913021400 +0000">
+    <title lang="en">The Walking Dead: Dead City</title>
+    <sub-title lang="en">Trillium</sub-title>
+    <desc lang="en">Maggie and Negan are caught in a treacherous situation that challenges their newfound alliance.</desc>
+    <credits>
+      <actor>Lauren Cohan</actor>
+      <actor>Jeffrey Dean Morgan</actor>
+      <actor>Gaius Charles</actor>
+      <director>Sharat Raju</director>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E1</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A18</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260913021400 +0000" stop="20260913030300 +0000">
+    <title lang="en">The Walking Dead: Dead City</title>
+    <sub-title lang="en">Haven</sub-title>
+    <desc lang="en">Maggie and Negan deal with old enemies and confront new challenges.</desc>
+    <credits>
+      <actor>Lauren Cohan</actor>
+      <actor>Jeffrey Dean Morgan</actor>
+      <actor>Gaius Charles</actor>
+      <director>Sharat Raju</director>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E2</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A18</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260913030300 +0000" stop="20260913034600 +0000">
+    <title lang="en">The Walking Dead: Dead City</title>
+    <sub-title lang="en">Emigrants</sub-title>
+    <desc lang="en">Maggie, Negan and their new community receive an unexpected overflow of survivors.</desc>
+    <credits>
+      <actor>Lauren Cohan</actor>
+      <actor>Jeffrey Dean Morgan</actor>
+      <actor>Gaius Charles</actor>
+      <director>Daisy von Scherler Mayer</director>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A18</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260913034600 +0000" stop="20260913043000 +0000">
+    <title lang="en">The Walking Dead: Dead City</title>
+    <sub-title lang="en">Found/Lost</sub-title>
+    <desc lang="en">Maggie and Luis look for valuable resources, while Negan and Renata protect the city.</desc>
+    <credits>
+      <actor>Lauren Cohan</actor>
+      <actor>Jeffrey Dean Morgan</actor>
+      <actor>Gaius Charles</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A18</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="AMC+.us2" start="20260913043000 +0000" stop="20260913051500 +0000">
+    <title lang="en">The Walking Dead: Dead City</title>
+    <sub-title lang="en">Imperialis</sub-title>
+    <desc lang="en">Maggie, Negan, Dillard and Renata go on a hunt to resupply their dwindling resources.</desc>
+    <credits>
+      <actor>Lauren Cohan</actor>
+      <actor>Jeffrey Dean Morgan</actor>
+      <actor>Gaius Charles</actor>
+      <director>Sylvain White</director>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33079297_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E5</episode-num>
+    <previously-shown />  <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A18</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+  </programme>
   <programme channel="Tennis.Channel.HD.us2" start="20260909040000 +0000" stop="20260909100000 +0000">
     <title lang="en">US Open ENCORE</title>
     <desc lang="en">Revisit action from the U.S. Open tennis tournament.</desc>
@@ -5893,22 +6149,14 @@
     <premiere lang="en" />
   </programme>
   <programme channel="Tennis.Channel.HD.us2" start="20260909153000 +0000" stop="20260909183000 +0000">
-    <title lang="en">Roland Garros Encore</title>
-    <desc lang="en">Madison Keys (USA) vs. Victoria Mboko (CAN).</desc>
+    <title lang="en">ATP Encore</title>
+    <desc lang="en">Tommy Paul vs. Frances Tiafoe.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Classic Sport Event</category>
     <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p18168270_b_h8_ac.jpg?w=960&amp;h=540" />
-    <previously-shown />  <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating>
-  </programme>
+    <category lang="en">Classic Sport Event</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13385194_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E25</episode-num>
+    <previously-shown /></programme>
   <programme channel="Tennis.Channel.HD.us2" start="20260909183000 +0000" stop="20260909213000 +0000">
     <title lang="en">ATP Encore</title>
     <desc lang="en">Roman Burruchaga vs. Tommy Paul.</desc>
@@ -6124,6 +6372,77 @@
     <icon src="http://dtil.tmsimg.com/assets/p18270743_b_h8_ac.jpg?w=960&amp;h=540" />
     <previously-shown /></programme>
   <programme channel="Tennis.Channel.HD.us2" start="20260912020000 +0000" stop="20260912080000 +0000">
+    <title lang="en">US Open ENCORE</title>
+    <desc lang="en">Revisit action from the U.S. Open tennis tournament.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <category lang="en">Classic Sport Event</category>
+    <icon src="http://dtil.tmsimg.com/assets/p21247676_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260912080000 +0000" stop="20260912100000 +0000">
+    <title lang="en">US Open ENCORE</title>
+    <desc lang="en">Revisit action from the U.S. Open tennis tournament.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <category lang="en">Classic Sport Event</category>
+    <icon src="http://dtil.tmsimg.com/assets/p21247676_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260912100000 +0000" stop="20260912130000 +0000">
+    <title lang="en">US Open ENCORE</title>
+    <desc lang="en">Revisit action from the U.S. Open tennis tournament.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <category lang="en">Classic Sport Event</category>
+    <icon src="http://dtil.tmsimg.com/assets/p21247676_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260912130000 +0000" stop="20260912153000 +0000">
+    <title lang="en">Tennis Channel Live at the US Open</title>
+    <desc lang="en">Coverage of the U.S. Open with highlights, analysis and interviews.</desc>
+    <date>2016</date>
+    <category lang="en">Tennis</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13186720_b_h10_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260912153000 +0000" stop="20260912170000 +0000">
+    <title lang="en">2026 Cincinnati Open Tennis</title>
+    <desc lang="en">Coco Gauff vs. Jessica Pegula.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33188385_b_h8_ac.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260912170000 +0000" stop="20260912180000 +0000">
+    <title lang="en">Laver Cup Review Show</title>
+    <sub-title lang="en">2025 Laver Cup</sub-title>
+    <desc lang="en">Tennis highlights from the Laver Cup event.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dtil.tmsimg.com/assets/p31024441_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260912180000 +0000" stop="20260912230000 +0000">
+    <title lang="en">Australian Open Encore</title>
+    <desc lang="en">Carlos Alcaraz vs. Alexander Zverev.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Classic Sport Event</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18270743_b_h8_ac.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260912230000 +0000" stop="20260913000000 +0000">
+    <title lang="en">Tennis Channel Live at the US Open</title>
+    <desc lang="en">Coverage of the U.S. Open with highlights, analysis and interviews.</desc>
+    <date>2016</date>
+    <category lang="en">Tennis</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13186720_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260913000000 +0000" stop="20260913040000 +0000">
+    <title lang="en">US Open ENCORE</title>
+    <desc lang="en">Revisit action from the U.S. Open tennis tournament.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <category lang="en">Classic Sport Event</category>
+    <icon src="http://dtil.tmsimg.com/assets/p21247676_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Tennis.Channel.HD.us2" start="20260913040000 +0000" stop="20260913100000 +0000">
     <title lang="en">US Open ENCORE</title>
     <desc lang="en">Revisit action from the U.S. Open tennis tournament.</desc>
     <category lang="en">Sports</category>
